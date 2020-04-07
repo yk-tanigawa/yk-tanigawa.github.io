@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yosuke Tanigawa's Website (under construction)"
+title                    : "Yosuke Tanigawa"
 title_separator          : "-"
 name                     : &name "Yosuke Tanigawa"
 description              : &description "Ph.D. candidate at Stanford University"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yosuke Tanigawa"
-  avatar           : "profile.png"
+  avatar           : "profile_yt_2019.jpg"
   bio              : "Ph.D. candidate in Biomedical Informatics, studying population genomics"
   location         : "Stanford, CA, U.S.A."
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tanigawa%2C%20Yosuke%5BFull%20Author%20Name%5D"
   googlescholar    : "https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en"
-  email            :
+  email            : "yosuke <dot> tanigawa [at] stanford <dot> edu"
   researchgate     : "https://www.researchgate.net/profile/Yosuke_Tanigawa"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/0000-0001-9759-157X"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yosuke-tanigawa"
   orcid            : "https://orcid.org/0000-0001-9759-157X"

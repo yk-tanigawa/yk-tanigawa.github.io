@@ -1,18 +1,17 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Yosuke Tanigawa:
+  name             : "Yosuke Tanigawa"
+  uri              : "https://yosuketanigawa.com"
+  email            : "yosuke <dot> tanigawa [at] stanford <dot> edu"
+  bio              : "Ph.D. candidate in Biomedical Informatics, studying population genomics"
+  avatar           : "profile_yt_2019.jpg"
+  location         : "Stanford, CA, U.S.A."
+  twitter          : "yk_tani"
+  orcid            : "https://orcid.org/0000-0001-9759-157X"
+  googlescholar    : "https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tanigawa%2C%20Yosuke%5BFull%20Author%20Name%5D"
+  researchgate     : "https://www.researchgate.net/profile/Yosuke_Tanigawa"
+  github           : "yk-tanigawa"
+  linkedin         : "https://www.linkedin.com/in/yosuke-tanigawa"
+  
