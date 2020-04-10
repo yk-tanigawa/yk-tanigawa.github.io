@@ -8,4 +8,4 @@ date: 2018-04-01
 location: "Stanford, CA, U.S.A."
 ---
 
-I was a teaching assistant for a graduate-level class, BIODS215: Topics in Biomedical Data Science, Large-scale inference. I taught a section on "Reproducible large-scale inference", hosted office hours, maintained [the class website](https://biods215.github.io/class_website/2018.html), and graded the assignments.
+I was a teaching assistant for a graduate-level class, BIODS215: Topics in Biomedical Data Science, Large-scale inference. I taught a section on "Data visualization", hosted office hours, maintained [the class website](https://biods215.github.io/class_website/2018.html), and graded the assignments.
