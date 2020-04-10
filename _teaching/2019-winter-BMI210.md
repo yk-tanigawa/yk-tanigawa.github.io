@@ -1,4 +1,4 @@
- ---
+---
 title: "[TA]  BIOMEDIN 210: Modeling Biomedical Systems: Ontology, Terminology, Problem Solving (CS 270)"
 collection: teaching
 type: "Graduate course"
