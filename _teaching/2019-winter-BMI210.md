@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2019-winter-BMI210
 venue: "Stanford University, Department of Biomedical Data Science"
-date: 2018-01-01
+date: 2019-01-01
 location: "Stanford, CA, U.S.A."
 ---
 
