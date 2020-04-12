@@ -20,4 +20,5 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 - 2020/4/6: Yosuke migrated his website from [his previous website](https://sites.google.com/site/yktanigawa/home).
 - 2020/3/27: Our [preprint](https://doi.org/10.20944/preprints202003.0356.v1) was [mentioned in a news article in Science](https://doi.org/10.1126/science.abb9192).
 - 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](https://doi.org/10.20944/preprints202003.0356.v1).
-- 2020/3/17: Yosuke released GitHub repository for [COVID-19 Host Genetics analysis](https://github.com/rivas-lab/covid19). As a part of [COVID-19 Host Genetics Initiative](https://covid19hg.netlify.com/), Yosuke and his colleagues in [the Rivas](http://med.stanford.edu/rivaslab/) investigates **the genetic basis** of **COVID-19 susceptibility and severity**.
+- 2020/3/17: **New Resource**. 
+Yosuke and his colleagues in [the Rivas Lab](http://med.stanford.edu/rivaslab/) investigates **the genetic basis** of **COVID-19 susceptibility and severity**, as a part of [COVID-19 Host Genetics Initiative](https://covid19hg.netlify.com/). We released GitHub repository for [COVID-19 Host Genetics analysis](https://github.com/rivas-lab/covid19).
