@@ -14,9 +14,20 @@ He is currently working with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab
 
 Please check [CV](cv), [Publications](publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints.
 
+## Research interests
+
+- Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
+  - [Y. Tanigawa*, J. Li*, et al., Nat Commun. 10, 1–14 (2019)](https://doi.org/10.1038/s41467-019-11953-9).
+  - [McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/bty999).
+- Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
+  - [J. Qian, W. Du, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](https://doi.org/10.1101/630079).
+- Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
+  - [Y. Tanigawa*, E. S. Dyer*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
+
 ## News
 
-- 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author.
+- 2020/4/12: [日本語のプロフィールページ](/about_jp)を開設しました。(He created a **Japanese version** of the landing page.)
+- 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. Congratulations, Christopher!!
 - 2020/4/6: Yosuke migrated his website from [his previous website](https://sites.google.com/site/yktanigawa/home).
 - 2020/3/27: Our [preprint](https://doi.org/10.20944/preprints202003.0356.v1) was [mentioned in a news article in Science](https://doi.org/10.1126/science.abb9192).
 - 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](https://doi.org/10.20944/preprints202003.0356.v1).
