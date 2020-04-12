@@ -31,7 +31,7 @@ redirect_from:
 - Genomic analysis
 - Statistical genetics -->
 
-## Publications
+## Publications and Preprints
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

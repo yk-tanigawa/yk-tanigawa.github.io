@@ -2,7 +2,6 @@
 title: "[Preprint] Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"
 collection: publications
 permalink: /publication/preprint-2020-03-24-covid19
-ispreprint: "True"
 ispublishedpreprint: "False"
 excerpt: 
 date: 2020-03-24

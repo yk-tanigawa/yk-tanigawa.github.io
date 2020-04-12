@@ -15,6 +15,16 @@ author_profile: true
   You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## Preprints
+
+{% for post in site.publications reversed %}
+  {% if post.permalink contains 'preprint' %}
+      {% include archive-single.html %} 
+  {% endif %}
+{% endfor %}
+
+## Peer-reviewed publications
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
