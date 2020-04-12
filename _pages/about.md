@@ -22,3 +22,10 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 - 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](https://doi.org/10.20944/preprints202003.0356.v1).
 - 2020/3/17: **New Resource**. 
 Yosuke and his colleagues in [the Rivas Lab](http://med.stanford.edu/rivaslab/) investigates **the genetic basis** of **COVID-19 susceptibility and severity**, as a part of [COVID-19 Host Genetics Initiative](https://covid19hg.netlify.com/). We released GitHub repository for [COVID-19 Host Genetics analysis](https://github.com/rivas-lab/covid19).
+
+## Contact
+
+Email is the best contact to reach out to me. If you don't get reply within 2 days, please don't hesitate to follow-up. Thank you very much for interested in my work.
+
+- Email: `yosuke <dot> tanigawa [at] stanford <dot> edu`
+- Social media accounts can be found on the left (for PC) or "Follow" button on the top (for smartphone).
