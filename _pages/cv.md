@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 ## Education
 
 - B.S. in Bioinformatics and Systems Biology, University of Tokyo, Japan, 2016
@@ -33,9 +37,29 @@ redirect_from:
 
 ## Publications and Preprints
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% if author.googlescholar %}
+  You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+### Preprints
+
+{% for post in site.publications reversed %}
+  {% if post.permalink contains 'preprint' %}
+    {% if post.ispublishedpreprint %}
+    {% else %}    
+      {% include archive-single.html %}
+    {% endif %}      
+  {% endif %}
+{% endfor %}
+
+### Peer-reviewed publications
+
+{% for post in site.publications reversed %}
+  {% if post.permalink contains 'preprint' %}
+  {% else %}
+      {% include archive-single.html %} 
+  {% endif %}
+{% endfor %}
     
 ## Teaching
 

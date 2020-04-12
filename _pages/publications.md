@@ -19,7 +19,10 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.permalink contains 'preprint' %}
-      {% include archive-single.html %} 
+    {% if post.ispublishedpreprint %}
+    {% else %}    
+      {% include archive-single.html %}
+    {% endif %}      
   {% endif %}
 {% endfor %}
 
