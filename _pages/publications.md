@@ -26,5 +26,8 @@ author_profile: true
 ## Peer-reviewed publications
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.permalink contains 'preprint' %}
+  {% else %}
+      {% include archive-single.html %} 
+  {% endif %}
 {% endfor %}
