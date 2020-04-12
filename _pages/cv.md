@@ -51,7 +51,7 @@ redirect_from:
 
 ## Service and leadership
 
-- Symposium Organizer, Biomedical Computation at Stanford (BCATS) 2018
+- Symposium Organizer, [Biomedical Computation at Stanford (BCATS)](http://bcats.stanford.edu/) 2018
 - Teacher, Stanford Splash (outreach opportunity), 2018-
 - Seminar series organizer, Life Science in Japan (LSJ) 2017-
 - Member (2016-) and Officer (2018-), Stanford Japanese Association (SJA)
