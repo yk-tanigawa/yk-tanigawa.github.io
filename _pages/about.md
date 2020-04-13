@@ -27,10 +27,10 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 ## News
 
 - 2020/4/12: [日本語のプロフィールページ](/about_jp)を開設しました。(He created a **Japanese version** of the landing page.)
-- 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. Congratulations, Christopher!!
+- 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. Congratulations, Chris!!
 - 2020/4/6: Yosuke migrated his website from [his previous website](https://sites.google.com/site/yktanigawa/home).
-- 2020/3/27: Our [preprint](https://doi.org/10.20944/preprints202003.0356.v1) was [mentioned in a news article in Science](https://doi.org/10.1126/science.abb9192).
-- 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](https://doi.org/10.20944/preprints202003.0356.v1).
+- 2020/3/27: Our [preprint on COVID-19 host genetic analysis](https://doi.org/10.20944/preprints202003.0356.v1) was [mentioned in a news article in Science](https://doi.org/10.1126/science.abb9192).
+- 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](/publication/preprint-2020-03-24-covid19).
 - 2020/3/17: **New Resource**. 
 Yosuke and his colleagues in [the Rivas Lab](http://med.stanford.edu/rivaslab/) investigates **the genetic basis** of **COVID-19 susceptibility and severity**, as a part of [COVID-19 Host Genetics Initiative](https://covid19hg.netlify.com/). We released GitHub repository for [COVID-19 Host Genetics analysis](https://github.com/rivas-lab/covid19).
 
