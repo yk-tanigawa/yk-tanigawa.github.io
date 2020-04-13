@@ -17,12 +17,12 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 ## Research interests
 
 - Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
-  - [Y. Tanigawa*, J. Li*, et al., Nat Commun. 10, 1–14 (2019)](https://doi.org/10.1038/s41467-019-11953-9).
+  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 1–14 (2019)](https://doi.org/10.1038/s41467-019-11953-9).
   - [McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/bty999).
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
   - [J. Qian, W. Du, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](https://doi.org/10.1101/630079).
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
-  - [Y. Tanigawa*, E. S. Dyer*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
 
 ## News
 

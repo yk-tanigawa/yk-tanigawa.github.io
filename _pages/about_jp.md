@@ -1,5 +1,5 @@
 ---
-permalink: /about_jp
+permalink: /about_jp/
 title: "プロフィール"
 excerpt: "日本語のプロフィール"
 author_profile: true
@@ -7,6 +7,8 @@ redirect_from:
   - "/jp/"
   - "/jp.html"
 ---
+
+This page written in my native language, Japanese, and should contain the same information as in the other sections of this website.
 
 はじめまして，[スタンフォード大学](https://www.stanford.edu/)の[Biomedical Informatics program](https://med.stanford.edu/bmi.html) の博士候補生の谷川洋介と申します。現在，[Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/)と[Dr. Gill Bejerano](http://bejerano.stanford.edu/)の両先生のご指導のもと，統計遺伝学や大規模ゲノミクスの研究に従事しています。
 
@@ -22,14 +24,14 @@ redirect_from:
 ## 主な研究内容
 
 - **統計遺伝学** の手法を用いた，ヒトゲノムの研究（とくに，バイオバンクを用いた，解析手法の開発と応用に興味を持っています）
-  - [Y. Tanigawa*, J. Li*, et al., Nat Commun. 10, 1–14 (2019)](https://doi.org/10.1038/s41467-019-11953-9).
+  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 1–14 (2019)](https://doi.org/10.1038/s41467-019-11953-9).
   - [McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/bty999).
 - ヒトゲノム研究への応用を見据えた，**大規模データ**のための**統計解析手法**の開発
   - [J. Qian, W. Du, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](https://doi.org/10.1101/630079).
 - ヒトゲノムに含まれる，非コード領域の機能の解析（とくに，**転写因子**のはたらきに興味を持っています）
-  - [Y. Tanigawa*, E. S. Dyer*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
 
-## 受賞歴等
+## 主な受賞歴等
 
 - 2017, 2018, 2019年  Stanford University. Biosciences office of the graduate education travel grant 採択
 - 2016年7月  The Helmsley Charitable Trust, Helmsley Interdisciplinary Fellowship 採択
@@ -46,7 +48,7 @@ redirect_from:
 ## 連絡先
 
 私の活動内容に興味を持っていただき，ありがとうございます。
-電子メールが，もっとも確実な連絡手段です。下記のアドレスに，所属とお名前を明らかにして，ご連絡ください。
+下記の電子メールアドレスに，所属とお名前を明らかにして，ご連絡ください。
 2日間以内に返信がない場合は，お手数ですが，再度連絡をいただければ幸いです。
 
 - Email: `yosuke <dot> tanigawa [at] stanford <dot> edu`
