@@ -45,6 +45,10 @@ This page written in my native language, Japanese, and should contain the same i
 
 学修・研究活動への様々なご支援に，深く感謝します。ありがとうございます。
 
+## このウェブサイトにある日本語のコンテンツ
+
+- [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)
+
 ## 連絡先
 
 私の活動内容に興味を持っていただき，ありがとうございます。

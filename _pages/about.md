@@ -26,6 +26,7 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 
 ## News
 
+- 2020/4/12: [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)と題した研究紹介記事を書きました。Yosuke also wrote [a brief summary of this COVID-19 related research activities in Japanese](/posts/2020/04/COVID-19-hg-jp/).
 - 2020/4/12: [日本語のプロフィールページ](/about_jp)を開設しました。(He created a **Japanese version** of the landing page.)
 - 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. Congratulations, Chris!!
 - 2020/4/6: Yosuke migrated his website from [his previous website](https://sites.google.com/site/yktanigawa/home).
