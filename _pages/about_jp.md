@@ -8,7 +8,7 @@ redirect_from:
   - "/jp.html"
 ---
 
-This page written in my native language, Japanese, and should contain the same information as in the other sections of this website.
+This page is written in my native language, Japanese, and should contain the same information as in the other sections of this website.
 
 はじめまして，[スタンフォード大学](https://www.stanford.edu/)の [Biomedical Informatics program](https://med.stanford.edu/bmi.html) の博士候補生の谷川洋介と申します。現在，[Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/)と [Dr. Gill Bejerano](http://bejerano.stanford.edu/) の両先生のご指導のもと，統計遺伝学や大規模ゲノミクスの研究に従事しています。
 
