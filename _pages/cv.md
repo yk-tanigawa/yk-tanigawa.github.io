@@ -15,8 +15,10 @@ redirect_from:
 
 ## Education
 
-- B.S. in Bioinformatics and Systems Biology, University of Tokyo, Japan, 2016
-- Ph.D candidate in Biomedical Informatics, Stanford University, (2016-present)
+- Ph.D candidate in [Biomedical Informatics](http://med.stanford.edu/bmi.html), Stanford University, (2016-present)
+  - Research advisors: [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/)
+- B.S. in [Bioinformatics and Systems Biology](https://www.s.u-tokyo.ac.jp/en/departments/undergraduate/bioinfo.html), University of Tokyo, Japan, 2016
+  - Research advisor: [Dr. Shinichi Morishita](https://mlab.cb.k.u-tokyo.ac.jp/en/)
 
 <!-- ## Work experience
 
