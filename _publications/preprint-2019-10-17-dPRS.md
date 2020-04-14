@@ -6,6 +6,6 @@ excerpt:
 date: 2019-10-17
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/808675'
-citation: 'M. Aguirre, Y. Tanigawa, G. Venkataraman, R. j Tibshirani, T. Hastie, M. A. Rivas, Polygenic risk modeling with latent trait-related genetic components. bioRxiv, 808675 (2019).'
+citation: 'M. Aguirre, Y. Tanigawa, G. Venkataraman, R. J. Tibshirani, T. Hastie, M. A. Rivas, Polygenic risk modeling with latent trait-related genetic components. bioRxiv, 808675 (2019).'
 ---
 <!-- ispublishedpreprint: "True" -->
