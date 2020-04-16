@@ -1,5 +1,5 @@
 ---
-title: "[Preprint] FCardiac imaging of aortic valve area from 26,142 UK Biobank participants reveal novel genetic associations and shared genetic comorbidity with multiple disease phenotypes"
+title: "[Preprint] Cardiac imaging of aortic valve area from 26,142 UK Biobank participants reveal novel genetic associations and shared genetic comorbidity with multiple disease phenotypes"
 collection: publications
 permalink: /publication/preprint-2020-04-14-aortic-valve
 excerpt: 
