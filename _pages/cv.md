@@ -78,9 +78,9 @@ redirect_from:
 ## Service and leadership
 
 - Symposium Organizer, [Biomedical Computation at Stanford (BCATS)](http://bcats.stanford.edu/) 2018
-- Teacher, Stanford Splash (outreach opportunity), 2018-
-- Seminar series organizer, Life Science in Japan (LSJ) 2017-
-- Member (2016-) and Officer (2018-), Stanford Japanese Association (SJA)
+- Teacher, [Stanford Splash (outreach opportunity)](https://www.stanfordesp.org/), 2018-
+- Seminar series organizer, [Life Science in Japan (LSJ)](https://lsjapan.exblog.jp/) 2017-
+- Member (2016-) and Officer (2018-), [Stanford Japanese Association (SJA)](http://sja.stanford.edu/eng_about.html)
 - Member, The Japanese Graduate Student Association in the United States (2016-)
   - We have information sessions in Japanese top schools to promote students to study abroad
-- Member (2012-2016) and Chair (2012-2013), Piano Society at the University of Tokyo
+- Member (2012-2016) and Chair (2012-2013), [Piano Society at University of Tokyo](https://www.p-kai.net/)
