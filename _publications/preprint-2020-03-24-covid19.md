@@ -18,6 +18,22 @@ As a part of [the COVID-19 Host Genetics Initiative](https://covid19hg.netlify.c
 
 This preprint is a brief description of our activities. We demonstrate the relevance of our genetic resources for analysis of the host genetics of COVID-19.
 
+## FAQ
+
+### Q1. How can I find p-values for each variant in PRS models
+
+### A1. Our PRS is constructed via multivariate model
+
+Unlike GWAS, our PRS model does not explicitly perform univariate testing, rather, we fit multivariate models.
+The genetic variants with non-zero BETAs are selected using our validation dataset.
+This means that each variant does not come with a p-value. Please check our preprint[1] for more details of our snpnet PRS procedure.
+
+Another caveat is that our procedure does not contain some computation equivalent to fine-mapping.Still, one can interpret the genetic variants with non-zero BETAs (or its LD proxy) as the ones informative ones for polygenic prediction.
+
+- 1. J. Qian, W. Du, Y. Tanigawa, M. Aguirre, R. Tibshirani, M. A. Rivas, T. Hastie, A Fast and Flexible Algorithm for Solving the Lasso in Large-scale and Ultrahigh-dimensional Problems. bioRxiv, 630079 (2019). https://doi.org/10.1101/630079
+
+## Related page
+
 Yosuke also wrote [a brief summary of this COVID-19 related research activities in Japanese](/posts/2020/04/COVID-19-hg-jp/).
 
 この研究に関して，[日本語での簡単な紹介記事](/posts/2020/04/COVID-19-hg-jp/)を書きました。
