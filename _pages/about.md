@@ -21,6 +21,7 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
   - [G. McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/bty999).
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
   - [J. Qian, W. Du, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](https://doi.org/10.1101/630079).
+  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020)](https://doi.org/10.1101/2020.05.30.125252).
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
 
