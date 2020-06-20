@@ -48,9 +48,9 @@ redirect_from:
 {% for post in site.publications reversed %}
   {% if post.permalink contains 'preprint' %}
     {% if post.ispublishedpreprint %}
-    {% else %}    
+    {% else %}
       {% include archive-single.html %}
-    {% endif %}      
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -59,10 +59,10 @@ redirect_from:
 {% for post in site.publications reversed %}
   {% if post.permalink contains 'preprint' %}
   {% else %}
-      {% include archive-single.html %} 
+      {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-    
+
 ## Teaching
 
   <ul>{% for post in site.teaching reversed %}
