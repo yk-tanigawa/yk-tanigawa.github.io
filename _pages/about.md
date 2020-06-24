@@ -27,10 +27,14 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 
 ## News
 
+- 2020/6/25: **New Manuscripts**. We have several preprints from the Rivas lab. Yosuke is very excited to be part of those projects.
+  - ["Pervasive additive and non-additive effects within the HLA region contribute to disease risk in the UK Biobank"](/publication/preprint-2020-05-28-HLA)
+  - ["Large-Scale Sparse Regression for Multiple Responses with Applications to UK Biobank"](/publication/preprint-2020-05-30-SRRR)
+  - ["Fast Sparse-Group Lasso Method for Multi-response Cox Model with Applications to UK Biobank"](/publication/preprint-2020-06-22-mr-cox)
 - 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682). 2020/6/8 Update: This paper was highlighted as [Editors' Choice in Science](https://science.sciencemag.org/content/368/6494/twil)!
 - 2020/4/12: [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)と題した研究紹介記事を書きました。Yosuke also wrote [a brief summary of this COVID-19 related research activities in Japanese](/posts/2020/04/COVID-19-hg-jp/).
 - 2020/4/12: [日本語のプロフィールページ](/about_jp)を開設しました。(He created a **Japanese version** of the landing page.)
-- 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. We have a [share link that allows people to download the full text pdf file before June 26, 2020](https://authors.elsevier.com/c/1b166geWy1KZ). Congratulations, Chris!!
+- 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](/publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. We have a [share link that allows people to download the full text pdf file before June 26, 2020](https://authors.elsevier.com/c/1b166geWy1KZ). Congratulations, Chris!!
 - 2020/4/6: Yosuke migrated his website from [his previous website](https://sites.google.com/site/yktanigawa/home).
 - 2020/3/27: Our [preprint on COVID-19 host genetic analysis](https://doi.org/10.20944/preprints202003.0356.v1) was [mentioned in a news article in Science](https://doi.org/10.1126/science.abb9192).
 - 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](/publication/preprint-2020-03-24-covid19).
