@@ -27,6 +27,7 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 
 ## News
 
+- 2020/6/25: Yosuke's semi-annually report (in Japanese) to the Funai Foundation is [posted on their website](https://funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html). He wrote a short commentary on [the recent publication](publication/2020-05-05-ANGPTL7) as well as the increasingly important role of scientific communication in the context of the COVID-19.
 - 2020/6/25: **New Manuscripts**. We have several preprints from the Rivas lab. Yosuke is very excited to be part of those projects.
   - ["Pervasive additive and non-additive effects within the HLA region contribute to disease risk in the UK Biobank"](/publication/preprint-2020-05-28-HLA)
   - ["Large-Scale Sparse Regression for Multiple Responses with Applications to UK Biobank"](/publication/preprint-2020-05-30-SRRR)
