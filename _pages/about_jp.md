@@ -12,7 +12,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 はじめまして，[スタンフォード大学](https://www.stanford.edu/)の [Biomedical Informatics program](https://med.stanford.edu/bmi.html) の博士候補生の谷川洋介と申します。現在，[Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/)と [Dr. Gill Bejerano](http://bejerano.stanford.edu/) の両先生のご指導のもと，統計遺伝学や大規模ゲノミクスの研究に従事しています。
 
-履歴書は[CV](cv)に，研究成果の一覧は[Publications](publications)に掲載されています。可能な限り，最新の情報をウェブサイトに掲載するようにつとめていますが，万一更新が滞ってしまっている場合は，[Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ)の論文のリストもあわせてご参照いただければ幸いです。
+履歴書は[CV](/cv)に，研究成果の一覧は[Publications](/publications)に掲載されています。可能な限り，最新の情報をウェブサイトに掲載するようにつとめていますが，万一更新が滞ってしまっている場合は，[Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ)の論文のリストもあわせてご参照いただければ幸いです。
 
 ## 略歴
 
