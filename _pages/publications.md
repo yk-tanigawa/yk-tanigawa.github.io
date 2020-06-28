@@ -32,6 +32,10 @@ author_profile: true
 
 ## Preprints
 
+Preprints are preliminary reports of work that have not been certified by peer review.
+
+We welcome comments and feedback you may have.
+
 {% for post in site.publications reversed %}
   {% if post.permalink contains 'preprint' %}
     {% if post.ispublishedpreprint %}
