@@ -6,7 +6,7 @@ excerpt:
 date: 2020-06-21
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2020.06.21.163675'
-citation: 'Li, R. et al. Fast Sparse-Group Lasso Method for Multi-response Cox Model with Applications to UK Biobank. bioRxiv, 2020.06.21.163675 (2020).'
+citation: 'R. Li, Y. Tanigawa, J. M. Justesen, J. Taylor, T. Hastie, R. Tibshirani, M. A. Rivas, Fast Sparse-Group Lasso Method for Multi-response Cox Model with Applications to UK Biobank. bioRxiv, 2020.06.21.163675 (2020).'
 ---
 <!-- ispublishedpreprint: "True" -->
 
