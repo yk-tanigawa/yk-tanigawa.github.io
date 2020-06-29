@@ -3,7 +3,7 @@ title: "The DeGAs app in Global Biobank Engine"
 excerpt: "As a resource accompanying our recent publication, we provide an interactive web application so that users can test DeGAs (decomposition of genetic associations).<br/><img src='/images/500x300.png'>"
 collection: resources
 permalink: /resources/2019-DeGAs-app
-date: 2019-09-06
+date: 2019-09-05
 resource: 'The DeGAs app in Global Biobank Engine'
 paperurl: 'https://gbe.stanford.edu/degas'
 ---
