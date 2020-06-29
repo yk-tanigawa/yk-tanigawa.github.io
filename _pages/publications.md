@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+excerpt: "The list of publications is shown in the page. Please also check <a href='{{author.googlescholar}}' target='_blank'>my Google Scholar profile</a> for the latest information."
 permalink: /publications/
 author_profile: true
 ---

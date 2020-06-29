@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+excerpt: "<a href='https://docs.google.com/file/d/1I20FnZZEuHHqH9pAW6pi2qrs-H372rHM/view' target='_blank'>The pdf file of my CV</a> is shown."
 permalink: /cv/
 author_profile: true
 redirect_from:
