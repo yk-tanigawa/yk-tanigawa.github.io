@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>.
 {% endif %}
 
 ## Selected publications
