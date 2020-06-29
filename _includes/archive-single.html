@@ -60,7 +60,7 @@
       <p>Citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Citation: {{ post.citation }} </p>
-    {% if post.resource and post.paperurl %}
+    {% elsif post.resource and post.paperurl %}
       <p>Resource: {{ post.resource }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.resource %}
       <p>Resource: {{ post.resource }} </p>
