@@ -26,7 +26,7 @@ This page is written in my native language, Japanese, and should contain the sam
 - **統計遺伝学** の手法を用いた，ヒトゲノムの研究（とくに，バイオバンクを用いた，解析手法の開発と応用に興味を持っています）
   - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 1-14 (2019)](/publication/2019-09-06-DeGAs).
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020)](/publication/2020-05-05-ANGPTL7).
-  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](/publication/2018-12-05-GBE)
+  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](/publication/2018-12-05-GBE).
 - ヒトゲノム研究への応用を見据えた，**大規模データ**のための**統計解析手法**の開発
   - [J. Qian, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](/publication/preprint-2019-05-07-snpnet).
   - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020)](/publication/preprint-2020-05-30-SRRR).
