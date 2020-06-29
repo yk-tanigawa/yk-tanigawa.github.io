@@ -1,6 +1,7 @@
 ---
 title: "The DeGAs app in Global Biobank Engine"
-excerpt: "As a resource accompanying our recent publication, we provide an interactive web application so that users can test DeGAs (decomposition of genetic associations).<br/><img src='/files/2019/DeGAs-app-screenshot.png'>"
+excerpt: "As a resource accompanying our recent publication, we provide an interactive web application so that users can test DeGAs (decomposition of genetic associations)."
+excerpt_image: '/files/2019/DeGAs-app-screenshot.png'
 collection: resources
 permalink: /resources/2019-DeGAs-app
 date: 2019-09-06

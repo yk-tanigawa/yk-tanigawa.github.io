@@ -1,6 +1,7 @@
 ---
 title: "The datasets used in DeGAs paper"
-excerpt: "We provide datasets described in our DeGAs paper.<br/><img src='/files/2019/DeGAs-figshare-screenshot.png'>"
+excerpt: "We provide datasets described in our DeGAs paper."
+excerpt_image: '/files/2019/DeGAs-figshare-screenshot.png'
 collection: resources
 permalink: /resources/2019-DeGAs-data
 date: 2019-09-06

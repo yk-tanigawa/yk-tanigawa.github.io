@@ -1,6 +1,7 @@
 ---
 title: "The datasets used in ANGPTL7 paper"
-excerpt: "We provide datasets described in our ANGPTL7 paper.<br/><img src='/files/2020/ANGPTL7-figshare-screenshot.png'>"
+excerpt: "We provide datasets described in our ANGPTL7 paper."
+excerpt_image: '/files/2020/ANGPTL7-figshare-screenshot.png'
 collection: resources
 permalink: /resources/2019-ANGPTL7-data
 date: 2020-05-05

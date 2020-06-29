@@ -2,7 +2,8 @@
 title: "[Preprint] WhichTF is dominant in your open chromatin data?"
 collection: publications
 permalink: /publication/preprint-2019-08-20-whichtf
-excerpt: "To identify functionally important transcription factors (TFs), we developed WhichTF.<br/><img src='/files/2019/WhichTF-Fig1.png'>"
+excerpt: "To identify functionally important transcription factors (TFs), we developed WhichTF."
+excerpt_image: '/files/2019/WhichTF-Fig1.png'
 date: 2019-08-20
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/730200'

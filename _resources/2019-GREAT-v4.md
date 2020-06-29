@@ -1,6 +1,7 @@
 ---
 title: "Genomic Regions Enrichment of Annotations Tool (version 4)"
-excerpt: "We provide an update on Genomic Regions Enrichment of Annotations Tool (version 4) in the Bejerano lab.<br/><img src='/files/2019/GREAT-v4-screenshot.png'>"
+excerpt: "We provide an update on Genomic Regions Enrichment of Annotations Tool (version 4) in the Bejerano lab."
+excerpt_image: '/files/2019/GREAT-v4-screenshot.png'
 collection: resources
 permalink: /resources/2019-GREAT-v4
 date: 2019-08-19
