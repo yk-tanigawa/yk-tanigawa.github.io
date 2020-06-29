@@ -24,7 +24,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
   - [J. Qian, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](/publication/preprint-2019-05-07-snpnet).
   - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020)](/publication/preprint-2020-05-30-SRRR).
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)]/publication/preprint-2019-08-20-whichtf).
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)](/publication/preprint-2019-08-20-whichtf).
 
 ## News
 
