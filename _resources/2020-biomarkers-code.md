@@ -4,7 +4,7 @@ excerpt: "We provide analysis and visualization scripts used in our biomarker ma
 excerpt_image: '/files/2020/biomarkers-Fig2.jpg'
 collection: resources
 permalink: /resources/2020-biomarkers-code
-date: 2020-06-19
+date: 2020-06-23
 resource: 'The analysis and visualization scripts used in our biomarker manuscript from the Rivas lab'
 paperurl: 'https://github.com/rivas-lab/biomarkers'
 ---
