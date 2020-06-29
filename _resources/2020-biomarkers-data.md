@@ -4,7 +4,7 @@ excerpt: "We provide datasets described in our biomarker manuscript."
 excerpt_image: '/files/2020/biomarkers-figshare-screenshot.png'
 collection: resources
 permalink: /resources/2020-biomarkers-data
-date: 2019-06-19
+date: 2020-06-19
 resource: 'The supplementary datasets described in our biomarker manuscript'
 paperurl: 'https://doi.org/10.35092/yhjc.c.5043872.v1'
 citation: "Y. Tanigawa, N. Sinnott-Armstrong, C. Benner, and M. A. Rivas, Datasets described in 'Genetics of 35 blood and urine biomarkers in the UK Biobank'. National Institutes of Health. Collection. (2020)."
