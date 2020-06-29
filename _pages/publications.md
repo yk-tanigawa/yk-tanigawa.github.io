@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-excerpt: "The list of publications is shown in the page. Please also check <a href='{{author.googlescholar}}' target='_blank'>my Google Scholar profile</a> for the latest information."
+excerpt: "The list of publications is shown in the page. Please also check <a href='https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en' target='_blank'>my Google Scholar profile</a> for the latest information."
 permalink: /publications/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>.
+  You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}" target='_blank'>my Google Scholar profile</a></u>.
 {% endif %}
 
 ## Selected publications
