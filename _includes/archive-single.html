@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -51,24 +51,24 @@
         {% endif %}
 
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">      
+    <p class="archive__item-excerpt" itemprop="description">
       {% if site.read_more != 'enabled' %}
         {{ post.excerpt | markdownify }}
       {% else %}
         <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p>
       {% endif %}
-      {% if post.excerpt_image %}      
+      {% if post.excerpt_image %}
         <br/>
         {% if post.link %}
           <a href="{{ post.link }}">
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-        {% endif %}          
-          <img src="{{ post.url }}"></a>
+        {% endif %}
+          <img src="{{ post.excerpt_image }}"></a>
       {% endif %}
     </p>
     {% endif %}
-        
+
     {% if post.citation and post.paperurl %}
       <p>Citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
