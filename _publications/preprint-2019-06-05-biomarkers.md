@@ -3,6 +3,7 @@ title: "[Preprint] Genetics of 38 blood and urine biomarkers in the UK Biobank"
 collection: publications
 permalink: /publication/preprint-2019-06-05-biomarkers
 excerpt: "We characterized the genetics of 35 biomarkers in UK Biobank. We performed the association and fine-mapping analysis to prioritize the causal variants, constructed the polygenic risk score (PRS) models, and evaluated their medical relevance with causal inference and PRS-PheWAS. We demonstrate a new approach, called multi-PRS, to improve PRS by combining PRSs across traits."
+excerpt_image: '/files/2020/biomarkers-Fig2.jpg'
 date: 2019-06-05
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/660506'
@@ -12,4 +13,8 @@ citation: 'N. Sinnott-Armstrong*, Y. Tanigawa*, D. Amar, N. J. Mars, M. Aguirre,
 
 We characterized the genetics of 35 biomarkers in UK Biobank. We performed the association and fine-mapping analysis to prioritize the causal variants, constructed the polygenic risk score (PRS) models, and evaluated their medical relevance with causal inference and PRS-PheWAS. We demonstrate a new approach, called multi-PRS, to improve PRS by combining PRSs across traits.
 
+![Biomarkers Fuji plot](/files/2020/biomarkers-Fig2.jpg)
+
 [Supplementary Data](/resources/2020-biomarkers-data) described in this manuscript is available.
+
+[Analysis and visualization scripts](/resources/2020-biomarkers-code) used in this manuscript is available.

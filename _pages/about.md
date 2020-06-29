@@ -3,7 +3,7 @@ permalink: /
 title: "Home"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -12,18 +12,19 @@ Yosuke Tanigawa is a Ph.D. candidate in [Biomedical Informatics program](https:/
 
 He is currently working with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
 
-Please check [CV](cv), [Publications](publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints.
+Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints. Please also check [Resources](/resources) page for datasets, analysis and visualization scripts, and web applications from our research activities (mainly from [the Rivas lab](http://med.stanford.edu/rivaslab/) and [the Bejerano lab](http://bejerano.stanford.edu/)).
 
 ## Research interests
 
 - Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
-  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 1–14 (2019)](https://doi.org/10.1038/s41467-019-11953-9).
-  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](https://doi.org/10.1093/bioinformatics/bty999).
+  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 1-14 (2019)](/publication/2019-09-06-DeGAs).
+  - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020)](/publication/2020-05-05-ANGPTL7).
+  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](/publication/2018-12-05-GBE).
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
-  - [J. Qian, W. Du, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](https://doi.org/10.1101/630079).
-  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020)](https://doi.org/10.1101/2020.05.30.125252).
+  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](/publication/preprint-2019-05-07-snpnet).
+  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020)](/publication/preprint-2020-05-30-SRRR).
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)](https://doi.org/10.1101/730200).
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)]/publication/preprint-2019-08-20-whichtf).
 
 ## News
 
@@ -39,7 +40,7 @@ Please check [CV](cv), [Publications](publications), and/or [Google Scholar prof
 - 2020/4/6: Yosuke migrated his website from [his previous website](https://sites.google.com/site/yktanigawa/home).
 - 2020/3/27: Our [preprint on COVID-19 host genetic analysis](https://doi.org/10.20944/preprints202003.0356.v1) was [mentioned in a news article in Science](https://doi.org/10.1126/science.abb9192).
 - 2020/3/24: **New Manuscript**. Yosuke and Dr. Manuel Rivas posted a manuscript, titled ["Initial Review and Analysis of COVID-19 Host Genetics and Associated Phenotypes"](/publication/preprint-2020-03-24-covid19).
-- 2020/3/17: **New Resource**. 
+- 2020/3/17: **New Resource**.
 Yosuke and his colleagues in [the Rivas Lab](http://med.stanford.edu/rivaslab/) investigates **the genetic basis** of **COVID-19 susceptibility and severity**, as a part of [COVID-19 Host Genetics Initiative](https://covid19hg.netlify.com/). We released GitHub repository for [COVID-19 Host Genetics analysis](https://github.com/rivas-lab/covid19).
 
 ## Contact
