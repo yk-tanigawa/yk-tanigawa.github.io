@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Resources"
+    url: /resources/
+
   - title: "日本語"
     url: /about_jp/
     

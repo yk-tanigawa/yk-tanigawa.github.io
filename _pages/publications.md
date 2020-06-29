@@ -32,7 +32,7 @@ author_profile: true
 
 ## Preprints
 
-Preprints are preliminary reports of work that have not been certified by peer review.
+Preprints are provided for rapid sharing of the data, results, and knowledge among the scientific community and have not finished the peer-review process.
 
 We welcome comments and feedback you may have.
 
