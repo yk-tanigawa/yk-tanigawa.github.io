@@ -20,6 +20,7 @@ This page is written in my native language, Japanese, and should contain the sam
 - 2014年4月-2016年3月  東京大学 理学部 生物情報科学科 卒業
   - 卒業研究では，[森下真一先生](https://mlab.cb.k.u-tokyo.ac.jp/)にご指導いただきました
 - 2016年9月-現在  スタンフォード大学 Biomedical Informatics 博士課程
+  - 指導教員: [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) 先生, [Dr. Gill Bejerano](http://bejerano.stanford.edu/) 先生
 
 ## 主な研究内容
 
