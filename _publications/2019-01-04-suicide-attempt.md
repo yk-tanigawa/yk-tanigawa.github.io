@@ -3,6 +3,7 @@ title: "Significant shared heritability underlies suicide attempt and clinically
 collection: publications
 permalink: /publication/2019-01-04-suicide-attempt
 excerpt: ''
+excerpt_image: '/files/2019/suicide-attempt-Fig2.png'
 date: 2019-01-04
 venue: 'Molecular Psychiatry'
 paperurl: 'https://doi.org/10.1038/s41380-018-0326-8'
