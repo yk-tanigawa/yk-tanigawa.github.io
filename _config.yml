@@ -57,7 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "yk_tani"
+  card                   : "summary"
 facebook:
   username               :
   app_id                 :
@@ -69,6 +70,14 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/yk_tani"
+    - "https://www.linkedin.com/in/yosuke-tanigawa/"
+    - "https://github.com/yk-tanigawa"
+    - "https://orcid.org/0000-0001-9759-157X"
+    - "https://scholar.google.com/citations?user=9hVh3nQAAAAJ"
+    - "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tanigawa%2C%20Yosuke%5BFull%20Author%20Name%5D"
+    - "https://www.researchgate.net/profile/Yosuke_Tanigawa"
+    - "https://profiles.impactstory.org/u/0000-0001-9759-157X"
 
 
 # Analytics
@@ -78,43 +87,11 @@ analytics:
     tracking_id          :  "UA-66098659-2"
 
 
-# Site Author
+# Site Author -- configured in _data/authors.yml
+# please also check: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#author-information
 author:
-  name             : "Yosuke Tanigawa"
-  avatar           : "profile_yt_2019.jpg"
-  bio              : "Ph.D. candidate in Biomedical Informatics, studying population genomics"
-  location         : "Stanford, CA, U.S.A."
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Tanigawa%2C%20Yosuke%5BFull%20Author%20Name%5D"
-  googlescholar    : "https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en"
-  email            : "yosuke <dot> tanigawa [at] stanford <dot> edu"
-  researchgate     : "https://www.researchgate.net/profile/Yosuke_Tanigawa"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "yk-tanigawa"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : "https://profiles.impactstory.org/u/0000-0001-9759-157X"
-  lastfm           :
-  linkedin         : "yosuke-tanigawa"
-  orcid            : "https://orcid.org/0000-0001-9759-157X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "yk_tani"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  - "YosukeTanigawa"
+  - "谷川洋介"
 
 
 # Reading Files
@@ -245,6 +222,7 @@ defaults:
       author_profile: true
       share: true
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -265,6 +243,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
