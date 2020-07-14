@@ -10,7 +10,7 @@ paperurl: 'https://doi.org/10.35092/yhjc.c.4990529.v1'
 citation: "Y. Tanigawa, and M. A. Rivas, Datasets described in 'Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma'. National Institutes of Health. Collection. (2020)"
 ---
 
-The datasets used in [the ANGPTL7 paper](/publication/2019-05-05-ANGPTL7) are available from figshare.
+The datasets used in [the ANGPTL7 paper](/publication/2020-05-05-ANGPTL7) are available from figshare.
 
 [![ANGPTL7 figshare image](/files/2020/ANGPTL7-figshare-screenshot.png)](https://doi.org/10.35092/yhjc.c.4990529.v1)
 
