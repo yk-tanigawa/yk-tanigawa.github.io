@@ -28,12 +28,14 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
+- 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682).
+  - 2020/6/8 **Update**: This paper was highlighted as [Editors' Choice in Science](https://science.sciencemag.org/content/368/6494/twil)!
+  - 2020/7/14 **Update**: We made [the supplementary data associated with this publication via figshare](/resources/2019-ANGPTL7-data). They recently wrote [a case study](https://doi.org/10.6084/m9.figshare.12640247case). Thank you very much for providing this awesome platform!
 - 2020/6/25: Yosuke's semi-annually report (in Japanese) to the Funai Foundation is [posted on their website](https://funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html). He wrote a short commentary on [the recent publication](publication/2020-05-05-ANGPTL7) as well as the increasingly important role of scientific communication in the context of the COVID-19.
 - 2020/6/25: **New Manuscripts**. We have several preprints from the Rivas lab. Yosuke is very excited to be part of those projects.
   - ["Pervasive additive and non-additive effects within the HLA region contribute to disease risk in the UK Biobank"](/publication/preprint-2020-05-28-HLA)
   - ["Large-Scale Sparse Regression for Multiple Responses with Applications to UK Biobank"](/publication/preprint-2020-05-30-SRRR)
   - ["Fast Sparse-Group Lasso Method for Multi-response Cox Model with Applications to UK Biobank"](/publication/preprint-2020-06-22-mr-cox)
-- 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682). 2020/6/8 Update: This paper was highlighted as [Editors' Choice in Science](https://science.sciencemag.org/content/368/6494/twil)!
 - 2020/4/12: [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)と題した研究紹介記事を書きました。Yosuke also wrote [a brief summary of this COVID-19 related research activities in Japanese](/posts/2020/04/COVID-19-hg-jp/).
 - 2020/4/12: [日本語のプロフィールページ](/about_jp)を開設しました。(He created a **Japanese version** of the landing page.)
 - 2020/4/9: **New Publication**. ["Assessing Digital Phenotyping to Enhance Genetic Studies of Human Diseases"](/publication/2020-05-07-digial-phenotyping) led by [Christopher DeBoever](https://cdeboever3.github.io/) was published in *the American Journal of Human Genetics*. Yosuke contributed as the 2nd author. We have a [share link that allows people to download the full text pdf file before June 26, 2020](https://authors.elsevier.com/c/1b166geWy1KZ). Congratulations, Chris!!
