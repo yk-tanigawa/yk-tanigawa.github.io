@@ -28,10 +28,12 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
-- 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682).
+- 2020/9/1 (scheduled): Yosuke will give an oral presentation at [_Informatics in Biology, Medicine, and Pharmacology_ virtual conference (annual meeting of Japanese Society of Bioinformatics)](https://www.jsbi.org/iibmp2020/program/oral.html).
+- 2020/8/4: Yosuke performed [several science outreach talks to Japanese high schoolers](/posts/2020/08/outreach_jp/).
+- 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](/publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682).
   - 2020/6/8 **Update**: This paper was highlighted as [Editors' Choice in Science](https://science.sciencemag.org/content/368/6494/twil)!
   - 2020/7/14 **Update**: We made [the supplementary data associated with this publication via figshare](/resources/2019-ANGPTL7-data). They recently wrote [a case study](https://doi.org/10.6084/m9.figshare.12640247). Thank you very much for providing this awesome platform!
-- 2020/6/25: Yosuke's semi-annually report (in Japanese) to the Funai Foundation is [posted on their website](https://funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html). He wrote a short commentary on [the recent publication](publication/2020-05-05-ANGPTL7) as well as the increasingly important role of scientific communication in the context of the COVID-19.
+- 2020/6/25: Yosuke's semi-annually report (in Japanese) to the Funai Foundation is [posted on their website](https://funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html). He wrote a short commentary on [the recent publication](/publication/2020-05-05-ANGPTL7) as well as the increasingly important role of scientific communication in the context of the COVID-19.
 - 2020/6/25: **New Manuscripts**. We have several preprints from the Rivas lab. Yosuke is very excited to be part of those projects.
   - ["Pervasive additive and non-additive effects within the HLA region contribute to disease risk in the UK Biobank"](/publication/preprint-2020-05-28-HLA)
   - ["Large-Scale Sparse Regression for Multiple Responses with Applications to UK Biobank"](/publication/preprint-2020-05-30-SRRR)
