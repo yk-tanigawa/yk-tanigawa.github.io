@@ -30,6 +30,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 - 2020/9/1 (scheduled): Yosuke will give an oral presentation at [_Informatics in Biology, Medicine, and Pharmacology_ virtual conference (annual meeting of Japanese Society of Bioinformatics)](https://www.jsbi.org/iibmp2020/program/oral.html).
 - 2020/8/4: Yosuke performed [several science outreach talks to Japanese high schoolers](/posts/2020/08/outreach_jp/).
+- 2020/7/17: Our use of generalist repository for scientific data sharing was [featured](https://datascience.nih.gov/data-ecosystem/exploring-a-generalist-repository-for-nih-funded-data) by NIH’s Office of Data Science Strategy (ODSS).
 - 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](/publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682).
   - 2020/6/8 **Update**: This paper was highlighted as [Editors' Choice in Science](https://science.sciencemag.org/content/368/6494/twil)!
   - 2020/7/14 **Update**: We made [the supplementary data associated with this publication via figshare](/resources/2019-ANGPTL7-data). They recently wrote [a case study](https://doi.org/10.6084/m9.figshare.12640247). Thank you very much for providing this awesome platform!
