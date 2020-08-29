@@ -4,6 +4,7 @@ date: 2020-07-03
 permalink: /posts/2020/07/tmux-on-mac/
 tags:
   - computing
+  - mac
 ---
 
 Terminal multiplexer software, such as `tmux` and `screen`, is a useful tool. When using `tmux` on mac, I encountered the following error.
