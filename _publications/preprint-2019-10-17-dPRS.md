@@ -2,7 +2,7 @@
 title: "[Preprint] Polygenic risk modeling with latent trait-related genetic components"
 collection: publications
 permalink: /publication/preprint-2019-10-17-dPRS
-excerpt: 'Polygenic risk score (PRS) has been proposed for disease risk prediction with potential clinical relevance for some traits, but its personalized interpretation is generally difficult, especially when there existis disease subtypes driven by different genetic components. Here, we introduce dPRS (DeGAs-PRS) as an extension of Decomposition of Genetic Associasions (DeGAs) to decompose the polygenic risk of an individuals into latent components of genetic associations characterized from hundreads of thousands of traits.
+excerpt: 'Polygenic risk score (PRS) has been proposed for disease risk prediction with potential clinical relevance for some traits, but its personalized interpretation is generally difficult, especially when there existis disease subtypes driven by different genetic components. Here, we introduce dPRS (DeGAs-PRS) as an extension of Decomposition of Genetic Associasions (DeGAs) to decompose the polygenic risk of an individuals into latent components of genetic associations characterized from hundreads of thousands of traits.'
 excerpt_image: '/files/2019/dPRS-Fig1.png'
 date: 2019-10-17
 venue: 'bioRxiv'
