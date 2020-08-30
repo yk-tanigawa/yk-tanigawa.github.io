@@ -3,6 +3,7 @@ title: "[Preprint] High-throughput SARS-CoV-2 and host genome sequencing from si
 collection: publications
 permalink: /publication/preprint-2020-07-29-COVIDomics
 excerpt: 'In this pre-print, we describe a new method to generate host and pathogen genomic data.'
+excerpt_image: '/files/2020/COVIDomics-Fig1.png'
 date: 2020-07-29
 venue: 'medRxiv'
 paperurl: 'https://doi.org/10.1101/2020.07.27.20163147'
@@ -11,3 +12,5 @@ citation: 'J. E. Gorzynski*, H. N. D. Jong*, D. Amar, C. R. Hughes, A. Ioannidis
 <!-- ispublishedpreprint: "True" -->
 
 In this pre-print, we describe a new method to generate host and pathogen genomic data.
+
+![DS-GWAS figure 1](/files/2020/COVIDomics-Fig1.png)
