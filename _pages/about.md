@@ -30,6 +30,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 - 2020/9/1 (scheduled): Yosuke will give an oral presentation at [_Informatics in Biology, Medicine, and Pharmacology_ virtual conference (annual meeting of Japanese Society of Bioinformatics)](https://www.jsbi.org/iibmp2020/program/oral.html). [Presentation slides are available here](/talks/2020-09-01-IIBMP2020).
 - 2020/8/29: **New Manuscript**. We have a new manuscript for a pharmacogenetic project led by [Greg McInnes](https://twitter.com/gregorymcinnes) and [Adam Lavertu](https://twitter.com/lavertu_adam): ["LPA and APOE are associated with statin selection in the UK Biobank"](/publication/preprint-2020-08-29-DS-GWAS).
+- 2020/8/27: 日本バイオインフォマティクス学会の[ニュースレター](https://www.jsbi.org/news/topics/20200827/)に留学体験談を寄稿しました。(He wrote a short commentary on his experience in the graduate school for a news letter in Japanese Society fo Bioinformatics.)
 - 2020/8/4: Yosuke performed [several science outreach talks to Japanese high schoolers](/posts/2020/08/outreach_jp/).
 - 2020/7/17: Our use of generalist repository for scientific data sharing was [featured](https://datascience.nih.gov/data-ecosystem/exploring-a-generalist-repository-for-nih-funded-data) by NIH’s Office of Data Science Strategy (ODSS).
 - 2020/5/5: **New Publication**. ["Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"](/publication/2020-05-05-ANGPTL7) was [published in *PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1008682).
