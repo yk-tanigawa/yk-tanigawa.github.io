@@ -6,7 +6,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+<a name="page_top"></a>
+
 {% include base_path %}
+
+<div class="media-body">
+  <ul>
+     <li><a href="#highlights">Selected publications</a></li>
+  </ul>
+  <ul>
+     <li><a href="#preprints">Preprints</a></li>
+  </ul>
+  <ul>
+     <li><a href="#publications">Peer-reviewed publications</a></li>
+  </ul>
+</div>
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
@@ -16,7 +30,11 @@ author_profile: true
   You can also find my articles and recent preprints on <u><a href="{{author.googlescholar}}" target='_blank'>my Google Scholar profile</a></u>.
 {% endif %}
 
-## Selected publications
+<hr/>
+
+<a name="highlights"></a>
+
+<h1>Selected publications</h1>
 
 {% for post in site.publications reversed %}
   {% if post.highlight %}
@@ -28,10 +46,14 @@ author_profile: true
     {% else %}
         {% include archive-single.html %}
     {% endif %}
-  {% endif %}  
+  {% endif %}
 {% endfor %}
 
-## Preprints
+<hr/>
+
+<a name="preprints"></a>
+
+<h1>Preprints</h1>
 
 Preprints are provided for rapid sharing of the data, results, and knowledge among the scientific community and have not finished the peer-review process.
 
@@ -46,7 +68,11 @@ We welcome comments and feedback you may have.
   {% endif %}
 {% endfor %}
 
-## Peer-reviewed publications
+<hr/>
+
+<a name="publications"></a>
+
+<h1>Peer-reviewed publications</h1>
 
 {% for post in site.publications reversed %}
   {% if post.permalink contains 'preprint' %}
@@ -54,3 +80,7 @@ We welcome comments and feedback you may have.
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<hr/>
+
+Go back to <a href="#page_top">the top of this page</a>.
