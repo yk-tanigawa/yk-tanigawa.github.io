@@ -28,8 +28,6 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
-R. Li, C. Chang, J. M. Justesen, Y. Tanigawa, J. Qiang, T. Hastie, M. A. Rivas, R. Tibshirani, . Biostatistics (2020).
-
 - 2020/9/29: **New Publication**. ["Fast Lasso method for large-scale and ultrahigh-dimensional Cox model with applications to UK Biobank"](/publication/2020-09-29-snpnet-cox). In this study led by [Ruilin Li](https://profiles.stanford.edu/ruilin-li), we propose an extension of BASIL/snpnet alrogirhm to fit L1 penalized Cox proportional hazards model using a large-scale dataset from a genotyped cohort. We present its application to 300+ time-to-event traits in UK Biobank. Congratulations, Ruilin!! [Link to the full text](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxaa038/5912682?guestAccessKey=4b80ff8f-0376-4745-bc59-f236ca438b48).
 - 2020/9/1: **New Publication**. ["Sex-specific genetic effects across biomarkers"](/publication/2020-09-01-SEMM). In this study led by [Emily Flynn](https://datascience.stanford.edu/people/emily-flynn), we discovered a surprising sex-specificity in the genetics of testosterone. Yosuke performed polygenic risk score (PRS) analysis and demonstrated that PRS models trained for each sex show improvements in predictive accuracy. Congratulations, Emily!! [Link to the full text (via Read Cube)](https://rdcu.be/b6DJF).
 - 2020/9/1: Yosuke had an oral presentation at [_Informatics in Biology, Medicine, and Pharmacology_ virtual conference (annual meeting of Japanese Society of Bioinformatics)](https://www.jsbi.org/iibmp2020/program/oral.html). [Presentation slides are available here](/talks/2020-09-01-IIBMP2020).
