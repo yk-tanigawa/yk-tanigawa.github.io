@@ -17,14 +17,14 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## Research interests
 
 - Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
-  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs).
-  - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7).
-  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE).
+  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
+  - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
+  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
-  - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet).
-  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR).
+  - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet)
+  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR)
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf).
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf)
 
 ## News
 
