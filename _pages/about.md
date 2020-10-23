@@ -17,17 +17,18 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## Research interests
 
 - Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
-  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 1-14 (2019)](/publication/2019-09-06-DeGAs).
-  - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020)](/publication/2020-05-05-ANGPTL7).
-  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics (2019)](/publication/2018-12-05-GBE).
+  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs).
+  - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7).
+  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE).
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
-  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 630079 (2019)](/publication/preprint-2019-05-07-snpnet).
-  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020)](/publication/preprint-2020-05-30-SRRR).
+  - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet).
+  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR).
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019)](/publication/preprint-2019-08-20-whichtf).
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf).
 
 ## News
 
+- 2020/10/23: **New Publication**. ["A fast and scalable framework for large-scale and ultrahigh-dimensional sparse regression with application to the UK Biobank"](/publication/2020-10-23-snpnet). In this project led by [Junyang Qian](https://scholar.google.com/citations?user=zQ1Z5U8AAAAJ), we developed BASIL, a novel algorithm to fit large-scale L1 penalized (Lasso) regression model using an iterative procedure, and implemented R snpnet package specially designed for genetic data. We demonstrate the ability of this approach in an application to UK Biobank dataset. Yosuke contributed to the validation of the method in UK Biobank as well as the development of the software. Congratulations, Junyang!! [Link to the full text](https://doi.org/10.1371/journal.pgen.1009141).
 - 2020/9/29: **New Publication**. ["Fast Lasso method for large-scale and ultrahigh-dimensional Cox model with applications to UK Biobank"](/publication/2020-09-29-snpnet-cox). In this study led by [Ruilin Li](https://profiles.stanford.edu/ruilin-li), we propose an extension of BASIL/snpnet alrogirhm to fit L1 penalized Cox proportional hazards model using a large-scale dataset from a genotyped cohort. We present its application to 300+ time-to-event traits in UK Biobank. Congratulations, Ruilin!! [Link to the full text](https://academic.oup.com/biostatistics/advance-article/doi/10.1093/biostatistics/kxaa038/5912682?guestAccessKey=4b80ff8f-0376-4745-bc59-f236ca438b48).
 - 2020/9/1: **New Publication**. ["Sex-specific genetic effects across biomarkers"](/publication/2020-09-01-SEMM). In this study led by [Emily Flynn](https://datascience.stanford.edu/people/emily-flynn), we discovered a surprising sex-specificity in the genetics of testosterone. Yosuke performed polygenic risk score (PRS) analysis and demonstrated that PRS models trained for each sex show improvements in predictive accuracy. Congratulations, Emily!! [Link to the full text (via Read Cube)](https://rdcu.be/b6DJF).
 - 2020/9/1: Yosuke had an oral presentation at [_Informatics in Biology, Medicine, and Pharmacology_ virtual conference (annual meeting of Japanese Society of Bioinformatics)](https://www.jsbi.org/iibmp2020/program/oral.html). [Presentation slides are available here](/talks/2020-09-01-IIBMP2020).
