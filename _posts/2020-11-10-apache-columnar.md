@@ -114,11 +114,43 @@ csv_to_feather(
 
 ## Apache Drill to read Apache Parquet file(s)
 
-```
+```{bash}
 drill-embedded
 Apache Drill 1.17.0
 "Got Drill?"
 apache drill> SELECT * FROM dfs.`/path/to/parquet` LIMIT 10 ;
+```
+
+## `pyarrow` to read files
+
+### Parquet file
+
+```{python}
+import pyarrow
+from pyarrow import parquet
+
+
+in_f='/path/to/your/file.parquet'
+
+ds = pyarrow.parquet.ParquetFile(in_f)
+
+ds.num_row_groups
+
+df = ds.read_row_group(1).to_pandas()
+
+df = ds.read().to_pandas()
+```
+
+### Feather file
+
+```{python}
+import pyarrow
+from pyarrow import feather
+
+
+in_f='/path/to/your/file.feather'
+
+df = pyarrow.feather.read_feather(in_f)
 ```
 
 ## Reference
@@ -133,3 +165,4 @@ apache drill> SELECT * FROM dfs.`/path/to/parquet` LIMIT 10 ;
   - [API Reference >> Tabular File Formats](https://arrow.apache.org/docs/python/api/formats.html)
   - [Streaming, Serialization, and IPC](https://arrow.apache.org/docs/python/ipc.html#)
 - [Apache Parquet](https://parquet.apache.org/)
+- ["Quickly reading very large tables as dataframes", stackoverflow](https://stackoverflow.com/questions/1727772/quickly-reading-very-large-tables-as-dataframes)
