@@ -1,12 +1,12 @@
 ---
-title: "[Preprint] Fast Sparse-Group Lasso Method for Multi-response Cox Model with Applications to UK Biobank"
+title: "[Preprint] Survival Analysis on Rare Events Using Group-Regularized Multi-Response Cox Regression"
 collection: publications
 permalink: /publication/preprint-2020-06-22-mr-cox
-excerpt: 
+excerpt:
 date: 2020-06-21
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2020.06.21.163675'
-citation: 'R. Li, Y. Tanigawa, J. M. Justesen, J. Taylor, T. Hastie, R. Tibshirani, M. A. Rivas, Fast Sparse-Group Lasso Method for Multi-response Cox Model with Applications to UK Biobank. bioRxiv, 2020.06.21.163675 (2020).'
+citation: 'R. Li, Y. Tanigawa, J. M. Justesen, J. Taylor, T. Hastie, R. Tibshirani, M. A. Rivas, Survival Analysis on Rare Events Using Group-Regularized Multi-Response Cox Regression. bioRxiv, 2020.06.21.163675 (2020).'
 ---
 <!-- ispublishedpreprint: "True" -->
 
