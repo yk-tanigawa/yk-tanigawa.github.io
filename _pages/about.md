@@ -17,10 +17,11 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## Research interests
 
 - Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
-  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
+  - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., in press.](/publication/preprint-2019-06-05-biomarkers)
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
   - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
+  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
   - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet)
   - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR)
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
@@ -28,9 +29,9 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
-- 2020/12/5: Yosuke will present at [Japanese San Francisco Bay Area Seminar](http://bayareaseminar.blog42.fc2.com/blog-entry-337.html) regarding his project, titled "Genetics of 35 blood and urine biomarkers in the UK Biobank".
-- 2020/11/18-12/2: Yosuke (virtually) presents a poster at [Japanese Society of Human Genetics annual meeting 2020](http://www.congre.co.jp/jshg2020/en/) regarding his project, titled "Sparse polygenic risk scores in hundreds of diseases elucidate their biological basis".
-- 2020/11/16-19: Yosuke (virtually) presents a poster at [the RECOMB/ISCB Conference on Regulatory and Systems Genomics with DREAM Challenge](https://www.iscb.org/recomb-regsysgen2020) regarding his project, titled "WhichTF is open in your open chromatin data?".
+- 2020/12/5: Yosuke (virtually) presented at [Japanese San Francisco Bay Area Seminar](http://bayareaseminar.blog42.fc2.com/blog-entry-337.html) regarding his project, titled "Genetics of 35 blood and urine biomarkers in the UK Biobank".
+- 2020/11/18-12/2: Yosuke (virtually) presented a poster at [Japanese Society of Human Genetics annual meeting 2020](http://www.congre.co.jp/jshg2020/en/) regarding his project, titled "Sparse polygenic risk scores in hundreds of diseases elucidate their biological basis".
+- 2020/11/16-19: Yosuke (virtually) presented a poster at [the RECOMB/ISCB Conference on Regulatory and Systems Genomics with DREAM Challenge](https://www.iscb.org/recomb-regsysgen2020) regarding his project, titled "WhichTF is open in your open chromatin data?".
 - 2020/10/27: **New Manuscript**. ["A global atlas of genetic associations of 220 deep phenotypes"](/publication/preprint-2020-10-27-DeGAs-BBJ). In this project co-led by [Saori](https://twitter.com/saorisakaue) and [Masa](https://mkanai.github.io/), we dissected latent DeGAs components of multi-ethnic association summary statistics characterized from both European (UK Biobank and FinnGen) and East Asian (Biobank Japan) populations. We annotated each component by pathway and cell-type enrichment as well as projection of metabolomic and biomarker summary statistics. We demonstrate how can we use such trans-ethnic annotated latent components to classify diseases based on their genetic basis.
 - 2020/10/26-30: Yosuke (virtually) presents a poster at American Society of Human Genetics annual meeting 2020.
 - 2020/10/23: **New Publication**. ["A fast and scalable framework for large-scale and ultrahigh-dimensional sparse regression with application to the UK Biobank"](/publication/2020-10-23-snpnet). In this project led by [Junyang Qian](https://scholar.google.com/citations?user=zQ1Z5U8AAAAJ), we developed BASIL, a novel algorithm to fit large-scale L1 penalized (Lasso) regression model using an iterative procedure, and implemented R snpnet package specially designed for genetic data. We demonstrate the ability of this approach in an application to UK Biobank dataset. Yosuke contributed to the validation of the method in UK Biobank as well as the development of the software. Congratulations, Junyang!! [Link to the full text](https://doi.org/10.1371/journal.pgen.1009141).
