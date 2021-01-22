@@ -25,7 +25,7 @@ This page is written in my native language, Japanese, and should contain the sam
 ## 主な研究内容
 
 - **統計遺伝学** の手法を用いた，ヒトゲノムの研究（とくに，バイオバンクを用いた，解析手法の開発と応用に興味を持っています）
-  - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., in press.](/publication/preprint-2019-06-05-biomarkers)
+  - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nature Genetics. (2021).](/publication/2021-01-18-biomarkers)
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
   - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
 - ヒトゲノム研究への応用を見据えた，**大規模データ**のための**統計解析手法**の開発

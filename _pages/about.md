@@ -17,7 +17,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## Research interests
 
 - Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
-  - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., in press.](/publication/preprint-2019-06-05-biomarkers)
+  - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nature Genetics. (2021).](/publication/2021-01-18-biomarkers)
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
   - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
@@ -29,6 +29,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
+- 20211/1/18: **New Publication**. ["Genetics of 35 blood and urine biomarkers in the UK Biobank"](/publication/2021-01-18-biomarkers). In this project co-led by Nasa Sinnott-Armstrong, myself, and Dr. Manuel A. Rivas, we performed large-scale characterization of the genetic basis of biomarkers and catalogued their influence on diseases. We developed 'multi-PRS' method and demonstrated its improved ability of disease prediction. Please check out [highlights](/publication/2021-01-18-biomarkers) and the [full texts](https://rdcu.be/cdMmM).
 - 2020/12/5: Yosuke (virtually) presented at [Japanese San Francisco Bay Area Seminar](http://bayareaseminar.blog42.fc2.com/blog-entry-337.html) regarding his project, titled "Genetics of 35 blood and urine biomarkers in the UK Biobank".
 - 2020/11/18-12/2: Yosuke (virtually) presented a poster at [Japanese Society of Human Genetics annual meeting 2020](http://www.congre.co.jp/jshg2020/en/) regarding his project, titled "Sparse polygenic risk scores in hundreds of diseases elucidate their biological basis".
 - 2020/11/16-19: Yosuke (virtually) presented a poster at [the RECOMB/ISCB Conference on Regulatory and Systems Genomics with DREAM Challenge](https://www.iscb.org/recomb-regsysgen2020) regarding his project, titled "WhichTF is open in your open chromatin data?".
