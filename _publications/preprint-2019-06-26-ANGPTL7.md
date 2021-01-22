@@ -2,7 +2,7 @@
 title: "[Preprint] Rare protein-altering variants in ANGPTL7 lower intraocular pressure and protect against glaucoma"
 collection: publications
 permalink: /publication/preprint-2019-06-26-ANGPTL7
-excerpt: 
+excerpt:
 date: 2019-06-26
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/677443'
