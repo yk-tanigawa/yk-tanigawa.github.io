@@ -43,3 +43,10 @@ We thank UK Biobank, FinnGen, their participants, amazing collaborators, and col
 - [Supplementary Data (500GB+)](/resources/2020-biomarkers-data) is available at [NIH's archive instance of figshare](https://doi.org/10.35092/yhjc.c.5043872.v1)
 - [Analysis and visualization scripts](/resources/2020-biomarkers-code) used in this manuscript is available at [GitHub repo](https://github.com/rivas-lab/biomarkers/)
 - [Full text](https://rdcu.be/cdMmM)
+
+
+## Coverage
+
+- [Research highlights in Nature Reviews Nephrology](https://doi.org/10.1038/s41581-021-00400-y)
+  - Allison, S.J. Biomarker genetics. Nat Rev Nephrol (2021). [https://doi.org/10.1038/s41581-021-00400-y](https://doi.org/10.1038/s41581-021-00400-y)
+- [Genome web news article](https://www.genomeweb.com/microarrays-multiplexing/blood-urine-biomarker-study-leads-linked-loci-disease-related-risk-scores)

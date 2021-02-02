@@ -30,6 +30,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## News
 
 - 20211/1/18: **New Publication**. ["Genetics of 35 blood and urine biomarkers in the UK Biobank"](/publication/2021-01-18-biomarkers). In this project co-led by Nasa Sinnott-Armstrong, myself, and Dr. Manuel A. Rivas, we performed large-scale characterization of the genetic basis of biomarkers and catalogued their influence on diseases. We developed 'multi-PRS' method and demonstrated its improved ability of disease prediction. Please check out [highlights](/publication/2021-01-18-biomarkers) and the [full texts](https://rdcu.be/cdMmM).
+  - 2021/1/29 **Update**: Our paper is featured as [Research highlights in Nature Reviews Nephrology](https://doi.org/10.1038/s41581-021-00400-y)
 - 2020/12/5: Yosuke (virtually) presented at [Japanese San Francisco Bay Area Seminar](http://bayareaseminar.blog42.fc2.com/blog-entry-337.html) regarding his project, titled "Genetics of 35 blood and urine biomarkers in the UK Biobank".
 - 2020/11/18-12/2: Yosuke (virtually) presented a poster at [Japanese Society of Human Genetics annual meeting 2020](http://www.congre.co.jp/jshg2020/en/) regarding his project, titled "Sparse polygenic risk scores in hundreds of diseases elucidate their biological basis".
 - 2020/11/16-19: Yosuke (virtually) presented a poster at [the RECOMB/ISCB Conference on Regulatory and Systems Genomics with DREAM Challenge](https://www.iscb.org/recomb-regsysgen2020) regarding his project, titled "WhichTF is open in your open chromatin data?".
