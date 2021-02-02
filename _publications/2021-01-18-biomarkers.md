@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-01-18-biomarkers
 highlight: true
 excerpt: "We characterized the genetics of 35 biomarkers in UK Biobank. We performed the association and fine-mapping analysis to prioritize the causal variants, constructed the polygenic risk score (PRS) models, and evaluated their medical relevance with causal inference and PRS-PheWAS. We demonstrate a new approach, called multi-PRS, to improve PRS by combining PRSs across traits."
-excerpt_image: '/files/2021/biomarkers-Fig2.jpg'
+excerpt_image: '/files/2021/Biomarkers-Fig2.jpg'
 date: 2021-01-18
 venue: 'Nature Genetics'
 paperurl: 'https://doi.org/10.1038/s41588-020-00757-z'
