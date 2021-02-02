@@ -56,6 +56,7 @@ This page is written in my native language, Japanese, and should contain the sam
 - [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)
 - [高校生への科学アウトリーチ活動](/posts/2020/08/outreach_jp/)
 - [発表資料 - 2020年日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会](/talks/2020-09-01-IIBMP2020)
+- その他の[日本語ページの一覧](/tags/#jp)
 
 ## 連絡先
 
