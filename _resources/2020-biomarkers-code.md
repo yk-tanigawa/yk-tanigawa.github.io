@@ -9,7 +9,7 @@ resource: 'The analysis and visualization scripts used in our biomarker manuscri
 paperurl: 'https://github.com/rivas-lab/biomarkers'
 ---
 
-We provide analysis and visualization scripts used in [our biomarker manuscript](/publication/preprint-2019-06-05-biomarkers) from the Rivas lab
+We provide analysis and visualization scripts used in [our genetics of 35 biomarkers paper](/publication/2021-01-18-biomarkers) from the Rivas lab.
 
 ![Biomarkers Fuji plot](/files/2021/Biomarkers-Fig2.jpg)
 

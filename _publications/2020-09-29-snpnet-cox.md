@@ -14,7 +14,7 @@ In this study led by [Ruilin Li](https://profiles.stanford.edu/ruilin-li), we pr
 
 ![snpnet-cox figure 1](/files/2020/snpnet-cox-Fig1.jpg)
 
-Note that this project is a Cox-model extension of [BASIL algorithm](/publication/preprint-2019-05-07-snpnet). Please check the [BASIL/snpnet manuscript](/publication/preprint-2019-05-07-snpnet) for more in-depth discussion on the BASIL algorithm and snpnet package.
+Note that this project is a Cox-model extension of [BASIL algorithm](/publication/2020-10-23-snpnet). Please check the [BASIL/snpnet paper](/publication/2020-10-23-snpnet) for more in-depth discussion on the BASIL algorithm and snpnet package.
 
 # Datasets
 
