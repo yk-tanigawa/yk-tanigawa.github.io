@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yosuke Tanigawa is a Ph.D. candidate in [Biomedical Informatics program](https://med.stanford.edu/bmi.html) at [Stanford University](https://www.stanford.edu/). His research interests are in various topics in population genomics, specifically focusing on analysis of large-scale datasets.
+Yosuke Tanigawa is a Ph.D. candidate in [Biomedical Informatics program](https://med.stanford.edu/bmi.html) at [Stanford University](https://www.stanford.edu/). His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
 
 He is currently working with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
 
@@ -16,7 +16,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## Research interests
 
-- Application of **statistical genetics** for human disease genetic studies. I am specifically interested in analysis of **population biobanks**.
+- Application of **statistical genetics** for human disease genetic studies. I am specifically interested in the analysis of **population biobanks**.
   - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nature Genetics. (2021).](/publication/2021-01-18-biomarkers)
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
   - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
@@ -24,7 +24,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
   - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
   - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet)
   - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR)
-- Functional analysis of non-coding regions in the human genome. I am specifically interested in analysis of **transcription factors**.
+- Functional analysis of non-coding regions in the human genome. I am specifically interested in the analysis of **transcription factors**.
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf)
 
 ## News
@@ -36,7 +36,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## Contact
 
-Email is the best contact to reach out to me. If you don't get reply within 2 days, please don't hesitate to follow-up. Thank you very much for interested in my work.
+Email is the best contact to reach out to me. If you do not get a reply within two days, please do not hesitate to follow-up. Thank you very much for your interest in our work.
 
 - Email: `yosuke <dot> tanigawa [at] stanford <dot> edu`
 - Social media accounts can be found on the left (for PC) or "Follow" button on the top (for smartphone).
