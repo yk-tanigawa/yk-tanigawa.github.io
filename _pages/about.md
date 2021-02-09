@@ -29,6 +29,9 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
+- 2021/2/9: **New Publications**. We have two papers from the Rivas lab. Yosuke contributed to each of them as the second author and is very excited to see them published! Congratulations, Matt and Ruilin!
+  - ["Survival Analysis on Rare Events Using Group-Regularized Multi-Response Cox Regression"](/publication/2021-02-09-mr-cox)
+  - ["Polygenic risk modeling with latent trait-related genetic components"](/publication/2021-02-08-dPRS) ([full-text link via ReadCube](https://rdcu.be/ceXyy))
 - 20211/1/18: **New Publication**. ["Genetics of 35 blood and urine biomarkers in the UK Biobank"](/publication/2021-01-18-biomarkers). In this project co-led by Nasa Sinnott-Armstrong, myself, and Dr. Manuel A. Rivas, we performed large-scale characterization of the genetic basis of biomarkers and cataloged their influence on diseases. We developed the 'multi-PRS' method and demonstrated its improved ability of disease prediction. Please check out [highlights](/publication/2021-01-18-biomarkers) and the [full texts](https://rdcu.be/cdMmM).
   - 2021/1/29 **Update**: Our paper is featured as [Research highlights in Nature Reviews Nephrology](https://doi.org/10.1038/s41581-021-00400-y)
 - News Archive:
