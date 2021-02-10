@@ -9,7 +9,7 @@ date: 2021-01-18
 venue: 'Nature Genetics'
 paperurl: 'https://doi.org/10.1038/s41588-020-00757-z'
 fulltext: 'https://rdcu.be/cdMmM'
-citation: 'N. Sinnott-Armstrong*, Y. Tanigawa*, D. Amar, N. J. Mars, C. Benner, M. Aguirre, G. R. Venkataraman, M. Wainberg, H. M. Ollila, T. Kiiskinen, A. S. Havulinna, J. P. Pirruccello, J. Qian, A. Shcherbina, FinnGen, F. Rodriguez, T. L. Assimes, V. Agarwala, R. Tibshirani, T. Hastie, S. Ripatti, J. K. Pritchard, M. J. Daly, M. A. Rivas, Genetics of 35 blood and urine biomarkers in the UK Biobank. Nature Genetics (2021).'
+citation: 'N. Sinnott-Armstrong*, Y. Tanigawa*, D. Amar, N. J. Mars, C. Benner, M. Aguirre, G. R. Venkataraman, M. Wainberg, H. M. Ollila, T. Kiiskinen, A. S. Havulinna, J. P. Pirruccello, J. Qian, A. Shcherbina, FinnGen, F. Rodriguez, T. L. Assimes, V. Agarwala, R. Tibshirani, T. Hastie, S. Ripatti, J. K. Pritchard, M. J. Daly, M. A. Rivas, Genetics of 35 blood and urine biomarkers in the UK Biobank. Nature Genetics. 53(2), 185-194 (2021).'
 ---
 <!-- ispublishedpreprint: "True" -->
 
