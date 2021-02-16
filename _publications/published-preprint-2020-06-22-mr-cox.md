@@ -10,4 +10,4 @@ citation: 'R. Li, Y. Tanigawa, J. M. Justesen, J. Taylor, T. Hastie, R. Tibshira
 ispublishedpreprint: "True"
 ---
 
-This preprint is [now published in Bioinformatics](/2021-02-09-mr-cox)!
+This preprint is [now published in Bioinformatics](/publication/2021-02-09-mr-cox)!
