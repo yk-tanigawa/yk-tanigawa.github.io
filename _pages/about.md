@@ -29,6 +29,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
+- 2021/2/16: **New Manuscript**. We have a new preprint led by Ruilin Li describing a new version of the R snpnet package and its application to the exome sequencing data in UK Biobank: ["Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks"](/publication/preprint_2021-02-16-snpnet-v2).
 - 2021/2/9: **New Publications**. We have two papers from the Rivas lab. Yosuke contributed to each of them as the second author and is very excited to see them published! Congratulations, Matt and Ruilin!
   - ["Survival Analysis on Rare Events Using Group-Regularized Multi-Response Cox Regression"](/publication/2021-02-09-mr-cox)
   - ["Polygenic risk modeling with latent trait-related genetic components"](/publication/2021-02-08-dPRS) ([full-text link via ReadCube](https://rdcu.be/ceXyy))
