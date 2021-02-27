@@ -10,7 +10,7 @@ redirect_from:
 
 Yosuke Tanigawa is a Ph.D. candidate in [Biomedical Informatics program](https://med.stanford.edu/bmi.html) at [Stanford University](https://www.stanford.edu/). His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
 
-He is currently working with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
+He works with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
 
 Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints. Please also check [Resources](/resources) page for datasets, analysis and visualization scripts, and web applications from our research activities (mainly from [the Rivas lab](http://med.stanford.edu/rivaslab/) and [the Bejerano lab](http://bejerano.stanford.edu/)).
 
