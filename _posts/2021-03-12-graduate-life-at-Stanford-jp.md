@@ -28,3 +28,6 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
 
 - Naoto Yamaguchi さんの[米国大学院出願記](https://note.com/nafoto_z/n/n3c39acec9d62)(2021/3)。シリーズものになっています。
   - ちなみに、 Naoto Yamaguchi さんは生物情報科学科の後輩にあたるようです。
+- [林 文夫, 私が書く米欧の大学院向けの推薦状について (2004)](http://iwasakiichiro.info/LLM/ProfHayashiLORPolicy.html)
+- [HHMI, Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
+  - "Addendum: Writing a Letter of Recommendation" のセクションに、推薦状に関する情報がまとまっています
