@@ -1,5 +1,5 @@
 ---
-title: "Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks"
+title: "[Preprint] Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks"
 collection: publications
 permalink: /publication/preprint_2021-02-16-snpnet-v2
 excerpt: "In this project led by Ruilin Li, we improved the efficiency of the R snpnet package by taking advantage of the sparsity-aware compact on-memory representation of the genotype data matrix."
