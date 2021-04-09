@@ -19,5 +19,6 @@ There are several web addresses that I have. All of the followings should be con
 - [http://cs.stanford.edu/people/ytanigaw](http://cs.stanford.edu/people/ytanigaw)
 - [http://www-cs-students.stanford.edu/~ytanigaw](http://www-cs-students.stanford.edu/~ytanigaw)
 - [http://ai.stanford.edu/~ytanigaw](http://ai.stanford.edu/~ytanigaw)
+- [http://compbio.mit.edu/tanigawa](http://compbio.mit.edu/tanigawa)
 
 The [previous website](https://sites.google.com/site/yktanigawa/) is still accessible. We will migrate the contents to the new website.
