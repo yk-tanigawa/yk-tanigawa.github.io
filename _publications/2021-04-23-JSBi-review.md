@@ -1,5 +1,5 @@
 ---
-title: "[Review] Large-scale human genetic statistical inference with multiple phenotypes"
+title: "[Review in Japanese] 複数の表現型を用いた人類遺伝統計学の大規模情報解析 (Large-scale human genetic statistical inference with multiple phenotypes)"
 collection: publications
 permalink: /publication/2021-04-23-JSBi-review
 excerpt: '[invited review written in Japanese] 日本語総説の執筆の機会をいただき、GWAS、polygenic risk score、高次元データセットでの penalized regression (Lasso など) に関する人類統計遺伝学の解析手法について、執筆しました。
