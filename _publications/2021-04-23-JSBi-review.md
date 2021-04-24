@@ -8,6 +8,8 @@ date: 2021-04-23
 venue: 'JSBi Bioinformatics Review'
 paperurl: 'https://doi.org/10.11234/jsbibr.2021.4'
 citation: 'Y. Tanigawa, Large-scale human genetic statistical inference with multiple phenotypes. JSBi Bioinformatics Review, 1(2), 47-59 (2021).'
+tags:
+  - jp
 ---
 
 This is an invited review written in Japanese, published by the Japanese Society of Bioinformatics (JSBi).
