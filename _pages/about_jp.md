@@ -35,6 +35,8 @@ This page is written in my native language, Japanese, and should contain the sam
 - ヒトゲノムに含まれる，非コード領域の機能の解析（とくに，**転写因子**のはたらきに興味を持っています）
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf)
 
+人類遺伝統計学や，その応用に関わる統計解析手法については，和文総説「[複数の表現型を用いた人類遺伝統計学の大規模情報解析](/publication/2021-04-23-JSBi-review)」においても取り上げました。よろしければ、あわせてご参照ください。
+
 ## 主な受賞歴等
 
 - 2017, 2018, 2019年  Stanford University. Biosciences office of the graduate education travel grant 採択
@@ -57,6 +59,7 @@ This page is written in my native language, Japanese, and should contain the sam
 - [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)
 - [高校生への科学アウトリーチ活動](/posts/2020/08/outreach_jp/)
 - [発表資料 - 2020年日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会](/talks/2020-09-01-IIBMP2020)
+- （和文総説）[複数の表現型を用いた人類遺伝統計学の大規模情報解析 (Large-scale human genetic statistical inference with multiple phenotypes), JSBi bioinformatics review, 1(2), 47-59 (2021)](/publication/2021-04-23-JSBi-review)。GWAS、polygenic risk score、高次元データセットでの penalized regression (Lasso など) に関する人類統計遺伝学の解析手法について執筆しました。
 - その他の[日本語ページの一覧](/tags/#jp)
 
 ## 連絡先
