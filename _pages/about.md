@@ -29,7 +29,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
-- 2021/5/3: Yosuke will have his Ph.D. defense. Hope things gonna be alright.
+- 2021/5/3: Yosuke will have [his Ph.D. defense](/talks/2021-05-03-PhD-defense). Hope things gonna be alright.
 - 2021/4/23: **New Publication** (review article in Japanese). [複数の表現型を用いた人類遺伝統計学の大規模情報解析 (Large-scale human genetic statistical inference with multiple phenotypes)](/publication/2021-04-23-JSBi-review). GWAS、polygenic risk score、高次元データセットでの penalized regression (Lasso など) に関する人類統計遺伝学の解析手法について執筆しました。
 - 2021/4/21: Yosuke gave an invited lecture on [Japanese Education](/teaching/2021-04-21-ENGR159Q).
 - 2021/1/18: **New Publication**. ["Genetics of 35 blood and urine biomarkers in the UK Biobank"](/publication/2021-01-18-biomarkers). In this project co-led by Nasa Sinnott-Armstrong, myself, and Dr. Manuel A. Rivas, we performed large-scale characterization of the genetic basis of biomarkers and cataloged their influence on diseases. We developed the 'multi-PRS' method and demonstrated its improved ability of disease prediction. Please check out [highlights](/publication/2021-01-18-biomarkers) and the [full texts](https://rdcu.be/cdMmM).
