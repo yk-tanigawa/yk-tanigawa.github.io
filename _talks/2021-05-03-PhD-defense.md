@@ -30,7 +30,7 @@ I will conclude my presentation by summarizing my contributions and the exciting
 
 ### References:
 
-1. Y. Tanigawa*, J. Li*, et al., Nat Commun. 10, 4064 (2019). PMID: 31492854
+1. Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019). PMID: 31492854
 2. Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020). PMID: 32369491
-3. N. Sinnott-Armstrong*, Y. Tanigawa*, et al., Nat Gen. (2021). PMID: 33462484
-4. Y. Tanigawa*, E. S. Dyer*, G. Bejerano, bioRxiv, 730200 (2019). doi:10.1101/730200
+3. N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nat Gen. (2021). PMID: 33462484
+4. Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019). doi:10.1101/730200
