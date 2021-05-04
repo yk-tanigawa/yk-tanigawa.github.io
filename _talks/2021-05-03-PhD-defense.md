@@ -1,7 +1,7 @@
 ---
-title: "Large-scale genomic inference of multiple phenotypes"
-excerpt: ''
-excerpt_image: ''
+title: "Large-scale genomic inference of multiple phenotypes (thesis defense)"
+excerpt: 'I presented and successfully defended my thesis titled "Large-scale genomic inference of multiple phenotypes." Thank you very much for everyone who supported me along the way.'
+excerpt_image: '/files/2021/20210503_committee.jpg'
 collection: talks
 type: "Talk"
 permalink: /talks/2021-05-03-PhD-defense
@@ -17,7 +17,8 @@ tags: -->
 
 ## Yosuke passed the thesis defense!
 
-On 2021/5/3, I presented my thesis titled "Large-scale genomic inference of multiple phenotypes" and passed my thesis defense. Thank you very much for everyone who supported me along the way.
+I presented and successfully defended my thesis titled "Large-scale genomic inference of multiple phenotypes."
+Thank you very much for everyone who supported me along the way.
 
 ## Abstract
 
@@ -35,7 +36,7 @@ I will conclude my presentation by summarizing my contributions and the exciting
 
 ### References
 
-1. Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019). [PMID: 31492854](https://pubmed.ncbi.nlm.nih.gov/31492854/)
-2. Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020). [PMID: 32369491](https://pubmed.ncbi.nlm.nih.gov/32369491/)
-3. N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nat Gen. (2021). [PMID: 33462484](https://pubmed.ncbi.nlm.nih.gov/33462484/)
+1. Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019). [PMID: 31492854](https://pubmed.ncbi.nlm.nih.gov/31492854/) ([Research highlights](/publication/2019-09-06-DeGAs))
+2. Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020). [PMID: 32369491](https://pubmed.ncbi.nlm.nih.gov/32369491/) ([Research highlights](/publication/2020-05-05-ANGPTL7))
+3. N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nat Gen. (2021). [PMID: 33462484](https://pubmed.ncbi.nlm.nih.gov/33462484/) ([Research highlights](/publication/2021-01-18-biomarkers))
 4. Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019). [doi:10.1101/730200](https://doi.org/10.1101/730200)
