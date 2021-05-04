@@ -13,6 +13,12 @@ location: "Zoom"
 citation: ''
 tags: -->
 
+![Celebration with the committee](/files/2021/20210503_committee.jpg)
+
+## Yosuke passed the thesis defense!
+
+On 2021/5/3, I presented my thesis titled "Large-scale genomic inference of multiple phenotypes" and passed my thesis defense. Thank you very much for everyone who supported me along the way.
+
 ## Abstract
 
 Many human traits are multifactorial. Some of them have shared genetic basis, yet a systematic analysis of such components across the human phenome has been challenging, limiting our understanding of the shared genetic factors across traits and their influences on diseases. I will present four examples of multi-trait analysis, which I was fortunate to lead in my graduate studies.
@@ -27,10 +33,9 @@ In the last example, we consider the analysis of multiple molecular phenotypes, 
 
 I will conclude my presentation by summarizing my contributions and the exciting research opportunities in the field.
 
+### References
 
-### References:
-
-1. Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019). PMID: 31492854
-2. Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020). PMID: 32369491
-3. N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nat Gen. (2021). PMID: 33462484
-4. Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019). doi:10.1101/730200
+1. Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019). [PMID: 31492854](https://pubmed.ncbi.nlm.nih.gov/31492854/)
+2. Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020). [PMID: 32369491](https://pubmed.ncbi.nlm.nih.gov/32369491/)
+3. N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nat Gen. (2021). [PMID: 33462484](https://pubmed.ncbi.nlm.nih.gov/33462484/)
+4. Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019). [doi:10.1101/730200](https://doi.org/10.1101/730200)
