@@ -30,7 +30,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## News
 
 - 2021/5/13: Yosuke will present ([WhichTF](/publication/preprint-2019-08-20-whichtf)) at [Stanford Cardiovasular Institute's Research Roundtable (Zoom seminar)](/talks/2021-05-13-CVI).
-- 2021/5/11-14: Yosuke will present a poster on "Significant Sparse Polygenic Risk Scores in 428 traits in UK Biobank" at the Biology of Genomes virtual meeting (#poster-324 channel on the conference slack).
+- 2021/5/11-14: Yosuke will present a poster on "Significant Sparse Polygenic Risk Scores in 428 traits in UK Biobank" at the Biology of Genomes virtual meeting ([#poster-324 channel](https://cshlmc-genome21.slack.com/app_redirect?channel=poster-324) on the conference slack).
 - 2021/5/3: **[Yosuke passed his Ph.D. defense](/talks/2021-05-03-PhD-defense)!** Thank you very much for everyone who supported me along the way.
 - 2021/4/23: **New Publication** (review article in Japanese). [複数の表現型を用いた人類遺伝統計学の大規模情報解析 (Large-scale human genetic statistical inference with multiple phenotypes)](/publication/2021-04-23-JSBi-review). GWAS、polygenic risk score、高次元データセットでの penalized regression (Lasso など) に関する人類統計遺伝学の解析手法について執筆しました。
 - 2021/4/21: Yosuke gave an invited lecture on [Japanese Education](/teaching/2021-04-21-ENGR159Q).
