@@ -19,7 +19,7 @@ This page is written in my native language, Japanese, and should contain the sam
 - 2012年4月  東京大学 教養学部 理科二類 入学
 - 2014年4月-2016年3月  東京大学 理学部 生物情報科学科 卒業
   - 卒業研究では，[森下真一先生](https://mlab.cb.k.u-tokyo.ac.jp/)にご指導いただきました
-- 2016年9月-2021年6月  スタンフォード大学 [Biomedical Informatics 博士課程](https://med.stanford.edu/bmi.html)
+- 2016年9月-2021年6月  スタンフォード大学 [Biomedical Informatics 博士課程](https://med.stanford.edu/bmi.html) 修了 (Ph.D.)
   - 博士論文: "[Large-scale genomic inference of multiple phenotypes](https://purl.stanford.edu/sb956xt8745)", [博士論文公聴会](/talks/2021-05-03-PhD-defense)
   - 指導教員: [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) 先生, [Dr. Gill Bejerano](http://bejerano.stanford.edu/) 先生
 
