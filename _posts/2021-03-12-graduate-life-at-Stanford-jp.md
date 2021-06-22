@@ -21,7 +21,7 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
 ## 大学院留学の準備について
 
 - [米国大学院学生会](https://gakuiryugaku.net/)の，留学説明会（資料や講演会の動画が閲覧できます）やニュースレターに，良い情報がまとまっています。
-  - 私は、[2016年12月＠早稲田大学](https://gakuiryugaku.net/seminar/132)、[2017年12月＠東京大学](https://gakuiryugaku.net/seminar/691)、および[2018年8月＠東京大学](https://gakuiryugaku.net/seminar/923)での留学説明会に携わる機会を得ました。
+  - 私は、[2016年12月＠早稲田大学](https://gakuiryugaku.net/seminar/132)、[2017年12月＠東京大学](https://gakuiryugaku.net/seminar/691)、[2018年8月＠東京大学](https://gakuiryugaku.net/seminar/923)、および[2021年7月＠名古屋大学（リモート開催）](https://gakuiryugaku.net/seminar/2864)  での留学説明会に携わる機会を得ました。
   - とくに，[2017年12月](https://gakuiryugaku.net/seminar/691)の資料("20171225 留学説明会 6. 出願準備")に，出願準備のタイムラインなどの情報が掲載されています。
 
 ## 他の人が書いた記事へのリンク
