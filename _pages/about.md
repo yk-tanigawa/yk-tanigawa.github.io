@@ -32,7 +32,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## News
 
 - 2021/6/19: **New Publication**. Our paper describing `snpnet-v2` and `sparse-snpnet` is now published! Congratulations, Ruilin!
-  - ["Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks"](/publication/2021-06-19-snpnet-v2) ([full-text link](http://track.smtpsendmail.com/9032119/c?p=6r92I97wdR4e0OwIQkE-ER8VRDRnHAJ6xscvQ8YkOtrc-zDqRLgSqJiCDZprzgs_9vZfkrAMW-DAndcEuUdWgjCuvd0n5e-Vm3zYFb5zf-YH9Qg7mtlui0NcAj87AbLzk0FOGDdwTP2niPgq_dA4p0Mi6rW1rGwgcT_28X6hgOa2L_U_IOfJD08J_r8JeRHZl0VIpkeANGyb9n_egRVnY6L-aI9KV5CKvT-4vIWqjubeRUpcf36bzhO4l-UhXjuMj151qPp6p5Mn5Cfue3isvljgJ5qoqVC6pVbQDq-1qsE=))
+  - ["Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks"](/publication/2021-06-19-snpnet-v2) ([full-text link](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab452/6306404?guestAccessKey=fdacd437-9789-4223-8731-86e413f879db))
 - 2021/6/13: Commencement day at Stanford. Yosuke received Ph.D. He is grateful for all the support and help he received.
 - 2021/5/13: Yosuke will present ([WhichTF](/publication/preprint-2019-08-20-whichtf)) at [Stanford Cardiovasular Institute's Research Roundtable (Zoom seminar)](/talks/2021-05-13-CVI).
 - 2021/5/11-14: Yosuke will present a poster on "Significant Sparse Polygenic Risk Scores in 428 traits in UK Biobank" at the Biology of Genomes virtual meeting ([#poster-324 channel](https://cshlmc-genome21.slack.com/app_redirect?channel=poster-324) on the conference slack).
