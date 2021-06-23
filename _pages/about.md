@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Yosuke Tanigawa is a Ph.D. candidate in [Biomedical Informatics program](https://med.stanford.edu/bmi.html) at [Stanford University](https://www.stanford.edu/). His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
+Yosuke Tanigawa is a Postdoctoral Associate at MIT Computational Biology Lab.
+His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
 
-He works with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
+
+He completed his doctoral training at [Stanford University](https://www.stanford.edu/) (Ph.D. in [Biomedical Informatics](https://med.stanford.edu/bmi.html)), where he worked with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
 
 Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints. Please also check [Resources](/resources) page for datasets, analysis and visualization scripts, and web applications from our research activities (mainly from [the Rivas lab](http://med.stanford.edu/rivaslab/) and [the Bejerano lab](http://bejerano.stanford.edu/)).
 
@@ -29,6 +31,9 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
+- 2021/6/19: **New Publication**. Our paper describing `snpnet-v2` and `sparse-snpnet` is now published! Congratulations, Ruilin!
+  - ["Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks"](/publication/2021-06-19-snpnet-v2) ([full-text link](http://track.smtpsendmail.com/9032119/c?p=6r92I97wdR4e0OwIQkE-ER8VRDRnHAJ6xscvQ8YkOtrc-zDqRLgSqJiCDZprzgs_9vZfkrAMW-DAndcEuUdWgjCuvd0n5e-Vm3zYFb5zf-YH9Qg7mtlui0NcAj87AbLzk0FOGDdwTP2niPgq_dA4p0Mi6rW1rGwgcT_28X6hgOa2L_U_IOfJD08J_r8JeRHZl0VIpkeANGyb9n_egRVnY6L-aI9KV5CKvT-4vIWqjubeRUpcf36bzhO4l-UhXjuMj151qPp6p5Mn5Cfue3isvljgJ5qoqVC6pVbQDq-1qsE=))
+- 2021/6/13: Commencement day at Stanford. Yosuke received Ph.D. He is grateful for all the support and help he received.
 - 2021/5/13: Yosuke will present ([WhichTF](/publication/preprint-2019-08-20-whichtf)) at [Stanford Cardiovasular Institute's Research Roundtable (Zoom seminar)](/talks/2021-05-13-CVI).
 - 2021/5/11-14: Yosuke will present a poster on "Significant Sparse Polygenic Risk Scores in 428 traits in UK Biobank" at the Biology of Genomes virtual meeting ([#poster-324 channel](https://cshlmc-genome21.slack.com/app_redirect?channel=poster-324) on the conference slack).
 - 2021/5/3: **[Yosuke passed his Ph.D. defense](/talks/2021-05-03-PhD-defense)!** Thank you very much for everyone who supported me along the way.
@@ -48,5 +53,5 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 Email is the best contact to reach out to me. If you do not get a reply within two days, please do not hesitate to follow-up. Thank you very much for your interest in our work.
 
-- Email: `yosuke <dot> tanigawa [at] stanford <dot> edu`
+- Email: `yosuke <dot> tanigawa [at] alumni <dot> stanford <dot> edu`
 - Social media accounts can be found on the left (for PC) or "Follow" button on the top (for smartphone).

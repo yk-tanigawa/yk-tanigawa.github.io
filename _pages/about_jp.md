@@ -10,7 +10,7 @@ redirect_from:
 
 This page is written in my native language, Japanese, and should contain the same information as in the other sections of this website.
 
-はじめまして，[スタンフォード大学](https://www.stanford.edu/)の [Biomedical Informatics program](https://med.stanford.edu/bmi.html) の博士候補生の谷川洋介と申します。現在，[Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/)と [Dr. Gill Bejerano](http://bejerano.stanford.edu/) の両先生のご指導のもと，統計遺伝学や大規模ゲノミクスの研究に従事しています。
+はじめまして，マサチューセッツ工科大学 (MIT) コンピュータ科学・人工知能研究所 (CSAIL) にてポスドク研究員をしている谷川洋介と申します。現在，[Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生の主宰する [Computational Biology Lab](http://compbio.mit.edu/) にて大規模ゲノミクス・エピゲノミクスの研究に従事しています。
 
 履歴書は[CV](/cv)に，研究成果の一覧は[Publications](/publications)に掲載されています。また，データセット，ソフトウェアなどを[Resources](/resources)にて公開しています。可能な限り，最新の情報をウェブサイトに掲載するようにつとめていますが，万一更新が滞ってしまっている場合は，[Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ)の論文のリストもあわせてご参照いただければ幸いです。
 
@@ -22,6 +22,8 @@ This page is written in my native language, Japanese, and should contain the sam
 - 2016年9月-2021年6月  スタンフォード大学 [Biomedical Informatics 博士課程](https://med.stanford.edu/bmi.html) 修了 (Ph.D.)
   - 博士論文: "[Large-scale genomic inference of multiple phenotypes](https://purl.stanford.edu/sb956xt8745)", [博士論文公聴会](/talks/2021-05-03-PhD-defense)
   - 指導教員: [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) 先生, [Dr. Gill Bejerano](http://bejerano.stanford.edu/) 先生
+- 2021年7月-  マサチューセッツ工科大学 (MIT) ポスドク研究員
+  - 指導教官: [Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生
 
 
 ## 主な研究内容
@@ -70,5 +72,5 @@ This page is written in my native language, Japanese, and should contain the sam
 下記の電子メールアドレスに，所属とお名前を明らかにして，ご連絡ください。
 2日間以内に返信がない場合は，お手数ですが，再度連絡をいただければ幸いです。
 
-- Email: `yosuke <dot> tanigawa [at] stanford <dot> edu`
+- Email: `yosuke <dot> tanigawa [at] alumni <dot> stanford <dot> edu`
 - 各種ソーシャルメディアのアカウントは，左側（パソコンの場合），もしくはページトップの"Follow"ボタン（スマートフォンの場合）に掲載されています。
