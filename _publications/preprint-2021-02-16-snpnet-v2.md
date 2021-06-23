@@ -8,6 +8,7 @@ date: 2021-02-16
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2021.02.14.431030'
 citation: 'R. Li, C. Chang, Y. Tanigawa, B. Narasimhan, T. Hastie, R. Tibshirani, M. A. Rivas, Fast Numerical Optimization for Genome Sequencing Data in Population Biobanks. bioRxiv, 2021.02.14.431030 (2021).'
+ispublishedpreprint: "True"
 ---
 
 In this project led by Ruilin Li, we improved the efficiency of the R snpnet package by taking advantage of the sparsity-aware compact on-memory representation of the genotype data matrix.
