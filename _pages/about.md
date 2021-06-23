@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yosuke Tanigawa is a Postdoctoral Associate at MIT Computational Biology Lab.
-His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
-
+Yosuke Tanigawa is a Postdoctoral Associate at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)). His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
 
 He completed his doctoral training at [Stanford University](https://www.stanford.edu/) (Ph.D. in [Biomedical Informatics](https://med.stanford.edu/bmi.html)), where he worked with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
 
