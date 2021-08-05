@@ -22,3 +22,5 @@ The initial set-up
   - Change input sources: `Cntl + space`
 - Download the user's manual and `Advantage2 SmartSet App` for Mac.
   - We customized key mapping, such as assigning `Tab` and `Esc` keys.
+
+![Key remap photo](/files/2020/Kinesis-advantages2-keymap.png)
