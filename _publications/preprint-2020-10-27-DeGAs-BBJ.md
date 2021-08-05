@@ -2,6 +2,7 @@
 title: "[Preprint] A global atlas of genetic associations of 220 deep phenotypes"
 collection: publications
 permalink: /publication/preprint-2020-10-27-DeGAs-BBJ
+excerpt_image: '/files/2021/DeGAs-BBJ-Fig4.png'
 excerpt: 'Using a set of GWAS summary statistics of diseases characterized from both European (UK Biobank and FinnGen) and East Asian (Biobank Japan) populations, we dissected latent DeGAs components of multi-ethnic association summary statistics. We annotated each component by pathway and cell-type enrichment as well as projection of metabolomic and biomarker summary statistics. We demonstrate how can we use such trans-ethnic annotated latent components to classify diseases based on their genetic basis.'
 date: 2020-10-27
 venue: 'medRxiv'
@@ -15,3 +16,6 @@ citation: 'S. Sakaue*, M. Kanai*, Y. Tanigawa, J. Karjalainen, M. Kurki, S. Kosh
 Using a set of GWAS summary statistics of diseases characterized from both European (UK Biobank and FinnGen) and East Asian (Biobank Japan) populations, we dissected latent DeGAs components of multi-ethnic association summary statistics. We annotated each component by pathway and cell-type enrichment as well as projection of metabolomic and biomarker summary statistics. We demonstrate how can we use such trans-ethnic annotated latent components to classify diseases based on their genetic basis.
 
 This is a project co-led by [Saori](https://twitter.com/saorisakaue) and [Masa](https://mkanai.github.io/). Yosuke contributed to the design and interpretation of the decomposition analysis.
+
+
+![DeGAs-BBJ Figure 4](/files/2021/DeGAs-BBJ-Fig4.png)
