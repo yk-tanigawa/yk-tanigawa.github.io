@@ -2,6 +2,7 @@
 title: "[Preprint] Bayesian model comparison for rare variant association studies of multiple phenotypes"
 collection: publications
 permalink: /publication/preprint-2021-07-24-MRP
+excerpt_image: '/files/2021/MRP-model.png'
 excerpt:
 date: 2021-07-24
 venue: 'bioRxiv'
@@ -11,3 +12,5 @@ redirect_from:
   - "/publication/preprint-2018-01-31-MRP"
 ---
 <!-- ispublishedpreprint: "True" -->
+
+![MRP model figure](/files/2021/MRP-model.png)
