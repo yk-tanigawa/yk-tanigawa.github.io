@@ -30,11 +30,13 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
   - また、2021年7月の説明会への参加にあわせて、ニュースレター（ブログ）へ記事を寄稿予定です。
   - [2017年12月](https://gakuiryugaku.net/seminar/691)の資料("20171225 留学説明会 6. 出願準備")には，出願準備のタイムラインなどの情報が掲載されています。
   - 英語の勉強法については、[米国大学院学生会ニュースレター（ブログ）の過去記事](https://gakuiryugaku.net/blog/%e3%83%90%e3%83%83%e3%82%af%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc/)に、いくつか英語の勉強法が出ています。参考にしてみてください。
+- [HHMI, Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
+  - "Addendum: Writing a Letter of Recommendation" のセクションに、推薦状に関する情報がまとまっています。アメリカの研究者がどのように推薦状を書いているかが窺い知れて興味深いです。
+- [Stanford's Plus Five (joint effort contributed by BEAM, Stanford Career Education and the Stanford Alumni Association)](https://plusfive.sites.stanford.edu/)
+  - "Career Guides" というところに、キャリアガイドの冊子が pdf で提供されています。冊子では，どのようにキャリアを選ぶべきかということが解説されていたり，履歴書の書き方やサンプルといった方法論もまとめらてていて，参考になります。Bachelor's & Master's Career Guide と PhD & Postdoc Career Guide の二冊があるようです。
 
 ## 他の人が書いた記事へのリンク
 
 - Naoto Yamaguchi さんの[米国大学院出願記](https://note.com/nafoto_z/n/n3c39acec9d62)(2021/3)。シリーズものになっています。
   - ちなみに、 Naoto Yamaguchi さんは生物情報科学科の後輩にあたるようです。
 - [林 文夫, 私が書く米欧の大学院向けの推薦状について (2004)](http://iwasakiichiro.info/LLM/ProfHayashiLORPolicy.html)
-- [HHMI, Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
-  - "Addendum: Writing a Letter of Recommendation" のセクションに、推薦状に関する情報がまとまっています。アメリカの研究者がどのように推薦状を書いているかが窺い知れて興味深いです。
