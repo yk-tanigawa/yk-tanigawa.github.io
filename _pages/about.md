@@ -29,7 +29,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## News
 
-- 2021/9/7: **New Manuscript**. "[Significant Sparse Polygenic Risk Scores across 428 traits in UK Biobank](https://doi.org/10.1101/2021.09.02.21262942)." We performed a systematic assessment of the predictive performance of PRS models across >1,600 traits in UK Biobank and report 428 PRS models with significant predictive performance.
+- 2021/9/7: **New Manuscript**. "[Significant Sparse Polygenic Risk Scores across 428 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap)." We performed a systematic assessment of the predictive performance of PRS models across >1,600 traits in UK Biobank and report 428 PRS models with significant predictive performance.
 - 2021/8/5: **New Manuscript**. Our [preprint describing Multiple Rare-Variants and Phenotypes Mixture Model (MRPMM), an application of Bayesian Mixture Model for the analysis of rare-variants is now posted on bioRxiv](/publication/preprint-2021-08-05-MRPMM). Congratulations, Guhan!
 - 2021/7/24: **Updated manuscript**. Our latest version of [the preprint describing the MRP model, a Bayesian model comparison-based approach for rare-variant association studies](/publication/preprint-2021-07-24-MRP), is now posted on bioRxiv. In this update, we describe the latest results from the exome-sequencing analysis of ~200,000 individuals from UK Biobank. Congratulations, Guhan!
 - 2021/7/8: **New Publication**. The COVID19 Host Genetics Initiative's [flaghip paper is published](/publication/2021-07-08-covid19HGI). I am one of the 2,000+ co-authors of this paper. Congrats for everbody involved.
