@@ -2,7 +2,8 @@
 title: "[Preprint] Medical relevance of common protein-altering variants in GPCR genes across 337,205 individuals in the UK Biobank study"
 collection: publications
 permalink: /publication/preprint-2019-12-15-GPCR
-excerpt: 
+excerpt:
+excerpt_image: '/files/2019/GPCR_Fig1.jpg'
 date: 2019-12-15
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2019.12.13.876250'
