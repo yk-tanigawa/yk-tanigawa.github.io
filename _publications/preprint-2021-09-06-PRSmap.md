@@ -7,7 +7,6 @@ date: 2021-09-06
 venue: 'medRxiv'
 excerpt_image: '/files/2021/PRSmap_Fig4.png'
 paperurl: 'https://doi.org/10.1101/2021.09.02.21262942'
-fulltext: 'https://doi.org/10.1101/2021.09.02.21262942'
 citation: 'Y. Tanigawa, J. Qian, G. R. Venkataraman, J. M. Justesen, R. Li, R. Tibshirani, T. Hastie, M. A. Rivas, Significant Sparse Polygenic Risk Scores across 428 traits in UK Biobank. medRxiv 2021.09.02.21262942 (2021).'
 ---
 
