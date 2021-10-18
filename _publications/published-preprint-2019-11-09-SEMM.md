@@ -12,7 +12,3 @@ citation: 'E. Flynn, Y. Tanigawa, F. Rodriguez, R. B. Altman, N. Sinnott-Armstro
 ---
 
 This preprint is [now published in European Journal of Human Genetics](/publication/2020-09-01-SEMM)!
-
-In this study led by [Emily Flynn](https://datascience.stanford.edu/people/emily-flynn), we discovered a surprising sex-specificity in the genetics of testosterone. Yosuke performed polygenic risk score (PRS) analysis and demonstrated that PRS models trained for each sex show improvements in predictive accuracy.
-
-![SEMM PRS figure](/files/2019/SEMM-PRS-plot.png)

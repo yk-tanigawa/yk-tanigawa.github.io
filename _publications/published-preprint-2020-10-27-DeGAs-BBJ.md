@@ -12,9 +12,3 @@ ispublishedpreprint: "True"
 ---
 
 This preprint is [now published in Nature Genetics](/publication/2021-09-30-DeGAs-BBJ)!
-
-Using a set of GWAS summary statistics of diseases characterized from both European (UK Biobank and FinnGen) and East Asian (Biobank Japan) populations, we dissected latent DeGAs components of multi-ethnic association summary statistics. We annotated each component by pathway and cell-type enrichment as well as projection of metabolomic and biomarker summary statistics. We demonstrate how can we use such trans-ethnic annotated latent components to classify diseases based on their genetic basis.
-
-This is a project co-led by [Saori](https://twitter.com/saorisakaue) and [Masa](https://mkanai.github.io/). Yosuke contributed to the design and interpretation of the decomposition analysis.
-
-![DeGAs-BBJ Figure 4](/files/2021/DeGAs-BBJ-Fig4.png)
