@@ -2,12 +2,12 @@
 title: "Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank"
 collection: publications
 permalink: /publication/preprint-2021-09-06-PRSmap
-excerpt: 'We performed a systematic assessment of the predictive performance of PRS models across >1,500 traits in UK Biobank and report 428 PRS models with significant predictive performance.'
+excerpt: 'We performed a systematic assessment of the predictive performance of PRS models across >1,500 traits in UK Biobank and report 813 PRS models with significant predictive performance.'
 date: 2021-09-06
 venue: 'medRxiv'
 excerpt_image: '/files/2021/PRSmap_Fig4.png'
 paperurl: 'https://doi.org/10.1101/2021.09.02.21262942'
-citation: 'Y. Tanigawa, J. Qian, G. R. Venkataraman, J. M. Justesen, R. Li, R. Tibshirani, T. Hastie, M. A. Rivas, Significant Sparse Polygenic Risk Scores across 428 traits in UK Biobank. medRxiv 2021.09.02.21262942 (2021).'
+citation: 'Y. Tanigawa, J. Qian, G. R. Venkataraman, J. M. Justesen, R. Li, R. Tibshirani, T. Hastie, M. A. Rivas, Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank. medRxiv 2021.09.02.21262942 (2021).'
 ---
 
 Using the dense phenotypic information in UK Biobank, we systematically characterized polygenic risk score (or PRS) across more than 1,500 traits. We evaluated the predictive performance of the models and compared that with the baseline models that only consider covariates, which are age, sex, and top 10 genotype principal components. We then assessed the statistical significance of the PRS in improving the predictive performance. When we look at the incremental R2 or incremental AUC, we find 813 traits have significant incremental predictive performance, after accounting for multiple hypothesis testing.
