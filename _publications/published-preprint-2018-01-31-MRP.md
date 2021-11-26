@@ -13,4 +13,4 @@ redirect_from:
 ispublishedpreprint: "True"
 ---
 
-![MRP model figure](/files/2021/MRP-model.png)
+This preprint is [now published in American Journal of Human Genetics](/publication/2021-11-25-MRP)!
