@@ -31,9 +31,9 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 - 2021/11/26: **Updated manuscript**. We posted pdated manuscript, titled [Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap) on medRxiv.
 - 2021/11/24: **New Publication**. "[Bayesian model comparison for rare-variant association studies
-Author links open overlay panel](https://authors.elsevier.com/c/1e863geW~j2B)."
+Author links open overlay panel](/publication/2021-11-25-MRP)." ([Link to the full text](https://authors.elsevier.com/c/1e863geW~j2B)). Congratulations, Guhan and the team!
 - 2021/11/23: **New Manuscript**. "[Single-cell dissection of obesity-exercise axis in adipose-muscle tissues
-](https://doi.org/10.1101/2021.11.22.469622)."
+](/publication/preprint-2021-11-24-scMetab)." Congratulations, Jackie (Jiekun), Maria, Pasquale, and the team!
 - 2021/10/18-22: Yosuke presented a poster on his recent manuscript, "[Significant Sparse Polygenic Risk Scores across 428 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap)" at American Society of Human Genetics annual meeting 2021 (virtual).
 - 2021/9/30: **New Publication** "[A cross-population atlas of genetic associations for 220 human phenotypes](/publication/2021-09-30-DeGAs-BBJ)" ([full-text link](https://rdcu.be/cyG6p)). In this project co-led by [Saori](https://twitter.com/saorisakaue) and [Masa](https://mkanai.github.io/), we defined 220 disease end points in Biobank Japan and performed GWAS meta-analysis with the corresponding phenotypes in European populations in the UK and Finland. We dissected latent DeGAs components of multi-ethnic association summary statistics. This paper was highlighted in the cover of the journal. Huge congratulations to Saori, Masa, and the team!
 - 2021/9/21: **New Publication** "[APOC3 genetic variation, serum triglycerides, and risk of coronary artery disease in Asian Indians, Europeans, and other ethnic groups](/publication/2021-09-21-ApoC3)." We examined the causal relationship between the genetically increased triglycerides and the risk of coronary artery diseases in Asian Indians.
