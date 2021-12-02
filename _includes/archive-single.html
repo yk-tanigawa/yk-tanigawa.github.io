@@ -69,10 +69,12 @@
     </p>
     {% endif %}
 
-    {% if post.citation and post.paperurl %}
-      <p>Citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% if post.citation and post.paperurl and post.fulltext %}
+      <p>References: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a> (<a href="{{ post.fulltext }}">full text</a>)</p>
+    {% elsif post.citation and post.paperurl %}
+      <p>References: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>Citation: {{ post.citation }} </p>
+      <p>References: {{ post.citation }} </p>
     {% elsif post.resource and post.paperurl %}
       <p>Resource: {{ post.resource }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.resource %}
