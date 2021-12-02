@@ -10,4 +10,6 @@ paperurl: 'https://doi.org/10.1101/2021.11.22.469622'
 citation: 'J. Yang*, M. Vamvini*, P. Nigro*, L.-L. Ho, K. Galani, M. Alvarez, Y. Tanigawa, M. Laakso, L. Agudelo, P. Pajukanta, R. Middelbeek, K. Grove, L. Goodyear, M. Kellis, Single-cell dissection of obesity-exercise axis in adipose-muscle tissues. bioRxiv 2021.11.22.469622 (2021).'
 ---
 
-- https://twitter.com/manoliskellis/status/1463227873343401985
+![Study design](/files/2021/scMetab_Fig1b.png)
+
+- [https://twitter.com/manoliskellis/status/1463227873343401985](https://twitter.com/manoliskellis/status/1463227873343401985)
