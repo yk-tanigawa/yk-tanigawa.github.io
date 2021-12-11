@@ -36,7 +36,7 @@ Note: (2021.11.26) we have updated the manuscript based on the feedback from the
 
 ## Data and Code availability
 
-- The sparse PRS model weights generated from this study are available on the Global Biobank Engine (https://biobankengine.stanford.edu/prs).
-- The significant PRS models are also available at the PGS catalog (https://www.pgscatalog.org/publication/PGP000244/ and https://www.pgscatalog.org/publication/PGP000128/, score IDs are listed in S1 Table).
-- The BASIL algorithm implemented in the R snpnet package was used in the PRS analysis, which is available at https://github.com/rivas-lab/snpnet.
-- The analyses presented in this study were based on data accessed through the UK Biobank: https://www.ukbiobank.ac.uk.
+- The sparse PRS model weights generated from this study are available on the [Global Biobank Engine](https://biobankengine.stanford.edu/prs).
+- The significant PRS models are also available at the PGS catalog ([PGP000244](https://www.pgscatalog.org/publication/PGP000244/) and [PGP000128](https://www.pgscatalog.org/publication/PGP000128/), score IDs are listed in S1 Table).
+- The BASIL algorithm implemented in the R [snpnet](https://github.com/rivas-lab/snpnet) package was used in the PRS analysis.
+- The analyses presented in this study were based on data accessed through the [UK Biobank](https://www.ukbiobank.ac.uk)
