@@ -1,5 +1,5 @@
 ---
-title: 'Stanford での大学院生活'
+title: 'Stanford での大学院生活・大学院出願準備に関するリソース'
 date: 2021-03-12
 permalink: /posts/2021/03/life-at-Stanford-jp
 tags:
@@ -13,9 +13,10 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
 
 最近，大学院での学位取得を目的とした留学や，スタンフォードでの生活の様子について聞かれる機会があったので，下記に関連する情報をまとめます。
 
-## Stanford での大学院生活 の様子
+## Stanford での大学院生活の様子
 
 - [以前の記事](/posts/2020/06/FOS/)にも書いたように，研究や学修，生活の様子を記した[留学レポート](https://funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html)が船井情報科学振興財団のホームページに掲載されています。
+  - [船井情報科学振興財団による Funai Overseas Scholarship](/posts/2020/06/FOS/) というページに，それぞれの報告書の内容に関する簡単な紹介を書きました。
 - [日本バイオインフォマティクス学会](https://www.jsbi.org/)の[ニュースレター](https://www.jsbi.org/publication/newsletter/)，[第38号 (2020年8月)](https://www.jsbi.org/media/files/_u/topic/file/NL38.pdf)にも，に留学体験記に関する寄稿文があります。
 - 私がトレーニングを受けた、[Biomedical Informaticsプログラム](https://med.stanford.edu/bmi/)のカリキュラムについては、下記のウェブサイトが参考になるかと思います。
   - [卒業に必要な授業科目などカリキュラム便覧](https://exploredegrees.stanford.edu/schoolofmedicine/biomedicalinformatics/)
@@ -34,6 +35,10 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
   - "Addendum: Writing a Letter of Recommendation" のセクションに、推薦状に関する情報がまとまっています。アメリカの研究者がどのように推薦状を書いているかが窺い知れて興味深いです。
 - [Stanford's Plus Five (joint effort contributed by BEAM, Stanford Career Education and the Stanford Alumni Association)](https://plusfive.sites.stanford.edu/)
   - "Career Guides" というところに、キャリアガイドの冊子が pdf で提供されています。冊子では，どのようにキャリアを選ぶべきかということが解説されていたり，履歴書の書き方やサンプルといった方法論もまとめらてていて，参考になります。Bachelor's & Master's Career Guide と PhD & Postdoc Career Guide の二冊があるようです。
+- [What faculty members are looking for in a grad school application essay, MIT EECS](https://www.eecs.mit.edu/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
+  - MIT の EECS による，エッセイの書き方に関する Tips 集
+- [Graduate School Statement of Purpose, Communication Lab at MIT EECS](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
+  - エッセイに何を書くべきかについて詳細に書かれている
 
 ## 他の人が書いた記事へのリンク
 

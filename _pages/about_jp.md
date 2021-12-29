@@ -28,7 +28,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 ## 主な研究内容
 
-- **統計遺伝学** の手法を用いた，ヒトゲノムの研究（とくに，バイオバンクを用いた，解析手法の開発と応用に興味を持っています）
+- **統計遺伝学** の手法を用いた，ヒトゲノムの研究（とくに，バイオバンクを用いた，解析手法の開発と応用に興味を持っています）
   - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nature Genetics. (2021).](/publication/2021-01-18-biomarkers)
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
   - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
@@ -58,7 +58,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 ## このウェブサイトにある日本語のコンテンツ
 
-- [Stanford での大学院生活](/posts/2021/03/life-at-Stanford-jp)
+- [Stanford での大学院生活・大学院出願準備に関するリソース](/posts/2021/03/life-at-Stanford-jp)
 - [船井情報科学振興財団による Funai Overseas Scholarship](/posts/2020/06/FOS/)
 - [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)
 - [高校生への科学アウトリーチ活動](/posts/2020/08/outreach_jp/)
