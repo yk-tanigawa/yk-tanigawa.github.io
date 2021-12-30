@@ -27,6 +27,16 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in the analysis of **transcription factors**.
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf)
 
+## Blog posts
+
+I write blog posts mostly on computing tips, including:
+
+- [GWAS and genetic analyses with PLINK2 and pgenlibr](/posts/2020/09/PLINK2)
+- [Notes on Apache Columnar format](/posts/2020/11/apache-columnar)
+- [Working with very small values in R](/posts/2020/07/small-values-in-R)
+- [Commonly used commands in high performance cluster computing with Slurm workload manager](/posts/2020/04/slurm/)
+
+
 ## News
 
 - 2021/11/26: **Updated manuscript**. We posted updated manuscript, titled [Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap) on medRxiv.
