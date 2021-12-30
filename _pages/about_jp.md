@@ -62,7 +62,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 - [Stanford での大学院生活・大学院出願準備に関するリソース](/posts/2021/03/life-at-Stanford-jp)
 - [船井情報科学振興財団による Funai Overseas Scholarship](/posts/2020/06/FOS/)
-- [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/)
+- [COVID-19 host genetics に関する研究](/posts/2020/04/COVID-19-hg-jp/) (2020年4月時点での情報です)
 - [高校生への科学アウトリーチ活動](/posts/2020/08/outreach_jp/)
 - [発表資料 - 2020年日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会](/talks/2020-09-01-IIBMP2020)
 - （和文総説）[複数の表現型を用いた人類遺伝統計学の大規模情報解析 (Large-scale human genetic statistical inference with multiple phenotypes), JSBi bioinformatics review, 1(2), 47-59 (2021)](/publication/2021-04-23-JSBi-review)。GWAS、polygenic risk score、高次元データセットでの penalized regression (Lasso など) に関する人類統計遺伝学の解析手法について執筆しました。
