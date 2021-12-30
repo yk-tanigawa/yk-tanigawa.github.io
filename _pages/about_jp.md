@@ -43,15 +43,17 @@ This page is written in my native language, Japanese, and should contain the sam
 
 ## 主な受賞歴等
 
-- 2017, 2018, 2019年  Stanford University. Biosciences office of the graduate education travel grant 採択
-- 2016年7月  The Helmsley Charitable Trust, Helmsley Interdisciplinary Fellowship 採択
+- 2018, 2021年 Reviewers’ Choice Abstract Award, the American Society of Human Genetics Annual Meeting
+- 2020年9月 最優秀口頭発表賞 日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会 ([発表資料](/talks/2020-09-01-IIBMP2020))
+- 2017, 2018, 2019年 Stanford University. Biosciences office of the graduate education travel grant 採択
+- 2016年7月 The Helmsley Charitable Trust, Helmsley Interdisciplinary Fellowship 採択
   - [Cold Spring Harbor Laboratory](https://www.cshl.edu/) でのサマースクール ["Chromatin, Epigenetics, and Gene Expression"](https://meetings.cshl.edu/courses.aspx?course=C-GNX&year=16) の参加の一部を補助していただきました
   - サマースクール参加の様子は，[第1回の留学レポート](https://www.funaifoundation.jp/scholarship/201612tanigawayosuke.pdf)に報告させていだています（pdf 2ページめ）。
-- 2016年5月  [公益財団法人 船井情報科学振興財団](https://www.funaifoundation.jp/index.html) 2016年度 Funai Overseas Scholarship 採択
+- 2016年5月 [公益財団法人 船井情報科学振興財団](https://www.funaifoundation.jp/index.html) 2016年度 Funai Overseas Scholarship 採択
   - [船井情報科学振興財団による Funai Overseas Scholarship](/posts/2020/06/FOS/)
   - [留学レポートが，財団のホームページに掲載されています](https://www.funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html)
-- 2016年3月  東京大学 [理学部](https://www.s.u-tokyo.ac.jp/) [平成27年度 理学部学修奨励賞](https://www.s.u-tokyo.ac.jp/ja/awards/encouragement/H27.html)
-- 2014年6月  [東大友の会](https://www.friendsofutokyo.org/) Global Leadership Award
+- 2016年3月 東京大学 [理学部](https://www.s.u-tokyo.ac.jp/) [平成27年度 理学部学修奨励賞](https://www.s.u-tokyo.ac.jp/ja/awards/encouragement/H27.html)
+- 2014年6月 [東大友の会](https://www.friendsofutokyo.org/) Global Leadership Award
   - UC Berkeley でのサマースクールへの参加費用の一部を補助していただきました。[財団のホームページにレポートが掲載されています](http://www.friendsofutokyo.org/summer-session-summer-english-language-studies-uc-berkeley/)。
 
 学修・研究活動への様々なご支援に，深く感謝します。ありがとうございます。
