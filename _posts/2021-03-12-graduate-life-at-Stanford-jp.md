@@ -23,6 +23,7 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
   - [授業のシラバス検索のためのウェブサイト](https://explorecourses.stanford.edu/)
   - 入学後に学生が参照する[Student Handbook](https://med.stanford.edu/bmi/biomedical-informatics-students/handbook.html)にもカリキュラムに関する情報が載っています
   - その他、Stanford 大学での大学院生活で役立った学内リソースは、[Useful Links](/posts/links/)のページにもいくつか掲載しています。
+- 大学院での研究については，[船井情報科学振興財団の留学報告書](/posts/2020/06/FOS/)や，[和文総説](/publication/2021-04-23-JSBi-review)などで取り上げています。
 
 ## 大学院留学の準備について
 
