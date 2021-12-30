@@ -20,7 +20,7 @@ This is an invited review written in Japanese, published by the Japanese Society
 - [大規模集団コホートの複数の情報源からの表現型の定義](/publication/2020-05-07-digial-phenotyping)
 - 希少な遺伝的変異の解析
   - [緑内障のリスクを低減する遺伝的変異の報告](/publication/2020-05-05-ANGPTL7)
-  - MRP
+  - [ベイズ統計による複数コホート・複数の遺伝子変異・複数の表現型を組み合わせた遺伝的相関の検出](/publication/2021-11-25-MRP)
 - 遺伝的基盤の分解 (decomposition)
   - [Decomposition of Genetic Associations (DeGAs)](/publication/2019-09-06-DeGAs)
   - [DeGAs のポリジェニックリスクスコアへの応用](/publication/2021-02-08-dPRS)
