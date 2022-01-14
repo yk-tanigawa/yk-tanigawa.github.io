@@ -21,7 +21,7 @@ Clinical lab tests are often used in clinical practice to guide diagnoses and tr
 
 ![biomarkers highlights 2](/files/2021/Biomarkers-Fig2.jpg)
 
-Through UK Biobank-wide GWAS meta-analysis, we report > 10,000 GWAS asscotiaions (p < 5e-9) across 35 biomarkers and >1,800 loci. This includes > 450 large-effect (>0.1 s.d.) associations on protein-altering variants, which we highlight in a Fuji plot (gene symbols).
+Through UK Biobank-wide GWAS meta-analysis, we report > 10,000 GWAS associations (p < 5e-9) across 35 biomarkers and >5,700 loci. This includes > 450 large-effect (>0.1 s.d.) associations on protein-altering variants, which we highlight in a Fuji plot (gene symbols).
 
 ![biomarkers highlights 3](/files/2021/Biomarkers-Fig3.jpg)
 
