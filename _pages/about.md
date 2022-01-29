@@ -39,6 +39,7 @@ I write blog posts mostly on computing tips, including:
 
 ## News
 
+- 2022/01/28: Yosuke [presented at Journal Club meeting at Debora Marks's lab](/talks/2022-01-28-jclub-Marks-lab).
 - 2022/01/27: **Updated manuscript**. We posted updated manuscript, titled [Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap) on medRxiv.
 - 2022.01.01: Happy New Year!
 - cf. [News Archive](/tags/#news)
