@@ -17,7 +17,10 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
 
 - 研究や学修，生活の様子を記した[留学レポート](https://funaifoundation.jp/scholarship/grantee_tanigawa_yosuke.html)が船井情報科学振興財団のホームページに掲載されています。
   - [船井情報科学振興財団による Funai Overseas Scholarship](/posts/2020/06/FOS/) というページに，それぞれの報告書の内容に関する簡単な紹介を書きました。
-- [日本バイオインフォマティクス学会](https://www.jsbi.org/)の[ニュースレター](https://www.jsbi.org/publication/newsletter/)，[第38号 (2020年8月)](https://www.jsbi.org/media/files/_u/topic/file/NL38.pdf)にも，に留学体験記に関する寄稿文があります。
+- その他にもいくつか留学体験談について寄稿する機会を得ました。
+  - [日本バイオインフォマティクス学会](https://www.jsbi.org/)の[ニュースレター](https://www.jsbi.org/publication/newsletter/)，[第38号 (2020年8月)](https://www.jsbi.org/media/files/_u/topic/file/NL38.pdf)
+  - [FUTI 奨学生からの近況報告, Friends of UTokyo](https://www.facebook.com/friendsofutokyo/posts/2153675727976017)
+  - [カガクシャ・ネット](http://kagakushanet.blogspot.com/2016_09_01_archive.html) (2016年9月)
 - 私がトレーニングを受けた、[Biomedical Informaticsプログラム](https://med.stanford.edu/bmi/)のカリキュラムについては、下記のウェブサイトが参考になるかと思います。
   - [卒業に必要な授業科目などカリキュラム便覧](https://exploredegrees.stanford.edu/schoolofmedicine/biomedicalinformatics/)
   - [授業のシラバス検索のためのウェブサイト](https://explorecourses.stanford.edu/)

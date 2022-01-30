@@ -1,6 +1,6 @@
 ---
 title: 'Resources to learn more about efficient large-scale computing skills'
-date: 2021-03-12
+date: 2022-01-30
 permalink: /posts/2022/01/computing
 tags:
   - computing
