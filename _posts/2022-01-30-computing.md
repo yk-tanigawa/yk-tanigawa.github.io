@@ -8,6 +8,6 @@ tags:
 
 This page has a long list of resources to learn about efficient large-scale computing.
 
-<iframe width="100%" src="https://docs.google.com/document/d/e/2PACX-1vRL6IorMh9tvCSGwxxIPwjiy364nRBuPCFwfyNDw-sDzYvEEgjXZeGmg_YC8r1E8_r3TfNr_KG--aJy/pub?embedded=true"></iframe>
+<iframe width="595" height="900" src="https://docs.google.com/document/d/e/2PACX-1vRL6IorMh9tvCSGwxxIPwjiy364nRBuPCFwfyNDw-sDzYvEEgjXZeGmg_YC8r1E8_r3TfNr_KG--aJy/pub?embedded=true"></iframe>
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vRL6IorMh9tvCSGwxxIPwjiy364nRBuPCFwfyNDw-sDzYvEEgjXZeGmg_YC8r1E8_r3TfNr_KG--aJy/pub" target="_blank">Open the draft in the new window</a>
