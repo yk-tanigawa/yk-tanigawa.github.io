@@ -39,6 +39,7 @@ I write blog posts mostly on computing tips, including:
 
 ## News
 
+- 2022/3/24: **New Publication** "[Significant sparse polygenic risk scores across 813 traits in UK Biobank](/publication/2022-03-24-PRSmap)". We performed a systematic assessment of the predictive performance of polygenic risk score (PRS) models across >1,500 traits in UK Biobank and report 813 PRS models with significant predictive performance.
 - 2022/03/02: Yosuke [presented polygenic score analyses at University of Osaka, Japan](/talks/2022-03-02-PRS-UOsaka).
 - 2022/01/28: Yosuke [presented at Journal Club meeting at Debora Marks's lab](/talks/2022-01-28-jclub-Marks-lab).
 - 2022/01/27: **Updated manuscript**. We posted updated manuscript, titled [Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap) on medRxiv.
