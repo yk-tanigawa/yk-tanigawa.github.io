@@ -44,7 +44,6 @@ We thank UK Biobank, FinnGen, their participants, amazing collaborators, and col
 - [Analysis and visualization scripts](/resources/2020-biomarkers-code) used in this manuscript is available at [GitHub repo](https://github.com/rivas-lab/biomarkers/)
 - [Full text](https://rdcu.be/cdMmM)
 
-
 ## Coverage
 
 - [Research highlights in Nature Reviews Nephrology](https://doi.org/10.1038/s41581-021-00400-y)
