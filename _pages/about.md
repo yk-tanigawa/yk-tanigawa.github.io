@@ -39,7 +39,7 @@ I write blog posts mostly on computing tips, including:
 ## News
 
 - 2022/6/7: Yosuke presented a poster titled, "Single-cell transcriptional hallmarks of Alzheimer’s disease across 427 individuals" at the Broad Institute Poster Day 2022.
-- 2022/6/2: **New Publication**. "[Integration of rare expression outlier-associated variants improves polygenic risk prediction](/publication/2022-06-02-IOGC)"
+- 2022/6/2: **New Publication**. "[Integration of rare expression outlier-associated variants improves polygenic risk prediction](/publication/2022-06-02-IOGC)." Congrats, [Craig](http://smail-lab.org/) and the team!
 - 2022/5/10-14: Yosuke presented a poster titled, "Single-cell transcriptional hallmarks of Alzheimer’s disease across 427 individuals" at Biology of the Genomes conference at Cold Spring Harbor Laboratory.
 - 2022/3/24: **New Publication** "[Significant sparse polygenic risk scores across 813 traits in UK Biobank](/publication/2022-03-24-PRSmap)". We performed a systematic assessment of the predictive performance of polygenic risk score (PRS) models across >1,500 traits in UK Biobank and report 813 PRS models with significant predictive performance.
 - 2022/03/02: Yosuke [presented polygenic score analyses at University of Osaka, Japan](/talks/2022-03-02-PRS-UOsaka).
