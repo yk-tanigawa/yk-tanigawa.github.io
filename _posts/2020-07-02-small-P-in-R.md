@@ -13,7 +13,10 @@ When you're working on extremely small floating numbers in R (such as when you h
 
 ```{R}
 df %>%
-separate(P, c('P_base', 'P_exp'), sep='e', remove=F, fill='right') %>%
-replace_na(list(P_exp='0')) %>%
+separate(
+    p_value, c("P_base", "P_exp"),
+    sep = "e", remove = F, fill = "right"
+) %>%
+replace_na(list(P_exp = "0")) %>%
 mutate(log10P = log10(as.numeric(P_base)) + as.numeric(P_exp))
 ```
