@@ -38,6 +38,7 @@ I write blog posts mostly on computing tips, including:
 
 ## News
 
+- 2022/7/11: Yosuke presented "Single-cell transcriptional hallmarks and patient subtyping for Alzheimer’s disease" at ROS/MAP meeting 2022 at Rush University Medical Center, Chicago, IL.
 - 2022/6/7: Yosuke presented a poster titled, "Single-cell transcriptional hallmarks of Alzheimer’s disease across 427 individuals" at the Broad Institute Poster Day 2022.
 - 2022/6/2: **New Publication**. "[Integration of rare expression outlier-associated variants improves polygenic risk prediction](/publication/2022-06-02-IOGC)." Congrats, [Craig](http://smail-lab.org/) and the team!
 - 2022/5/10-14: Yosuke presented a poster titled, "Single-cell transcriptional hallmarks of Alzheimer’s disease across 427 individuals" at Biology of the Genomes conference at Cold Spring Harbor Laboratory.
