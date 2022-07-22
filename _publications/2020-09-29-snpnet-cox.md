@@ -7,7 +7,7 @@ excerpt_image: '/files/2020/snpnet-cox-Fig1.jpg'
 date: 2020-09-29
 venue: 'Biostatistics'
 paperurl: 'https://doi.org/doi:10.1093/biostatistics/kxaa038'
-citation: 'R. Li, C. Chang, J. M. Justesen, Y. Tanigawa, J. Qiang, T. Hastie, M. A. Rivas, R. Tibshirani, Fast Lasso method for large-scale and ultrahigh-dimensional Cox model with applications to UK Biobank. Biostatistics (2020).'
+citation: 'R. Li, C. Chang, J. M. Justesen, Y. Tanigawa, J. Qiang, T. Hastie, M. A. Rivas, R. Tibshirani, Fast Lasso method for large-scale and ultrahigh-dimensional Cox model with applications to UK Biobank. Biostatistics. 23(2), 522-540 (2020).'
 ---
 
 In this study led by [Ruilin Li](https://profiles.stanford.edu/ruilin-li), we propose extending the BASIL/snpnet algorithm to fit the L1 penalized Cox proportional hazards model using a large-scale dataset from a genotyped cohort. We present its application to 300+ time-to-event traits in UK Biobank.
