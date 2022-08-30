@@ -35,9 +35,9 @@ This page is written in my native language, Japanese, and should contain the sam
 - ヒトゲノム研究への応用を見据えた，**大規模データ**のための**統計解析手法**の開発
   - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
   - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet)
-  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR)
+  - [J. Qian, Y. Tanigawa, et al., Ann. Appl. Stat. 16(3), 1891-1918 (2022).](/publication/2022-07-19-SRRR)
 - ヒトゲノムに含まれる，非コード領域の機能の解析（とくに，**転写因子**のはたらきに興味を持っています）
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf)
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, PLOS Comput Biol 18(8), e1010378 (2022).](/publication/2022-08-30-whichtf)
 
 人類遺伝統計学や，その応用に関わる統計解析手法については，和文総説「[複数の表現型を用いた人類遺伝統計学の大規模情報解析](/publication/2021-04-23-JSBi-review)」においても取り上げました。よろしければ、あわせてご参照ください。
 

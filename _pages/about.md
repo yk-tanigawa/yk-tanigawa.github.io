@@ -23,9 +23,9 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 - Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
   - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
   - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet)
-  - [J. Qian, Y. Tanigawa, et al., bioRxiv, 2020.05.30.125252 (2020).](/publication/preprint-2020-05-30-SRRR)
+  - [J. Qian, Y. Tanigawa, et al., Ann. Appl. Stat. 16(3), 1891-1918 (2022).](/publication/2022-07-19-SRRR)
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in the analysis of **transcription factors**.
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, bioRxiv, 730200 (2019).](/publication/preprint-2019-08-20-whichtf)
+  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, PLOS Comput Biol 18(8), e1010378 (2022).](/publication/2022-08-30-whichtf)
 
 ## Blog posts
 
@@ -38,6 +38,7 @@ I write blog posts mostly on computing tips, including:
 
 ## News
 
+- 2022/8/30: **New Publication** "[WhichTF is dominant in your open chromatin data?](/publication/2022-08-30-whichtf)". We develop an ontology-guided approach to ranking tissue-/cell-type-specific transcription factors (TFs) from chromatin accessibility data.
 - 2022/7/19: **New Publication**. "[Large-scale multivariate sparse regression with applications to UK Biobank](/publication/2022-07-19-SRRR)." Congrats, [Junyang](https://www.linkedin.com/in/junyang-qian-4a1b3825/) and the team!
 - 2022/7/11: Yosuke presented "Single-cell transcriptional hallmarks and patient subtyping for Alzheimer’s disease" at ROS/MAP meeting 2022 at Rush University Medical Center, Chicago, IL.
 - 2022/6/7: Yosuke presented a poster titled, "Single-cell transcriptional hallmarks of Alzheimer’s disease across 427 individuals" at the Broad Institute Poster Day 2022.
