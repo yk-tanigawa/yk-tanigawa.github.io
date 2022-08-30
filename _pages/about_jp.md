@@ -28,6 +28,12 @@ This page is written in my native language, Japanese, and should contain the sam
 
 ## 主な研究内容
 
+私は、ゲノム情報の多様性が疾患リスクに与える影響を、新しいデータ解析技術の開発と、実社会データへの応用の両方の視点から研究しています。
+
+![Research summary in Japanese](/files/2022/Research_summary_jp_20220830.png)
+
+下記が，これまでの主要な研究成果です。
+
 - **統計遺伝学** の手法を用いた，ヒトゲノムの研究（とくに，バイオバンクを用いた，解析手法の開発と応用に興味を持っています）
   - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nature Genetics. (2021).](/publication/2021-01-18-biomarkers)
   - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
@@ -43,6 +49,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 ## 主な受賞歴等
 
+- 2022年 Finalist, Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research, the American Society of Human Genetics
 - 2018, 2021年 Reviewers’ Choice Abstract Award, the American Society of Human Genetics Annual Meeting
 - 2020年9月 最優秀口頭発表賞 日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会 ([発表資料](/talks/2020-09-01-IIBMP2020))
 - 2017, 2018, 2019年 Stanford University. Biosciences office of the graduate education travel grant 採択
