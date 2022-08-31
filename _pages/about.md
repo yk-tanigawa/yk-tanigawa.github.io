@@ -38,7 +38,8 @@ I write blog posts mostly on computing tips, including:
 
 ## News
 
-- 2022/8/30: **New Publication** "[WhichTF is dominant in your open chromatin data?](/publication/2022-08-30-whichtf)". We develop an ontology-guided approach to ranking tissue-/cell-type-specific transcription factors (TFs) from chromatin accessibility data.
+- 2022/8/30: **New Publication** "[WhichTF is dominant in your open chromatin data?](/publication/2022-08-30-whichtf)". We develop an ontology-guided approach to ranking tissue-/cell-type-specific transcription factors (TFs) from chromatin accessibility data. This paper describes the last chapter of my Ph.D. thesis and I am so happy to see this out.
+- 2022/8/30: **New Publication** "[Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy](/publication/2022-08-30-COVIDomics-admixture)". Congrats, Vicki, [Alex](https://ai-page.org/) and the team!
 - 2022/7/19: **New Publication**. "[Large-scale multivariate sparse regression with applications to UK Biobank](/publication/2022-07-19-SRRR)." Congrats, [Junyang](https://www.linkedin.com/in/junyang-qian-4a1b3825/) and the team!
 - 2022/7/11: Yosuke presented "Single-cell transcriptional hallmarks and patient subtyping for Alzheimer’s disease" at ROS/MAP meeting 2022 at Rush University Medical Center, Chicago, IL.
 - 2022/6/7: Yosuke presented a poster titled, "Single-cell transcriptional hallmarks of Alzheimer’s disease across 427 individuals" at the Broad Institute Poster Day 2022.
