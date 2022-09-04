@@ -10,7 +10,9 @@ redirect_from:
 
 This page is written in my native language, Japanese, and should contain the same information as in the other sections of this website.
 
-はじめまして，マサチューセッツ工科大学 (MIT) コンピュータ科学・人工知能研究所 (CSAIL) にてポスドク研究員をしている谷川洋介と申します。現在，[Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生の主宰する [Computational Biology Lab](http://compbio.mit.edu/) にて大規模ゲノミクス・エピゲノミクスの研究に従事しています。
+はじめまして，マサチューセッツ工科大学 (MIT) コンピュータ科学・人工知能研究所 (CSAIL) にてポスドク研究員をしている谷川洋介と申します。現在，[Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生の主宰する [Computational Biology Lab](http://compbio.mit.edu/) に所属しています。
+
+私の主な研究分野は、遺伝統計学と計算生物学です。とくに、疾患の多様性を解明するための、計算的・統計的な手法の開発、および、その大規模なゲノム・エピゲノムデータセットへの適用による医学・生物学的な研究に興味を持っています。
 
 履歴書は[CV](/cv)に，研究成果の一覧は[Publications](/publications)に掲載されています。また，データセット，ソフトウェアなどを[Resources](/resources)にて公開しています。可能な限り，最新の情報をウェブサイトに掲載するようにつとめていますが，万一更新が滞ってしまっている場合は，[Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ)の論文のリストもあわせてご参照いただければ幸いです。
 
