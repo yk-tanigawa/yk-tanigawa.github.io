@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Yosuke Tanigawa is a Postdoctoral Associate at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)). His research interests are in various topics in population genomics, specifically focusing on the analysis of large-scale datasets.
+Yosuke Tanigawa is a Postdoctoral Associate at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)).
 
-He completed his doctoral training at [Stanford University](https://www.stanford.edu/) (Ph.D. in [Biomedical Informatics](https://med.stanford.edu/bmi.html)), where he worked with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
+Yosuke works at the intersection of **statistical genetics** and **computational biology**. Specifically, he and his colleagues develop **computational and statistical methods** to dissect **disease heterogeneity** and apply them in systematic analyses of large-scale phenotypic, genetic, epigenomic, functional genomic, and single-cell genomic datasets.
 
-Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints. Please also check [Resources](/resources) page for datasets, analysis and visualization scripts, and web applications from our research activities (mainly from [the Rivas lab](http://med.stanford.edu/rivaslab/) and [the Bejerano lab](http://bejerano.stanford.edu/)).
+Before joining MIT, he completed his doctoral training at [Stanford University](https://www.stanford.edu/) (Ph.D. in [Biomedical Informatics](https://med.stanford.edu/bmi.html)), where he worked with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
+
+Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en) for list of publications and pre-prints. Please also check [Resources](/resources) page for datasets, analysis and visualization scripts, and web applications from our research activities.
 
 ## Research interests
 
