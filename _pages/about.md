@@ -38,11 +38,15 @@ I write blog posts mostly on computing tips, including:
 - [Working with very small values in R](/posts/2020/07/small-values-in-R)
 - [Commonly used commands in high performance cluster computing with Slurm workload manager](/posts/2020/04/slurm/)
 
-## News
+## Upcoming presentations
 
 - 2022/11/12-16: Yosuke will present at [Neuroscience 2022 (Society for Neuroscience Annual meeting)](https://www.sfn.org/meetings/neuroscience-2022) at San Diego, CA, USA.
 - 2022/11/7-11: Yosuke will present at [14th ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges 2022](https://www.iscb.org/rsgdream2022) at Las Vegas, NV, USA.
 - 2022/10/25-29: Yosuke will present at [the American Society of Human Genetics Annual meeting 2022](https://www.ashg.org/meetings/2022-annual-meeting/) at Los Angeles, CA, USA.
+
+## News
+
+- 2022/10/4: **New Publication** "[Single-cell dissection of the obesity-exercise axis in adipose-muscle tissues implies a critical role for mesenchymal stem cells](/publication/2022-10-04-scMetab)". Congrats, [Jackie](https://twitter.com/yangjiekun), [Maria](https://twitter.com/MVamvini), [Pasquale](https://twitter.com/PasqualeNigro9), and the team!
 - 2022/8/30: **New Publication** "[WhichTF is dominant in your open chromatin data?](/publication/2022-08-30-whichtf)". We develop an ontology-guided approach to ranking tissue-/cell-type-specific transcription factors (TFs) from chromatin accessibility data. This paper describes the last chapter of my Ph.D. thesis and I am so happy to see this out.
 - 2022/8/30: **New Publication** "[Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy](/publication/2022-08-30-COVIDomics-admixture)". Congrats, Vicki, [Alex](https://ai-page.org/) and the team!
 - 2022/7/19: **New Publication**. "[Large-scale multivariate sparse regression with applications to UK Biobank](/publication/2022-07-19-SRRR)." Congrats, [Junyang](https://www.linkedin.com/in/junyang-qian-4a1b3825/) and the team!
