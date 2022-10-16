@@ -29,15 +29,6 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 - Functional analysis of non-coding regions in the human genome. I am specifically interested in the analysis of **transcription factors**.
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, PLOS Comput Biol 18(8), e1010378 (2022).](/publication/2022-08-30-whichtf)
 
-## Blog posts
-
-I write blog posts mostly on computing tips, including:
-
-- [GWAS and genetic analyses with PLINK2 and pgenlibr](/posts/2020/09/PLINK2)
-- [Notes on Apache Columnar format](/posts/2020/11/apache-columnar)
-- [Working with very small values in R](/posts/2020/07/small-values-in-R)
-- [Commonly used commands in high performance cluster computing with Slurm workload manager](/posts/2020/04/slurm/)
-
 ## Upcoming presentations
 
 - 2022/11/12-16: Yosuke will present at [Neuroscience 2022 (Society for Neuroscience Annual meeting)](https://www.sfn.org/meetings/neuroscience-2022) at San Diego, CA, USA.
@@ -60,6 +51,15 @@ I write blog posts mostly on computing tips, including:
 - 2022/01/27: **Updated manuscript**. We posted updated manuscript, titled [Significant Sparse Polygenic Risk Scores across 813 traits in UK Biobank](/publication/preprint-2021-09-06-PRSmap) on medRxiv.
 - 2022.01.01: Happy New Year!
 - cf. [News Archive](/tags/#news)
+
+## Blog posts
+
+I write blog posts mostly on computing tips, including:
+
+- [GWAS and genetic analyses with PLINK2 and pgenlibr](/posts/2020/09/PLINK2)
+- [Notes on Apache Columnar format](/posts/2020/11/apache-columnar)
+- [Working with very small values in R](/posts/2020/07/small-values-in-R)
+- [Commonly used commands in high performance cluster computing with Slurm workload manager](/posts/2020/04/slurm/)
 
 ## Contact
 
