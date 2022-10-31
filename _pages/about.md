@@ -31,6 +31,7 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## Upcoming presentations
 
+- 2022/11/16: Yosuke will participate panel discussion at [the Genetics and Genomics Digital Forum](https://learning.ashg.org/ashgforum) hosted by the American Society of Human Genetics.
 - 2022/11/12-16: Yosuke will present at [Neuroscience 2022 (Society for Neuroscience Annual meeting)](https://www.sfn.org/meetings/neuroscience-2022) at San Diego, CA, USA.
 - 2022/11/7-11: Yosuke will present at [14th ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges 2022](https://www.iscb.org/rsgdream2022) at Las Vegas, NV, USA.
 - 2022/10/25-29: Yosuke will present at [the American Society of Human Genetics Annual meeting 2022](https://www.ashg.org/meetings/2022-annual-meeting/) at Los Angeles, CA, USA.
