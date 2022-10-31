@@ -51,7 +51,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 ## 主な受賞歴等
 
-- 2022年 Finalist, Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research, the American Society of Human Genetics
+- 2022年 Winner (postdoctoral), Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research, the American Society of Human Genetics
 - 2018, 2021年 Reviewers’ Choice Abstract Award, the American Society of Human Genetics Annual Meeting
 - 2020年9月 最優秀口頭発表賞 日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会 ([発表資料](/talks/2020-09-01-IIBMP2020))
 - 2017, 2018, 2019年 Stanford University. Biosciences office of the graduate education travel grant 採択
