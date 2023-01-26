@@ -31,16 +31,21 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## Upcoming presentations
 
-- 2022/11/16: Yosuke will participate panel discussion at [the Genetics and Genomics Digital Forum](https://learning.ashg.org/ashgforum) hosted by the American Society of Human Genetics.
-- 2022/11/12-16: Yosuke will present at [Neuroscience 2022 (Society for Neuroscience Annual meeting)](https://www.sfn.org/meetings/neuroscience-2022) at San Diego, CA, USA.
-- 2022/11/7-11: Yosuke will present at [14th ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges 2022](https://www.iscb.org/rsgdream2022) at Las Vegas, NV, USA.
-- 2022/10/25-29: Yosuke will present at [the American Society of Human Genetics Annual meeting 2022](https://www.ashg.org/meetings/2022-annual-meeting/) at Los Angeles, CA, USA.
-  - 2022/10/27 10:45 am - 11:00 am at Conv Ctr/Room 515/West
-  - Title: "Single-cell Transcriptional Hallmarks and Individual Subtyping for Alzheimer’s Disease across 427 subjects"
-  - My talk is a part of "The methylome and transcriptome of complex traits" platform session.
+- 2023/3/28-4/1: Yosuke will present at [International Conference on Alzheimer's and Parkinson's Diseases and Related Neurological Disorders](https://adpd.kenes.com/).
+- 2023/2/22-26: Yosuke will present at [International Congress of Human Genetics 2023](https://www.ichg2023.com).
 
 ## News
 
+- 2022/12/15: Yosuke was selected as one of the winner for [MIT
+Technology Review’s Innovators Under 35 Japan Awards](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/).
+- 2022/11/16: Yosuke was part of a panel discussion at [the Genetics and Genomics Digital Forum](https://learning.ashg.org/ashgforum) hosted by the American Society of Human Genetics.
+- 2022/11/12-16: Yosuke presented at [Neuroscience 2022 (Society for Neuroscience Annual meeting)](https://www.sfn.org/meetings/neuroscience-2022) at San Diego, CA, USA.
+- 2022/11/7-11: Yosuke presented at [14th ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges 2022](https://www.iscb.org/rsgdream2022) at Las Vegas, NV, USA.
+- 2022/10/25-29: Yosuke presented at [the American Society of Human Genetics Annual meeting 2022](https://www.ashg.org/meetings/2022-annual-meeting/) at Los Angeles, CA, USA.
+  - 2022/10/27 10:45 am - 11:00 am at Conv Ctr/Room 515/West
+  - Title: "Single-cell Transcriptional Hallmarks and Individual Subtyping for Alzheimer’s Disease across 427 subjects"
+  - My talk is a part of "The methylome and transcriptome of complex traits" platform session.
+  - I was selected as one of the winner for Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research! I would like to thank my mentors (former and current), collaborators, and colleagues for the supports.
 - 2022/10/4: **New Publication** "[Single-cell dissection of the obesity-exercise axis in adipose-muscle tissues implies a critical role for mesenchymal stem cells](/publication/2022-10-04-scMetab)". Congrats, [Jackie](https://twitter.com/yangjiekun), [Maria](https://twitter.com/MVamvini), [Pasquale](https://twitter.com/PasqualeNigro9), and the team!
 - 2022/8/30: **New Publication** "[WhichTF is dominant in your open chromatin data?](/publication/2022-08-30-whichtf)". We develop an ontology-guided approach to ranking tissue-/cell-type-specific transcription factors (TFs) from chromatin accessibility data. This paper describes the last chapter of my Ph.D. thesis and I am so happy to see this out.
 - 2022/8/30: **New Publication** "[Deconvoluting complex correlates of COVID19 severity with a multi-omic pandemic tracking strategy](/publication/2022-08-30-COVIDomics-admixture)". Congrats, Vicki, [Alex](https://ai-page.org/) and the team!
