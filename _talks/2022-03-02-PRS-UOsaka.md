@@ -1,7 +1,7 @@
 ---
 title: "Multi-trait modeling in polygenic scores (複数の表現型を考慮したポリジェニック・スコア解析)"
-excerpt: ""
-excerpt_image: 'I presented on our recent works on polygenic score analyses across multiple phenotypes at University of Osaka.'
+excerpt: "I presented on our recent works on polygenic score analyses across multiple phenotypes at University of Osaka."
+excerpt_image: ""
 collection: talks
 type: "Talk"
 permalink: /talks/2022-03-02-PRS-UOsaka
