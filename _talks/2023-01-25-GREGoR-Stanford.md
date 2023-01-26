@@ -1,7 +1,7 @@
 ---
 title: "WhichTF is functionally important in your open chromatin data?"
 excerpt: "At GREGoR Consortium Stanford Sitewide Meeting, I presented our recent work on ranking transcription factors using ontology-guided stratified enrichment of conserved TFBSs in open chromatin regions."
-excerpt_image: ''
+excerpt_image: '/files/2023/2023-01-25-GREGoR-Stanford-12.png'
 collection: talks
 type: "Talk"
 permalink: /talks/2023-01-25-GREGoR-Stanford
