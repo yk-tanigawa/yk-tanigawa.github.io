@@ -1,5 +1,5 @@
 ---
-title: "Invited lecture"
+title: "Invited Talk at the Statistical Genetics Summer School at Osaka University"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-08-26-stat-gen-school
