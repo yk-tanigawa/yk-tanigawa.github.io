@@ -20,6 +20,10 @@ tags: -->
 I presented and successfully defended my thesis titled "Large-scale genomic inference of multiple phenotypes."
 Thank you very much for everyone who supported me along the way.
 
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvnUnmU4Zv2bjbR65YpSaRuu1k7Zi9Rbu_6tRdlh4tB2aJSuEj_nhATEYa6YVXxlSC-5UWi_56poBs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Abstract
 
 Many human traits are multifactorial. Some of them have shared genetic basis, yet a systematic analysis of such components across the human phenome has been challenging, limiting our understanding of the shared genetic factors across traits and their influences on diseases. I will present four examples of multi-trait analysis, which I was fortunate to lead in my graduate studies.
