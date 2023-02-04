@@ -32,7 +32,10 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 ## Upcoming presentations
 
 - 2023/3/28-4/1: Yosuke will present at [International Conference on Alzheimer's and Parkinson's Diseases and Related Neurological Disorders](https://adpd.kenes.com/).
+- 2023/3/4: Yosuke will present at CCii/CMG International Joint Symposium of Omics Analysis and its Application to Human Disease at Kyoto University, Japan.
+- 2023/3/2: Yosuke will co-teach recent topics in polygenic score at the 8th Kyoto Course at Kyoto University, Japan.
 - 2023/2/22-26: Yosuke will present at [International Congress of Human Genetics 2023](https://www.ichg2023.com).
+- 2023/2/20: Yosuke will [present at the Sydney Brenner Institute for Molecular Bioscience at the University of Witwatersrand](/talks/2023-02-02-UofWitwatersrand).
 
 ## News
 
