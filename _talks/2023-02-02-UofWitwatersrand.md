@@ -19,5 +19,5 @@ Yosuke will present at the Sydney Brenner Institute for Molecular Bioscience at 
 
 ## Seminar annoucement
 
-![seminar announcement](/files/2023/2023-02-20-UofWitwatersrand.png)
+[![seminar announcement](/files/2023/2023-02-20-UofWitwatersrand.png)](/files/2023/2023-02-20-UofWitwatersrand.pdf)
 
