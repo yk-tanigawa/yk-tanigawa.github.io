@@ -5,7 +5,7 @@ excerpt: ""
 excerpt_image: ""
 collection: "talks"
 type: "Talk"
-permalink: "/talks/2023-02-02-UofWitwatersrand"
+permalink: "/talks/2023-02-20-UofWitwatersrand"
 venue: "The Sydney Brenner Institute for Molecular Bioscience at the University of the Witwatersrand"
 date: 2023-02-20
 location: "Johannesburg, South Africa"
