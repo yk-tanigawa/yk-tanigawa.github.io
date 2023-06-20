@@ -31,14 +31,16 @@ Please check [CV](/cv), [Publications](/publications), and/or [Google Scholar pr
 
 ## Upcoming presentations
 
-- 2023/3/28-4/1: Yosuke will present at [International Conference on Alzheimer's and Parkinson's Diseases and Related Neurological Disorders](https://adpd.kenes.com/).
-- 2023/3/4: Yosuke will present at the [CCii/CMG International Joint Symposium of Omics Analysis and its Application to Human Disease](/talks/2023-03-04-KyotoU) at Kyoto University, Japan.
-- 2023/3/2: Yosuke will co-teach recent topics in polygenic score at the 8th Kyoto Course at Kyoto University, Japan.
-- 2023/2/22-26: Yosuke will present at [International Congress of Human Genetics 2023](https://www.ichg2023.com).
-- 2023/2/20: Yosuke will [present at the Sydney Brenner Institute for Molecular Bioscience at the University of Witwatersrand](/talks/2023-02-20-UofWitwatersrand).
+- 2023/8/4: Yosuke will present at [the 46th Annual Meeting of the Japan Neuroscience Society (JNS)](https://neuroscience2023.jnss.org/).
+- 2023/7/19: Yosuke will present at [the Alzheimer's Association International Conference 2023.](https://aaic.alz.org/).
 
 ## News
 
+- 2023/3/28-4/1: Yosuke presented at [International Conference on Alzheimer's and Parkinson's Diseases and Related Neurological Disorders](https://adpd.kenes.com/).
+- 2023/3/4: Yosuke presented at the [CCii/CMG International Joint Symposium of Omics Analysis and its Application to Human Disease](/talks/2023-03-04-KyotoU) at Kyoto University, Japan.
+- 2023/3/2: Yosuke gave a lecture on polygenic score at the 8th Kyoto Course at Kyoto University, Japan.
+- 2023/2/22-26: Yosuke presented at [International Congress of Human Genetics 2023](https://www.ichg2023.com).
+- 2023/2/20: Yosuke [presented at the Sydney Brenner Institute for Molecular Bioscience at the University of Witwatersrand](/talks/2023-02-20-UofWitwatersrand).
 - 2022/12/15: Yosuke was selected as one of the winner for [MIT
 Technology Review’s Innovators Under 35 Japan Awards](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/).
 - 2022/11/16: Yosuke was part of a panel discussion at [the Genetics and Genomics Digital Forum](https://learning.ashg.org/ashgforum) hosted by the American Society of Human Genetics.
