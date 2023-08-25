@@ -48,4 +48,6 @@ We thank UK Biobank, FinnGen, their participants, amazing collaborators, and col
 
 - [Research highlights in Nature Reviews Nephrology](https://doi.org/10.1038/s41581-021-00400-y)
   - Allison, S.J. Biomarker genetics. Nat Rev Nephrol (2021). [https://doi.org/10.1038/s41581-021-00400-y](https://doi.org/10.1038/s41581-021-00400-y)
+- [Recommended in Faculty Opinions](https://doi.org/10.3410/f.739382438.793583091)
+  - Borgwardt K: Faculty Opinions Recommendation of [Sinnott-Armstrong N et al., Nat Genet 2021 53(2):185-194]. In Faculty Opinions, 25 Feb 2021. [https://doi.org/10.3410/f.739382438.793583091](https://doi.org/10.3410/f.739382438.793583091)
 - [Genome web news article](https://www.genomeweb.com/microarrays-multiplexing/blood-urine-biomarker-study-leads-linked-loci-disease-related-risk-scores)
