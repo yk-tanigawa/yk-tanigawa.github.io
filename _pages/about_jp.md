@@ -27,7 +27,6 @@ This page is written in my native language, Japanese, and should contain the sam
 - 2021年7月-  マサチューセッツ工科大学 (MIT) ポスドク研究員
   - 指導教官: [Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生
 
-
 ## 主な研究内容
 
 私は、ゲノム情報の多様性が疾患リスクに与える影響を、新しいデータ解析技術の開発と、実社会データへの応用の両方の視点から研究しています。
@@ -47,10 +46,11 @@ This page is written in my native language, Japanese, and should contain the sam
 - ヒトゲノムに含まれる，非コード領域の機能の解析（とくに，**転写因子**のはたらきに興味を持っています）
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, PLOS Comput Biol 18(8), e1010378 (2022).](/publication/2022-08-30-whichtf)
 
-人類遺伝統計学や，その応用に関わる統計解析手法については，和文総説「[複数の表現型を用いた人類遺伝統計学の大規模情報解析](/publication/2021-04-23-JSBi-review)」においても取り上げました。よろしければ、あわせてご参照ください。
+2022年には、ポリジェニック・スコアや創薬目標の発見など、私たちの研究の簡潔な紹介が、[Innovators Under 35 Japan 受賞者紹介](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/) の一環としてMIT テクノロジーレビュー誌に掲載されました。人類遺伝統計学や，その応用に関わる統計解析手法については，2021年に和文総説「[複数の表現型を用いた人類遺伝統計学の大規模情報解析](/publication/2021-04-23-JSBi-review)」においても取り上げました。よろしければ、ご参照ください。
 
 ## 主な受賞歴等
 
+- 2022年 [Innovators Under 35 Japan, MIT テクノロジーレビュー](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/)
 - 2022年 Winner (postdoctoral), Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research, the American Society of Human Genetics
 - 2018, 2021年 Reviewers’ Choice Abstract Award, the American Society of Human Genetics Annual Meeting
 - 2020年9月 最優秀口頭発表賞 日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会 ([発表資料](/talks/2020-09-01-IIBMP2020))
