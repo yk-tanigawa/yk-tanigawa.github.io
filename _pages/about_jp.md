@@ -14,7 +14,7 @@ This page is written in my native language, Japanese, and should contain the sam
 
 私の主な研究分野は、遺伝統計学と計算生物学です。とくに、疾患の多様性を解明するための、計算的・統計的な手法の開発、および、その大規模なゲノム・エピゲノムデータセットへの適用による医学・生物学的な研究に興味を持っています。
 
-履歴書は[CV](/cv)に，研究成果の一覧は[Publications](/publications)に掲載されています。また，データセット，ソフトウェアなどを[Resources](/resources)にて公開しています。可能な限り，最新の情報をウェブサイトに掲載するようにつとめていますが，万一更新が滞ってしまっている場合は，[Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ)の論文のリストもあわせてご参照いただければ幸いです。
+履歴書は[CV (日本語)](/cv_jp)に，研究成果の一覧は[Publications](/publications)に掲載されています。また，データセット，ソフトウェアなどを[Resources](/resources)にて公開しています。可能な限り，最新の情報をウェブサイトに掲載するようにつとめていますが，万一更新が滞ってしまっている場合は，[Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ)の論文のリストもあわせてご参照いただければ幸いです。
 
 ## 略歴
 
@@ -26,7 +26,6 @@ This page is written in my native language, Japanese, and should contain the sam
   - 指導教員: [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) 先生, [Dr. Gill Bejerano](http://bejerano.stanford.edu/) 先生
 - 2021年7月-  マサチューセッツ工科大学 (MIT) ポスドク研究員
   - 指導教官: [Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生
-
 
 ## 主な研究内容
 
@@ -47,10 +46,11 @@ This page is written in my native language, Japanese, and should contain the sam
 - ヒトゲノムに含まれる，非コード領域の機能の解析（とくに，**転写因子**のはたらきに興味を持っています）
   - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, PLOS Comput Biol 18(8), e1010378 (2022).](/publication/2022-08-30-whichtf)
 
-人類遺伝統計学や，その応用に関わる統計解析手法については，和文総説「[複数の表現型を用いた人類遺伝統計学の大規模情報解析](/publication/2021-04-23-JSBi-review)」においても取り上げました。よろしければ、あわせてご参照ください。
+2022年には、ポリジェニック・スコアや創薬目標の発見など、私たちの研究の簡潔な紹介が、[Innovators Under 35 Japan 受賞者紹介](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/) の一環としてMIT テクノロジーレビュー誌に掲載されました。人類遺伝統計学や，その応用に関わる統計解析手法については，2021年に和文総説「[複数の表現型を用いた人類遺伝統計学の大規模情報解析](/publication/2021-04-23-JSBi-review)」においても取り上げました。よろしければ、ご参照ください。
 
 ## 主な受賞歴等
 
+- 2022年 [Innovators Under 35 Japan, MIT テクノロジーレビュー](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/)
 - 2022年 Winner (postdoctoral), Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research, the American Society of Human Genetics
 - 2018, 2021年 Reviewers’ Choice Abstract Award, the American Society of Human Genetics Annual Meeting
 - 2020年9月 最優秀口頭発表賞 日本バイオインフォマティクス学会年会・第9回生命医薬情報学連合学会 ([発表資料](/talks/2020-09-01-IIBMP2020))
