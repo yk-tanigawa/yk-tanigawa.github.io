@@ -74,6 +74,7 @@ I write blog posts mostly on computing tips, including:
 - [Notes on Apache Columnar format](/posts/2020/11/apache-columnar)
 - [Working with very small values in R](/posts/2020/07/small-values-in-R)
 - [Commonly used commands in high performance cluster computing with Slurm workload manager](/posts/2020/04/slurm/)
+- [Links to useful resources](https://yosuketanigawa.com/posts/links/)
 
 ## Contact
 
