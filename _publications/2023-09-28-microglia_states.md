@@ -1,7 +1,7 @@
 ---
 title: "Human microglial state dynamics in Alzheimer's disease progression"
 collection: publications
-permalink: /publication/2023-09-06-covid19HGI-DF7
+permalink: /publication/2023-09-28-microglia_states
 excerpt: 'Here we report 194,000 single-nucleus microglial transcriptomes and epigenomes across 443 human subjects and diverse Alzheimer's disease pathological phenotypes.'
 date: 2023-09-28
 venue: 'Cell'
