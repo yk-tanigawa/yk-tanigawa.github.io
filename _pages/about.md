@@ -32,10 +32,11 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 ## Upcoming presentations
 
 - 2022/11/1-5: Yosuke will present at [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
-- 2023/10/4-6: Yosuke will presented at [the 14th International Workshop on Advanced Genomics (14AGW)](https://www.14agw.jp/).
 
 ## News
 
+
+- 2023/10/4-6: Yosuke presented at [the 14th International Workshop on Advanced Genomics (14AGW)](https://www.14agw.jp/).
 - 2023/8/4: Yosuke presented at [the 46th Annual Meeting of the Japan Neuroscience Society (JNS)](https://neuroscience2023.jnss.org/).
 - 2023/7/19: Yosuke presented at [the Alzheimer's Association International Conference 2023](https://aaic.alz.org/).
 - 2023/3/28-4/1: Yosuke presented at [the International Conference on Alzheimer's and Parkinson's Diseases and Related Neurological Disorders](https://adpd.kenes.com/).
