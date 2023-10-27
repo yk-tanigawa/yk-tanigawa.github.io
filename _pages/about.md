@@ -42,7 +42,7 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 - 2023/7/19: Yosuke presented at [the Alzheimer's Association International Conference 2023](https://aaic.alz.org/).
 - 2023/3/28-4/1: Yosuke presented at [the International Conference on Alzheimer's and Parkinson's Diseases and Related Neurological Disorders](https://adpd.kenes.com/).
 - 2023/3/4: Yosuke presented at the [CCii/CMG International Joint Symposium of Omics Analysis and its Application to Human Disease](/talks/2023-03-04-KyotoU) at Kyoto University, Japan.
-- 2023/3/2: Yosuke gave an invited lecture on polygenic scores at the 8th Kyoto Course at Kyoto University, Japan.
+- 2023/3/2: Yosuke gave an invited lecture on polygenic scores at [the 8th Kyoto Course](https://w3.genome.med.kyoto-u.ac.jp/en/course/) at Kyoto University, Japan.
 - 2023/2/22-26: Yosuke presented at [the International Congress of Human Genetics 2023](https://www.ichg2023.com).
 - 2023/2/20: Yosuke [presented at the Sydney Brenner Institute for Molecular Bioscience at the University of Witwatersrand](/talks/2023-02-20-UofWitwatersrand).
 - 2022/12/15: Yosuke was selected as one of the winners of [MIT
