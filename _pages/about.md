@@ -31,7 +31,8 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Upcoming presentations
 
-- 2022/11/1-5: Yosuke will present at [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
+- 2023/11/10: Yosuke will present at [Western Bioinformatics Seminar](/talks/2023-11-10-Western), Ontario, Canada.
+- 2023/11/1-5: Yosuke will present at [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
 
 ## News
 
