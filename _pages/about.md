@@ -31,11 +31,12 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Upcoming presentations
 
+- 2023/11/21: Yosuke will present over Zoom to the Systems Cardiology Lab, the University of Tokyo Hospital, Japan.
 - 2023/11/10: Yosuke will present at [Western Bioinformatics Seminar](/talks/2023-11-10-Western), Ontario, Canada.
-- 2023/11/1-5: Yosuke will present at [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
 
 ## News
 
+- 2023/11/1-5: Yosuke presented [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
 - 2023/10/26: **New Publication**. "[Power of inclusion: Enhancing polygenic prediction with admixed individuals](/publication/2023-10-26-ipgs)." We report a new method that improves genetic predictions by directly including admixed and ancestry-diverse individuals. The inclusive training strategy makes genetic prediction models more accurate for everyone, promoting health equity.
   - [MIT News: "Making genetic prediction models more inclusive"](https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026)
   - [Inside AJHG: A Chat with Yosuke Tanigawa](https://www.ashg.org/careers-learning/career-interviews/inside-ajhg-with-yosuke-tanigawa/)
