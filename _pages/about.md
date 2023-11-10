@@ -39,6 +39,7 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 - 2023/11/1-5: Yosuke presented [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
 - 2023/10/26: **New Publication**. "[Power of inclusion: Enhancing polygenic prediction with admixed individuals](/publication/2023-10-26-ipgs)." We report a new method that improves genetic predictions by directly including admixed and ancestry-diverse individuals. The inclusive training strategy makes genetic prediction models more accurate for everyone, promoting health equity.
   - [MIT News: "Making genetic prediction models more inclusive"](https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026)
+  - [Inside AJHG: A Chat with Yosuke Tanigawa](https://www.ashg.org/careers-learning/career-interviews/inside-ajhg-with-yosuke-tanigawa/)
 - 2023/10/4-6: Yosuke presented at [the 14th International Workshop on Advanced Genomics (14AGW)](https://www.14agw.jp/).
 - 2023/8/4: Yosuke presented at [the 46th Annual Meeting of the Japan Neuroscience Society (JNS)](https://neuroscience2023.jnss.org/).
 - 2023/7/19: Yosuke presented at [the Alzheimer's Association International Conference 2023](https://aaic.alz.org/).
