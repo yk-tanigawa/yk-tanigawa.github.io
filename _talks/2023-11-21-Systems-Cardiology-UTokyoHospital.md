@@ -24,16 +24,19 @@ Yosuke presented his recent works on inclusive polygenic score (iPGS) and multi-
 - [iPGS data browser](https://ipgs.mit.edu)
 - [MIT News](https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026)
 - [Author interview by the journal (Am J Hum Genet)](https://www.ashg.org/careers-learning/career-interviews/inside-ajhg-with-yosuke-tanigawa/)
-- Paper: [Tanigawa and Kellis. Power of inclusion: Enhancing polygenic prediction with admixed individuals. Am J Hum Genet. 2023.](https://doi.org/10.1016/j.ajhg.2023.09.013)
 
 ## References
 
-- [Tanigawa and Kellis. Power of inclusion: Enhancing polygenic prediction with admixed individuals. The American Journal of Human Genetics (2023).](/publication/2023-10-26-ipgs)
-- Sinnott-Armstrong*, Tanigawa*, et al. Nat Gen. 2021. (PMID: 33462484)
-- Tanigawa et al. Significant sparse polygenic risk scores across 813 traits in UK Biobank. PLoS Gen. 2022.
+- [Tanigawa and Kellis. Power of inclusion: Enhancing polygenic prediction with admixed individuals. Am J Hum Genet. 2023](/publication/2023-10-26-ipgs)
+  - [Paper (full-text)](https://doi.org/10.1016/j.ajhg.2023.09.013)
+  - [iPGS data browser](https://ipgs.mit.edu)
+  - [MIT News](https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026)
+  - [Author interview by the journal (Am J Hum Genet)](https://www.ashg.org/careers-learning/career-interviews/inside-ajhg-with-yosuke-tanigawa/)
+- [Sinnott-Armstrong*, Tanigawa* et al. Genetics of 35 blood and urine biomarkers in the UK Biobank. Nat Gen. 2021](/publication/2021-01-18-biomarkers)
+- [Tanigawa et al. Significant sparse polygenic risk scores across 813 traits in UK Biobank. PLoS Gen. 2022.](/publication/2022-03-24-PRSmap)
   - Application of BASIL across 800+ traits in UK Biobank
   - Data browser: [https://biobankengine.stanford.edu/prs](https://biobankengine.stanford.edu/prs)
-- Qian et al. A fast and scalable framework for large-scale and ultrahigh-dimensional sparse regression with application to the UK Biobank. PLoS Gen. 2020.
+- [Qian et al. A fast and scalable framework for large-scale and ultrahigh-dimensional sparse regression with application to the UK Biobank. PLoS Gen. 2020.](/publication/2020-10-23-snpnet)
   - Sparse polygenic scores from individual-level data, BASIL algorithm
 - Kachuri et al. Principles and methods for transferring polygenic risk scores across global populations. Nat Rev Genet. 2023.
   - Review on multi-ancestry-aware PGS methods
