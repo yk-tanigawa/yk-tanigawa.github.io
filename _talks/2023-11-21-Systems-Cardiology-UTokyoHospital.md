@@ -19,6 +19,13 @@ Yosuke presented his recent works on inclusive polygenic score (iPGS) and multi-
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOiaGFQgIWDJj5kBF-ysaXtNEu12z7cNlwB5k3g7d2DfGHW62Wchncj2t9C0Jxa4t4NxmvXFPrbS3V/embed?start=false&loop=true&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Learning objectives
+
+- Summarize recent methodological developments in polygenic score (PGS) research
+- Identify the caveats and limitations of existing approaches to PGS analysis of complex traits
+- Plan ways to improve the diversity and inclusion in study designs of human genetics studies
+- Plan ways to integrate multiple phenotypes in human genetics studies
+
 ## Links
 
 - [iPGS data browser](https://ipgs.mit.edu)
