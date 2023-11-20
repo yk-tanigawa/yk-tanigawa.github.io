@@ -31,7 +31,7 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Upcoming presentations
 
-- 2023/11/21: Yosuke will [present over Zoom to the Systems Cardiology Lab, the University of Tokyo Hospital, Japan](/talks/2023-11-21-Systems-Cardiology-UTokyoHospital.md).
+- 2023/11/21: Yosuke will [present over Zoom to the Systems Cardiology Lab, the University of Tokyo Hospital, Japan](/talks/2023-11-21-Systems-Cardiology-UTokyoHospital).
 
 ## News
 
