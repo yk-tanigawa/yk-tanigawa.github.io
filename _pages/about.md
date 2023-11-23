@@ -31,10 +31,11 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Upcoming presentations
 
-- 2023/11/21: Yosuke will [present over Zoom to the Systems Cardiology Lab, the University of Tokyo Hospital, Japan](/talks/2023-11-21-Systems-Cardiology-UTokyoHospital).
+- 2024: Yosuke will present at the [70th Biometric Colloquium -- Navigating the Sea of Data: Biometrics Guides the Way -- at Lübeck](https://www.biometrische-gesellschaft.de/en/events/biometric-colloquia/70th-biometrical-colloquium-2024-in-luebeck.html).
 
 ## News
 
+- 2023/11/21: Yosuke will [presented over Zoom to the Systems Cardiology Lab, the University of Tokyo Hospital, Japan](/talks/2023-11-21-Systems-Cardiology-UTokyoHospital).
 - 2023/11/10: Yosuke will presented at [Western Bioinformatics Seminar](/talks/2023-11-10-Western), Ontario, Canada (Zoom). The slides are available [here](/talks/2023-11-10-Western).
 - 2023/11/1-5: Yosuke presented [the American Society of Human Genetics Annual Meeting 2023](https://www.ashg.org/meetings/2023meeting/) in Washington DC, USA.
 - 2023/10/26: **New Publication**. "[Power of inclusion: Enhancing polygenic prediction with admixed individuals](/publication/2023-10-26-ipgs)." We report a new method that improves genetic predictions by directly including admixed and ancestry-diverse individuals. The inclusive training strategy makes genetic prediction models more accurate for everyone, promoting health equity.
