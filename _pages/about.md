@@ -18,16 +18,15 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Research interests
 
-- Application of **statistical genetics** for human disease genetic studies. I am specifically interested in the analysis of **population biobanks**.
-  - [N. Sinnott-Armstrong\*, Y. Tanigawa\*, et al., Nature Genetics. (2021).](/publication/2021-01-18-biomarkers)
-  - [Y. Tanigawa, et al., PLOS Genetics. 16, e1008682 (2020).](/publication/2020-05-05-ANGPTL7)
-  - [G. McInnes, Y. Tanigawa, et al., Bioinformatics 35(14), 2495-2497 (2019).](/publication/2018-12-05-GBE)
-- Statistical and computational **method development for large-scale datasets** in the context of human genomic studies.
-  - [Y. Tanigawa\*, J. Li\*, et al., Nat Commun. 10, 4064 (2019).](/publication/2019-09-06-DeGAs)
-  - [J. Qian, Y. Tanigawa, et al., PLOS Genetics. 16, e1009141 (2020).](/publication/2020-10-23-snpnet)
-  - [J. Qian, Y. Tanigawa, et al., Ann. Appl. Stat. 16(3), 1891-1918 (2022).](/publication/2022-07-19-SRRR)
-- Functional analysis of non-coding regions in the human genome. I am specifically interested in the analysis of **transcription factors**.
-  - [Y. Tanigawa\*, E. S. Dyer\*, G. Bejerano, PLOS Comput Biol 18(8), e1010378 (2022).](/publication/2022-08-30-whichtf)
+- **Polygenic scores** methodology and applications.
+  - Multi-ancestry: [Tanigawa and Kellis, Am J Hum Genet. (2023)](/publication/2023-10-26-ipgs)
+  - Multi-trait: [Sinnott-Armstrong\*, Tanigawa\*, et al., Nat Genet. (2021).](/publication/2021-01-18-biomarkers)
+- **Disease heterogeneity dissection** through development of statistical and computational methods
+  - Decomposition of Genetic Associations: [Tanigawa\*, Li\*, et al., Nat Commun. (2019).](/publication/2019-09-06-DeGAs)
+  - Ontology-guided stratified enrichment of transcription factor binding sites: [Tanigawa\*, Dyer\*, Bejerano, PLoS Comput Biol (2022).](/publication/2022-08-30-whichtf)
+- **Therapeutic target discovery** using human genetics.
+  - ANGPTL7, intraocular pressure, and glaucoma: [Tanigawa, et al., PLoS Genet. (2020).](/publication/2020-05-05-ANGPTL7)
+  - Blood and urine biomarkers: [Sinnott-Armstrong\*, Tanigawa\*, et al., Nat Genet. (2021).](/publication/2021-01-18-biomarkers)
 
 ## Upcoming presentations
 
