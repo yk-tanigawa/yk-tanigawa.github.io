@@ -18,12 +18,12 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Research interests
 
-- **Polygenic scores** methodology and applications.
-  - Multi-ancestry: [Tanigawa and Kellis, Am J Hum Genet. (2023)](/publication/2023-10-26-ipgs)
-  - Multi-trait: [Sinnott-Armstrong\*, Tanigawa\*, et al., Nat Genet. (2021).](/publication/2021-01-18-biomarkers)
 - **Disease heterogeneity dissection** through development of statistical and computational methods
   - Decomposition of Genetic Associations: [Tanigawa\*, Li\*, et al., Nat Commun. (2019).](/publication/2019-09-06-DeGAs)
   - Ontology-guided stratified enrichment of transcription factor binding sites: [Tanigawa\*, Dyer\*, Bejerano, PLoS Comput Biol (2022).](/publication/2022-08-30-whichtf)
+- **Polygenic scores** methodology and applications.
+  - Multi-ancestry: [Tanigawa and Kellis, Am J Hum Genet. (2023)](/publication/2023-10-26-ipgs)
+  - Multi-trait: [Sinnott-Armstrong\*, Tanigawa\*, et al., Nat Genet. (2021).](/publication/2021-01-18-biomarkers)
 - **Therapeutic target discovery** using human genetics.
   - ANGPTL7, intraocular pressure, and glaucoma: [Tanigawa, et al., PLoS Genet. (2020).](/publication/2020-05-05-ANGPTL7)
   - Blood and urine biomarkers: [Sinnott-Armstrong\*, Tanigawa\*, et al., Nat Genet. (2021).](/publication/2021-01-18-biomarkers)
