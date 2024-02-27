@@ -31,7 +31,7 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 ## Upcoming presentations
 
 - 2024/2/26: Yosuke will [present at the Institute for Medical Biometry, Informatics and Epidemiology (IMBIE) at the University of Bonn](/talks/2024-02-26-UBonn).
-- 2024/3/1: Yosuke will present at the [70th Biometric Colloquium -- Navigating the Sea of Data: Biometrics Guides the Way -- at Lübeck](https://www.biometrische-gesellschaft.de/en/events/biometric-colloquia/70th-biometrical-colloquium-2024-in-luebeck.html).
+- 2024/3/1: Yosuke will [present](/talks/2024-03-01-IBSDR70) at the [70th Biometric Colloquium -- Navigating the Sea of Data: Biometrics Guides the Way -- at Lübeck](https://www.biometrische-gesellschaft.de/en/events/biometric-colloquia/70th-biometrical-colloquium-2024-in-luebeck.html).
 - May 2024: Yosuke will present at [the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](https://www.sph.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics)
 
 ## News
