@@ -16,7 +16,7 @@ tags:
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSni7aGuLLptv_jSAwfQiDOt8IlkfQjD_e-HXFoxfzh0JIFZFuxU9-dIRGnlwFfLXNjqtElmQjQnGJ8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVnmNEH-S8iukG5qLO65E8K9RRq7ql5xAl1hj14rDDjuc9HGbuh6wxvBGgZFS23evp2LLcLI5UtUPY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## References
 
@@ -26,3 +26,5 @@ tags:
   - [iPGS data browser](https://ipgs.mit.edu)
   - [MIT News](https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026)
   - [Author interview by the journal (Am J Hum Genet)](https://www.ashg.org/careers-learning/career-interviews/inside-ajhg-with-yosuke-tanigawa/)
+- O’Sullivan et al. Polygenic Risk Scores for Cardiovascular Disease: A Scientific Statement From the American Heart Association. Circulation. 2022
+  - Perspectives on how PGS may inform clinical practice
