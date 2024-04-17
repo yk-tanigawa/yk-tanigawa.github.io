@@ -53,7 +53,7 @@ This page is written in my native language, Japanese, and should contain the sam
 ## 主な受賞歴等
 
 - 2024年 [UJA 論文賞 2024 Disruptive Innovation Award 部門 特別賞](https://cheironinitiative.wixsite.com/uja-award/post/%E7%89%B9%E5%88%A5%E8%B3%9E-%E8%B0%B7%E5%B7%9D-%E6%B4%8B%E4%BB%8B-%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6)
-  - 昨年出版された "[Power of inclusion: Enhancing polygenic prediction with admixed individuals](/publication/2023-10-26-ipgs)" 論文を選出していただきました。ありがとうございます。研究者を目指したきっかけや、現在の専門分野に進んだ理由など、各種エピソードについても掲載していただいています。
+  - 昨年出版された "[Power of inclusion: Enhancing polygenic prediction with admixed individuals](/publication/2023-10-26-ipgs)" 論文を選出していただきました。ありがとうございます。研究者を目指したきっかけや、現在の専門分野に進んだ理由など、[各種エピソードについても掲載](https://cheironinitiative.wixsite.com/uja-award/post/%E7%89%B9%E5%88%A5%E8%B3%9E-%E8%B0%B7%E5%B7%9D-%E6%B4%8B%E4%BB%8B-%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6)していただいています。
 - 2022年 [Innovators Under 35 Japan, MIT テクノロジーレビュー](https://www.technologyreview.jp/l/innovators_jp/290819/yosuke-tanigawa/)
   - [受賞内容に関する3分間のプレゼンテーションビデオ](/talks/2022-12-15-MITTR35jp)もよろしければご覧ください。
 - 2022年 Winner (postdoctoral), Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research, the American Society of Human Genetics
