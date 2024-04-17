@@ -22,7 +22,7 @@ Thank you very much for everyone who supported me along the way.
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvnUnmU4Zv2bjbR65YpSaRuu1k7Zi9Rbu_6tRdlh4tB2aJSuEj_nhATEYa6YVXxlSC-5UWi_56poBs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvnUnmU4Zv2bjbR65YpSaRuu1k7Zi9Rbu_6tRdlh4tB2aJSuEj_nhATEYa6YVXxlSC-5UWi_56poBs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Abstract
 

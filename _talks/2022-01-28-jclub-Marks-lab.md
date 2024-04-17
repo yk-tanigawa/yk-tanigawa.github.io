@@ -21,9 +21,7 @@ Multi-trait modeling in polygenic scores
 
 ## Slides
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/jnCfAXrRhxekDj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px">
-<a href="//www.slideshare.net/YosukeTanigawa/20220128-multitrait-modeling-in-polygenic-scores-journal-club-talk-at-debora-marks-lab" title="2022.01.28 Multi-trait modeling in polygenic scores, journal club talk at Debora Marks lab" target="_blank">2022.01.28 Multi-trait modeling in polygenic scores, journal club talk at Debora Marks lab</a>
-</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSETLqqfrVsAwUYHonFUYDKuOvNWYzsyt4D6rhpMD1VsdeCcsLN0LRcFEiomGFApJcYrtDWKKKex55j/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Abstract
 

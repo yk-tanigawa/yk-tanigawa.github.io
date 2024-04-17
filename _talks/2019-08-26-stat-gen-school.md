@@ -16,7 +16,7 @@ I presented [our recent publication, DeGAs](/publication/2019-09-06-DeGAs) and d
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6xOPKsXBatspALfiYb94cAcv6LEIY0Lu32kMAuwyrDS9kM60XfMadl9fakh9PWHebU9YS7pHPS6Xz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6xOPKsXBatspALfiYb94cAcv6LEIY0Lu32kMAuwyrDS9kM60XfMadl9fakh9PWHebU9YS7pHPS6Xz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## About the Statistical Genetics Summer School
 
