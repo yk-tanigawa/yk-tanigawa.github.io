@@ -31,8 +31,8 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 ## Upcoming presentations
 
 
-- May 2024: Yosuke will present at [the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](https://www.sph.pitt.edu/statgen-2024-conference-statistics-genomics-and-genetics)
-- April 2024: Yosuke will present at [RECOMB-Genetics 2024](https://recomb.org/recomb2024/recombgenetics.html).
+- May 2024: Yosuke will [present at the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](/talks/2024-05-01-STATGEN2024)
+- April 2024: Yosuke will [present at RECOMB-Genetics 2024](/talks/2024-04-29-RECOMB).
 
 ## News
 
