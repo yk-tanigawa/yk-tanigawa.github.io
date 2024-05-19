@@ -30,10 +30,11 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Upcoming presentations
 
-- 2024/5/18: Yosuke will [present at Boston Japanese Researchers Forum (in Japanese)](/talks/2024-05-18-BJRF).
+
 
 ## News
 
+- 2024/5/18: Yosuke [presented at Boston Japanese Researchers Forum (in Japanese)](/talks/2024-05-18-BJRF).
 - 2024/5/1: Yosuke [presented at the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](/talks/2024-05-01-STATGEN2024)
 - 2024/4/29: Yosuke [presented at RECOMB-Genetics 2024](/talks/2024-04-29-RECOMB).
 - 2024/4/16: Yosuke [presented](/talks/2024-04-16-Princeton) at Biosoc seminar at Princeton University.
