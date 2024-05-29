@@ -20,6 +20,10 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kprOBq1qyNs?si=g0hc5SUwrDADGck-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational Biology Lab Tour in 2024](https://cap.csail.mit.edu/computational-biology-lab-lab-tour), a research overview tailored for the industry audience.
+
+I work in the following three research areas.
+
 - **Disease heterogeneity dissection** through development of statistical and computational methods
   - Decomposition of Genetic Associations: [Tanigawa\*, Li\*, et al., Nat Commun. (2019).](/publication/2019-09-06-DeGAs)
   - Ontology-guided stratified enrichment of transcription factor binding sites: [Tanigawa\*, Dyer\*, Bejerano, PLoS Comput Biol (2022).](/publication/2022-08-30-whichtf)
