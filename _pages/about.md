@@ -18,10 +18,6 @@ Please check his [CV](/cv), the [Publications](/publications) page, and his [Goo
 
 ## Research interests
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kprOBq1qyNs?si=g0hc5SUwrDADGck-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational Biology Lab Tour in 2024](https://cap.csail.mit.edu/computational-biology-lab-lab-tour), a research overview tailored for the industry audience.
-
 I work in the following three research areas.
 
 - **Disease heterogeneity dissection** through development of statistical and computational methods
@@ -33,6 +29,12 @@ I work in the following three research areas.
 - **Therapeutic target discovery** using human genetics.
   - ANGPTL7, intraocular pressure, and glaucoma: [Tanigawa, et al., PLoS Genet. (2020).](/publication/2020-05-05-ANGPTL7)
   - Blood and urine biomarkers: [Sinnott-Armstrong\*, Tanigawa\*, et al., Nat Genet. (2021).](/publication/2021-01-18-biomarkers)
+
+## Research overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kprOBq1qyNs?si=g0hc5SUwrDADGck-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational Biology Lab Tour in 2024](https://cap.csail.mit.edu/computational-biology-lab-lab-tour), a research overview tailored for the industry audience.
 
 ## Upcoming presentations
 
