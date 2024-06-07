@@ -43,5 +43,17 @@ $ bash convert_install_font.sh cmbx12
 If you have multiple fonts missing, you may want to run the wrapper script until you install all the missing fonts.
 
 ```{bash}
-$ for font in cmsy10 cmmib7 cmr5 cmmi7 cmmib10 cmr7 cmmi10 cmex10 cmr10 cmbx12 ; do bash convert_install_font.sh $font ; done
+$ fonts=(
+cmsy10
+cmmib7
+cmr5
+cmmi7
+cmmib10
+cmr7
+cmmi10
+cmex10
+cmr10
+cmbx12
+)
+$ for font in ${fonts[@]} ; do bash convert_install_font.sh $font ; done
 ```
