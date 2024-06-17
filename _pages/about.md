@@ -42,6 +42,7 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## News
 
+- 2024/5/29: **New Publication**. Ohta*, Tanigawa* et al. "[A polygenic score method boosted by non-additive models](/publication/2024-05-29-genoboost)." We developed GenoBoost, a polygenic score modeling approach, incorporating both additive and non-additive genetic dominance effects. Links to [Article full text](https://doi.org/10.1038/s41467-024-48654-x) and [MIT CSAIL News](https://www.csail.mit.edu/news/unlocking-new-predictive-powers-personalized-genetic-risk-forecasts).
 - 2024/5/18: Yosuke [presented at Boston Japanese Researchers Forum (in Japanese)](/talks/2024-05-18-BJRF).
 - 2024/5/1: Yosuke [presented at the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](/talks/2024-05-01-STATGEN2024)
 - 2024/4/29: Yosuke [presented at RECOMB-Genetics 2024](/talks/2024-04-29-RECOMB).
