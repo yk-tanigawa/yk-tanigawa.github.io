@@ -21,7 +21,6 @@ Dominance heritability in complex traits has received increasing recognition. Ho
 
 Polygenic score, a statistical approach to predicting heritable traits and the genetic liability of disease, has received increasing research interest.
 
-
 Genetic dominance refers to deviation from linear additive effects of genetic variants on phenotypes. It is observed, for example, in the ABO blood group system. However, they are typically not considered when predicting complex traits with polygenic scores.
 
 ![Genetic dominance effects](/files/2024/OhtaTanigawa2024_GenoBoost_dominance.png)
@@ -52,10 +51,7 @@ The research is conducted as an integral part of Ricky’s @ricky_ota Ph.D. thes
 
 ## Data and Code availability
 
-The software and PGS score models are publicly available on GitHub and the PGS catalog. Please check them out!
-
-- https://github.com/rickyota/genoboost
-- https://www.pgscatalog.org/publication/PGP000546/
+The software and PGS score models are publicly available on [GitHub](https://github.com/rickyota/genoboost) and the [PGS catalog](https://www.pgscatalog.org/publication/PGP000546/). Please check them out!
 
 ## Links
 
@@ -65,37 +61,28 @@ The software and PGS score models are publicly available on GitHub and the PGS c
   - [Twitter/X summary by Yosuke](https://twitter.com/yk_tani/status/1802553781235634411)
   - [Twitter/X summary by Yosuke (日本語)](https://twitter.com/yk_tani/status/1802551806934888823)
 
+<a name="jp"></a>
+
 ## 日本語での解説 (Highlights in Japanese)
 
 ポリジェニック・スコアは、疾患の遺伝的リスクやその他の複雑形質を、遺伝的要因から予測する統計的な手法で、近年注目を集めています。
 
-
 さまざまな遺伝効果のうち、「顕性遺伝（優性遺伝）」「潜性遺伝（劣性遺伝）」など、加法的な効果のみで説明できない遺伝様式があり、ABO血液型の例などが知られています。しかし、これらの非加法的な効果は、従来のポリジェニック・スコア研究では考慮されていませんでした。
-
 
 私たちは、統計的ブースティングという機械学習の手法を用いて個人レベルのデータを解析することで、ポリジェニック・スコアに顕性遺伝の効果を組み込むことができるのではないかと考えました。[Rikifumi (Ricky) Ohta](https://twitter.com/ricky_ota) さんが、数理的な証明に基づく効率の良いアルゴリズムとしてGenoBoost を実装しました。
 
-
 UK Biobank のコホートにある12の疾患形質に着目して、疾患の遺伝的リスクの予測性能を評価したところ、私たちの GenoBoost は、既存の7つの手法と比較して、同等やそれ以上の良い精度を示すことがわかりました。
-
 
 得られた予測モデルに含まれる遺伝的変異の効果を解析したことろ、 GenoBoost に選択された40-67%の遺伝子変異が、非ゼロの顕性遺伝の効果を示すことがわかりました。GenoBoost における顕性遺伝の効果を、GWAS の手法によって検出される効果と比較することで、検証しています。
 
-
 GenoBoost を用いることで、同じゲノム領域に含まれる、異なる遺伝様式の遺伝子変異を予測モデルに統合することができます。実際、このような例を論文では紹介しています。
-
 
 GenoBoost を、顕性遺伝の効果をもつ、興味深いゲノム領域を探索するツールとして使うことを提案し、いくつかの具体例を示しました。
 
-
-GenoBoost のソフトウェアや、論文にて報告したポリジェニックコアのモデルは、GitHub や PGS catalog にて公開しています。ぜひ、活用してみてください。
-
-- https://github.com/rickyota/genoboost
-- https://www.pgscatalog.org/publication/PGP000546/
-
+GenoBoost のソフトウェアや、論文にて報告したポリジェニックコアのモデルは、 [GitHub](https://github.com/rickyota/genoboost) や [PGS catalog](https://www.pgscatalog.org/publication/PGP000546/) にて公開しています。ぜひ、活用してみてください。
 
 本論文は、[太田さん](https://twitter.com/ricky_ota) の博士論文の中核をなす研究成果です (ご卒業・学位取得おめでとうございます🎉)
 
-
 最後になりましたが、共同研究の機会をいただいた森下先生、太田さん、鈴木先生、@manoliskellis 先生たち共著者のみなさまに感謝を述べて、解説🧵の結びとします。
 
+<hr/>
