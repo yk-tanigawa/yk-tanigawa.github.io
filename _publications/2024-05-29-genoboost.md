@@ -24,21 +24,29 @@ Polygenic score, a statistical approach to predicting heritable traits and the g
 
 Genetic dominance refers to deviation from linear additive effects of genetic variants on phenotypes. It is observed, for example, in the ABO blood group system. However, they are typically not considered when predicting complex traits with polygenic scores.
 
+![Genetic dominance effects](/files/2024/OhtaTanigawa2024_GenoBoost_dominance.png)
 
-We hypothesized that using individual-level data and statistical boosting would allow us to incorporate non-additive genetic dominance effects directly into PGS.
+We hypothesized that using individual-level data and statistical boosting would allow us to incorporate non-additive genetic dominance effects directly into PGS. [Rikifumi (Ricky) Ohta](https://twitter.com/ricky_ota) developed GenoBoost, an efficient implementation backed with provably optimal scores.
 
-[Rikifumi (Ricky) Ohta](https://twitter.com/ricky_ota) developed GenoBoost, an efficient implementation backed with provably optimal scores.
-
+![Fig. 1: Schematic overview of the study. (a) GenoBoost algorithm fits a polygenic score (PGS) function in an iterative procedure. In each iteration, GenoBoost selects the most informative SNV for trait prediction conditioned on the previously characterized effects and characterizes the genotype-dependent GenoBoost scores, s0, s1, and s2. We considered two types of GenoBoost models: Non-additive GenoBoost and Additive GenoBoost, where an additional constraint among the three GenoBoost scores ensures non-additive genetic dominance effects are always set to zero. GenoBoost iteratively updates its model using two hyperparameters: learning rate γ (0 < γ ≤ 1) and the number of iterations. We optimized the hyperparameters based on the predictive performance in the validation set using five-fold cross-validation.](/files/2024/OhtaTanigawa2024_GenoBoost_Fig1a.png)
+![Additive and non-additive GenoBoost algorithm.](/files/2024/OhtaTanigawa2024_GenoBoost_Alg.png)
 
 Applying to a panel of 12 disease outcomes in UK Biobank, we demonstrate the competitive predictive performance of GenoBoost against seven published methods.
 
+![Fig. 2: Benchmarking GenoBoost across twelve disease outcomes in UK Biobank. (a) a Predictive performance in covariate-adjusted pseudo-R2 across eight PGS methods (i-viii, including GenoBoost) and twelve disease outcomes in UK Biobank. C+T: clumping and thresholding.
+](/files/2024/OhtaTanigawa2024_GenoBoost_Fig2a.png)
 
 Looking into genetic variant effects captured in the predictive models, we found that GenoBoost incorporates non-zero dominance effects in 40-67% of variants. We validated the genetic dominance effects in GenoBoost using an orthogonal approach based on GWAS.
 
+![Fig. 3: GenoBoost scores allow for the inference of the mode of inheritance. (a) For the genetic variants selected in Non-additive GenoBoost models across the twelve disease outcomes in UK Biobank (x-axis), the fractions of the inferred inheritance mode are shown (y-axis). (b) We compared the inferred inheritance mode from GenoBoost (y-axis) and the ones from GWAS summary statistics (x-axis) and showed the results as a colored confusion matrix. Add: additive. Dom: dominant. Rec: recessive.](/files/2024/OhtaTanigawa2024_GenoBoost_Fig3ab.png)
 
 In some genomic loci, GenoBoost selects genetic variants with different modes of genetic inheritance, highlighting the ability of GenoBoost to integrate additive and non-additive genetic dominance effects.
 
+![Fig. 3: GenoBoost scores allow for the inference of the mode of inheritance. (c, d) Comparison of GenoBoost scores and GWAS p-values, focusing on psoriasis and genetic variants in an intergenic region in chromosome 11. For each genetic variant selected in the Non-additive GenoBoost model within the 3 Mbp window (x-axis), we show the predictive utility of the variant in Non-additive GenoBoost (Supplementary Methods) (c). We also show the statistical significance from GWAS for the variant under additive, recessive, and heterozygous-only regression models (d). The statistical significance is the nominal p-values of the slope of the logistic regression from two-sided tests using up to n=215,768 samples. Four genetic variants with the largest predictive utilities in GenoBoost are highlighted and colored based on the inferred mode of genetic inheritance.](/files/2024/OhtaTanigawa2024_GenoBoost_Fig3cd.png)
+
 We also propose GenoBoost as a tool for prioritizing genomic loci with non-additive genetic dominance effects and highlight some examples.
+
+![Fig. 4: Prioritizing genetic loci previously not reported in the literature with GenoBoost. Three and five genetic variants selected for rheumatoid arthritis and psoriasis in GenoBoost are shown as illustrative examples, where GenoBoost selected the genetic variants with inferred non-additive genetic dominance effects, and their closest genes (within the 1Mbp window) were not reported in the GWAS catalog. The line plots in the rightmost column represent the log odds ratio (x-axis) of the sample counts of heterozygous and homozygous minor alleles relative to homozygous major alleles. The error bars represent the 95% confidence intervals for Wald’s statistics with n=215,768 samples. The three dots connected by a line (y-axis) represent the allelic dosage of 0, 1, and 2 from the top to bottom. The color represents the inferred mode of genetic inheritance by GenoBoost. Source data are provided as a Source Data file.](/files/2024/OhtaTanigawa2024_GenoBoost_Fig4.png)
 
 The research is conducted as an integral part of Ricky’s @ricky_ota Ph.D. thesis, which he recently defended and got the degree 🎉. Thank you, Prof. Morishita, [Rikifumi (Ricky) Ohta](https://twitter.com/ricky_ota), Dr. Suzuki, and [Manolis](https://twitter.com/manoliskellis), for the wonderful collaborative opportunity.
 
