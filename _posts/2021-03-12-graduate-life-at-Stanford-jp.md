@@ -36,6 +36,10 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
   - また、2021年7月の説明会への参加にあわせて、ニュースレター（ブログ）へ記事を寄稿予定です。
   - [2017年12月](https://gakuiryugaku.net/seminar/691)の資料("20171225 留学説明会 6. 出願準備")には，出願準備のタイムラインなどの情報が掲載されています。
   - 英語の勉強法については、[米国大学院学生会ニュースレター（ブログ）の過去記事](https://gakuiryugaku.net/blog/%e3%83%90%e3%83%83%e3%82%af%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc/)に、いくつか英語の勉強法が出ています。参考にしてみてください。
+- [XPLANE](https://xplane.jp/)
+  - 大学院留学支援コミュニティ
+- [United Japanese researchers Around the world (UJA)](https://www.uja-info.org/)
+  - 海外の日本人研究者によるコミュニティ
 - [HHMI, Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
   - "Addendum: Writing a Letter of Recommendation" のセクションに、推薦状に関する情報がまとまっています。アメリカの研究者がどのように推薦状を書いているかが窺い知れて興味深いです。
 - [Stanford's Plus Five (joint effort contributed by BEAM, Stanford Career Education and the Stanford Alumni Association)](https://plusfive.sites.stanford.edu/)
