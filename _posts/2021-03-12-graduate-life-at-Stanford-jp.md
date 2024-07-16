@@ -24,9 +24,10 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
 - 私がトレーニングを受けた、[Biomedical Informaticsプログラム](https://med.stanford.edu/bmi/)のカリキュラムについては、下記のウェブサイトが参考になるかと思います。
   - [卒業に必要な授業科目などカリキュラム便覧](https://exploredegrees.stanford.edu/schoolofmedicine/biomedicalinformatics/)
   - [授業のシラバス検索のためのウェブサイト](https://explorecourses.stanford.edu/)
-  - 入学後に学生が参照する[Student Handbook](https://med.stanford.edu/bmi/biomedical-informatics-students/handbook.html)にもカリキュラムに関する情報が載っています
+  - 入学後に学生が参照する[Student Handbook](https://dbds.stanford.edu/for-current-students/#student-handbook)にもカリキュラムに関する情報が載っています
   - その他、Stanford 大学での大学院生活で役立った学内リソースは、[Useful Links](/posts/links/)のページにもいくつか掲載しています。
 - 大学院での研究については，[船井情報科学振興財団の留学報告書](/posts/2020/06/FOS/)や，[和文総説](/publication/2021-04-23-JSBi-review)などで取り上げています。
+  - 留学報告書には、「研究成果」のようなトピックが取り上げられることが多いかと思く、トラブルシューティングのような記事は比較的少ないように感じました。このような考えに基づくエッセイを、以前執筆し、[米国大学院学生会のニュースレター・ブログに掲載していただいています](https://gakuiryugaku.net/seminar/4557)。
 
 ## 大学院留学の準備について
 
@@ -35,6 +36,10 @@ This post is written in Japanese. Yosuke explains his life at Stanford.
   - また、2021年7月の説明会への参加にあわせて、ニュースレター（ブログ）へ記事を寄稿予定です。
   - [2017年12月](https://gakuiryugaku.net/seminar/691)の資料("20171225 留学説明会 6. 出願準備")には，出願準備のタイムラインなどの情報が掲載されています。
   - 英語の勉強法については、[米国大学院学生会ニュースレター（ブログ）の過去記事](https://gakuiryugaku.net/blog/%e3%83%90%e3%83%83%e3%82%af%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc/)に、いくつか英語の勉強法が出ています。参考にしてみてください。
+- [XPLANE](https://xplane.jp/)
+  - 大学院留学支援コミュニティ
+- [United Japanese researchers Around the world (UJA)](https://www.uja-info.org/)
+  - 海外の日本人研究者によるコミュニティ
 - [HHMI, Making the Right Moves](https://www.hhmi.org/science-education/programs/making-right-moves)
   - "Addendum: Writing a Letter of Recommendation" のセクションに、推薦状に関する情報がまとまっています。アメリカの研究者がどのように推薦状を書いているかが窺い知れて興味深いです。
 - [Stanford's Plus Five (joint effort contributed by BEAM, Stanford Career Education and the Stanford Alumni Association)](https://plusfive.sites.stanford.edu/)
