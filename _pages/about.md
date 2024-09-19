@@ -38,6 +38,7 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## Upcoming presentations
 
+- 2024/9/19: Yosuke will present at [Southern California Symposium on Polygenic Risk Scores](/talks/2024-09-19-SoCalPRS).
 - 2024/11/6: Yosuke will present at the American Society of Human Genetics 2024 Annual Meeting.
   - 11:30-45 am, Room 505: Session 24 - The Sex-Specific Landscape: Variation, Regulation, and Expression
 
