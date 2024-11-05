@@ -14,6 +14,8 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+**Yosuke is in [the academic job market in the 2024/25 cycle](/posts/2024/11/2024_academic_job_market).**
+
 Here is a link to the pdf file shown below: [`CV_ytanigawa.pdf`](https://docs.google.com/file/d/1I20FnZZEuHHqH9pAW6pi2qrs-H372rHM/view)
 
 <iframe src="https://docs.google.com/file/d/1I20FnZZEuHHqH9pAW6pi2qrs-H372rHM/preview" width="100%" height="800em" style="border:none;"></iframe>
