@@ -1,5 +1,5 @@
 ---
-title: 'Yosuke is in the academic job market in the 2024/25 cycle.'
+title: 'Yosuke is in the academic job market in the 2024/25 cycle'
 date: 2024-11-01
 permalink: /posts/2024/11/2024_academic_job_market
 tags:
@@ -20,7 +20,7 @@ Here is a 60-second elevator pitch of my research interests, which I made as a p
 
 Here is a link to the pdf file shown below: [`CV_ytanigawa.pdf`](https://docs.google.com/file/d/1I20FnZZEuHHqH9pAW6pi2qrs-H372rHM/view)
 
-<iframe src="https://docs.google.com/file/d/1I20FnZZEuHHqH9pAW6pi2qrs-H372rHM/preview" width="100%" height="300em" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/file/d/1I20FnZZEuHHqH9pAW6pi2qrs-H372rHM/preview" width="100%" height="500em" style="border:none;"></iframe>
 
 ## Contact
 
