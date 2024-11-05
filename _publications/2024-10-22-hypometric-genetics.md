@@ -2,7 +2,7 @@
 title: "Hypometric genetics: Improved power in genetic discovery by incorporating quality control flags"
 collection: publications
 permalink: /publication/2024-10-22-hypometric-genetics
-excerpt: "We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. We show a joint analysis of BLQ and quantitative traits leads to improved power in genetic discovery, highlighting the value of considering population-based samples and phenotypic extremes in genetic studies"
+excerpt: 'We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. We show a joint analysis of BLQ and quantitative traits leads to improved power in genetic discovery, highlighting the value of considering population-based samples and phenotypic extremes in genetic studies'
 date: 2024-10-22
 venue: 'The American Journal of Human Genetics'
 excerpt_image: '/files/2024/TanigawaKellis2024_hMG_graphical_abstract.png'
