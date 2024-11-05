@@ -6,9 +6,7 @@ tags:
 
 ---
 
-## Academic job market 2024/25
-
-I'm in the **academic job market** in the 2024/25 cycle.
+I'm in the **academic job market** in the 2024/25 cycle. Please reach out if you see a potential alignment.
 
 ## Research interests
 
@@ -16,7 +14,7 @@ I am interested in **disease heterogeneity**, i.e. interindividual differences i
 
 Here is a 60-second elevator pitch of my research interests, which I made as a part of [the Fall 2024 EECS Academic Job Search Seminar at MIT](https://courses.csail.mit.edu/6.9970/).
 
-<iframe width="100%" src="https://www.youtube.com/embed/OfUliq9PhG8?si=zCwFo1V8Dx4I-v-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfUliq9PhG8?si=zCwFo1V8Dx4I-v-Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Curriculum Vitae
 
