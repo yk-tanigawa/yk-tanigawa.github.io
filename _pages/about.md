@@ -38,12 +38,15 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## Upcoming presentations
 
-- 2024/9/19: Yosuke will present at [Southern California Symposium on Polygenic Risk Scores](/talks/2024-09-19-SoCalPRS).
+- 2024/12/17: Yosuke will present at the [Program in Quantitative Genomics Working Group](https://www.hsph.harvard.edu/pqg/pqg-working-group-series/), Harvard TH Chan School of Public Health.
+- 2024/11/25: Yosuke will present at the [Machine Learning Tea (ML Tea) talk](https://projects.csail.mit.edu/ml-tea/) at MIT CSAIL.
 - 2024/11/6: Yosuke will present at the American Society of Human Genetics 2024 Annual Meeting.
   - 11:30-45 am, Room 505: Session 24 - The Sex-Specific Landscape: Variation, Regulation, and Expression
 
 ## News
 
+- 2024/10/22: **New Publication**. Tanigawa and Kellis. "[Hypometric genetics: Improved power in genetic discovery by incorporating quality control flags](/publication/2024-10-22-hMG)." We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. We show a joint analysis of BLQ and quantitative traits leads to improved power in genetic discovery, highlighting the value of considering population-based samples and phenotypic extremes in genetic studies. Links to [Article full text](https://authors.elsevier.com/a/1jzoqgeXA9Lf) and [MIT CSAIL News](https://www.csail.mit.edu/news/method-goes-below-limit-enhance-genetic-discovery).
+- 2024/9/19: Yosuke will presented at [Southern California Symposium on Polygenic Risk Scores](/talks/2024-09-19-SoCalPRS).
 - 2024/5/29: **New Publication**. Ohta\*, Tanigawa\* et al. "[A polygenic score method boosted by non-additive models](/publication/2024-05-29-genoboost)." We developed GenoBoost, a polygenic score modeling approach, incorporating both additive and non-additive genetic dominance effects. Links to [Article full text](https://doi.org/10.1038/s41467-024-48654-x) and [MIT CSAIL News](https://www.csail.mit.edu/news/unlocking-new-predictive-powers-personalized-genetic-risk-forecasts).
 - 2024/5/18: Yosuke [presented at Boston Japanese Researchers Forum (in Japanese)](/talks/2024-05-18-BJRF).
 - 2024/5/1: Yosuke [presented at the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](/talks/2024-05-01-STATGEN2024)
