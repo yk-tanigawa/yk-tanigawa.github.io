@@ -7,8 +7,7 @@ date: 2024-10-22
 venue: 'The American Journal of Human Genetics'
 excerpt_image: '/files/2024/TanigawaKellis2024_hMG_graphical_abstract.png'
 paperurl: 'https://doi.org/10.1016/j.ajhg.2024.09.008'
-fulltext: 'https://authors.elsevier.com/a/1jzoqgeXA9Lf'
-citation: "Tanigawa and Kellis. Hypometric genetics: Improved power in genetic discovery by incorporating quality control flags. The American Journal of Human Genetics. 111 (2024)."
+citation: "Tanigawa and Kellis. Hypometric genetics: Improved power in genetic discovery by incorporating quality control flags. The American Journal of Human Genetics. 111(11):2478-2493 (2024)."
 ---
 
 We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. We show a joint analysis of BLQ and quantitative traits leads to improved power in genetic discovery, highlighting the value of considering population-based samples and phenotypic extremes in genetic studies. Links to [Article full text](https://authors.elsevier.com/a/1jzoqgeXA9Lf) and [MIT CSAIL News](https://www.csail.mit.edu/news/method-goes-below-limit-enhance-genetic-discovery).
