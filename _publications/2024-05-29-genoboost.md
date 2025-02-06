@@ -5,7 +5,7 @@ permalink: /publication/2024-05-29-genoboost
 excerpt: "We developed GenoBoost, a polygenic score modeling approach, incorporating both additive and non-additive genetic dominance effects."
 date: 2024-05-29
 venue: 'Nature Communications'
-excerpt_image: ''
+excerpt_image: '/files/2024/OhtaTanigawa2024_GenoBoost_dominance.png'
 paperurl: 'https://doi.org/10.1038/s41467-024-48654-x'
 citation: "Ohta*, Tanigawa*, Suzuki, Kellis, and Morishita. A polygenic score method boosted by non-additive models. Nature Communications 15, 4433 (2024)."
 ---
@@ -55,7 +55,7 @@ The software and PGS score models are publicly available on [GitHub](https://git
 
 ## Links
 
-- [Ohta*, Tanigawa*, Suzuki, Kellis, and Morishita. A polygenic score method boosted by non-additive models. Nature Communications 15, 4433 (2024).](https://doi.org/10.1038/s41467-024-48654-x)
+- [Ohta\*, Tanigawa\*, Suzuki, Kellis, and Morishita. A polygenic score method boosted by non-additive models. Nature Communications 15, 4433 (2024).](https://doi.org/10.1038/s41467-024-48654-x)
 - [MIT CSAIL News article](https://www.csail.mit.edu/news/unlocking-new-predictive-powers-personalized-genetic-risk-forecasts)
 - Twitter/X summary:
   - [Twitter/X summary by Yosuke](https://twitter.com/yk_tani/status/1802553781235634411)
