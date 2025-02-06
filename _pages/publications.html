@@ -15,11 +15,11 @@ author_profile: true
      <li><a href="#highlights">Select publications</a></li>
   </ul>
   <ul>
-     <li><a href="#preprints">Preprints</a></li>
-  </ul>
-  <ul>
      <li><a href="#publications">Peer-reviewed publications</a></li>
   </ul>
+  <ul>
+    <li><a href="#preprints">Preprints</a></li>
+ </ul>
 </div>
 
 {% if page.author and site.data.authors[page.author] %}
@@ -51,6 +51,19 @@ author_profile: true
 
 <hr/>
 
+<a name="publications"></a>
+
+<h1>Peer-reviewed publications</h1>
+
+{% for post in site.publications reversed %}
+  {% if post.permalink contains 'preprint' %}
+  {% else %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<hr/>
+
 <a name="preprints"></a>
 
 <h1>Preprints</h1>
@@ -65,19 +78,6 @@ We welcome comments and feedback you may have.
     {% else %}
       {% include archive-single.html %}
     {% endif %}
-  {% endif %}
-{% endfor %}
-
-<hr/>
-
-<a name="publications"></a>
-
-<h1>Peer-reviewed publications</h1>
-
-{% for post in site.publications reversed %}
-  {% if post.permalink contains 'preprint' %}
-  {% else %}
-      {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
