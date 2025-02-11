@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yosuke Tanigawa is a Postdoctoral Associate at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)).
+Yosuke Tanigawa is a Research Scientist at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)).
 
 Yosuke works at the intersection of **statistical genetics** and **computational biology**. Specifically, he develops **computational and statistical methods** to dissect **disease heterogeneity** and apply them in systematic analyses of large-scale phenotypic, genetic, epigenomic, functional genomic, and single-cell genomic datasets.
 
