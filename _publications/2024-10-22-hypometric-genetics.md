@@ -11,7 +11,7 @@ paperurl: 'https://doi.org/10.1016/j.ajhg.2024.09.008'
 citation: "Tanigawa and Kellis. Hypometric genetics: Improved power in genetic discovery by incorporating quality control flags. The American Journal of Human Genetics. 111(11):2478-2493 (2024)."
 ---
 
-We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. We show a joint analysis of BLQ and quantitative traits leads to improved power in genetic discovery, highlighting the value of considering population-based samples and phenotypic extremes in genetic studies. Links to [Article full text](https://authors.elsevier.com/a/1jzoqgeXA9Lf) and [MIT CSAIL News](https://www.csail.mit.edu/news/method-goes-below-limit-enhance-genetic-discovery).
+We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. We show a joint analysis of BLQ and quantitative traits leads to improved power in genetic discovery, highlighting the value of considering population-based samples and phenotypic extremes in genetic studies. Links to [Article full text](https://doi.org/10.1016/j.ajhg.2024.09.008) and [MIT CSAIL News](https://www.csail.mit.edu/news/method-goes-below-limit-enhance-genetic-discovery).
 
 ## Abstract
 
@@ -55,7 +55,7 @@ The dataset is also available in [OSFramework](https://doi.org/10.17605/OSF.IO/C
 
 ## Links
 
-- [Tanigawa and Kellis. Am J Hum Genet (2024)](https://authors.elsevier.com/a/1jzoqgeXA9Lf)
+- [Tanigawa and Kellis. Am J Hum Genet (2024)](https://doi.org/10.1016/j.ajhg.2024.09.008)
 - [MIT CSAIL News article](https://www.csail.mit.edu/news/method-goes-below-limit-enhance-genetic-discovery)
 - Twitter/X summary:
   - [Twitter/X summary by Yosuke](https://twitter.com/yk_tani/status/1848750077679997268)
