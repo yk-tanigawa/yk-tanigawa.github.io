@@ -7,7 +7,7 @@ excerpt: 'In this study led by Johanne M. Justesen in the Rivas lab, we investig
 date: 2025-02-03
 venue: 'medRxiv'
 paperurl: 'https://doi.org/10.1101/2025.02.01.25321518'
-citation: 'J. M. Justesen, G. R. Venkataraman, Y. Tanigawa, R. Li, T. Hastie, R. Tibshirani, J. W. Knowles, M. A. Rivas., Genetics of cardiometabolic disease progression. medRxiv, 2025.02.01.25321518 (2025).'
+citation: 'J. M. Justesen, G. R. Venkataraman, Y. Tanigawa, R. Li, T. Hastie, R. Tibshirani, J. W. Knowles, M. A. Rivas, Genetics of cardiometabolic disease progression. medRxiv, 2025.02.01.25321518 (2025).'
 ---
 <!-- ispublishedpreprint: "True" -->
 
