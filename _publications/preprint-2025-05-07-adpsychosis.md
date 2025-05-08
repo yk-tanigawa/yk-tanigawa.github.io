@@ -3,7 +3,7 @@ title: "[Preprint] Cellular and Regional Vulnerability Shapes the Molecular Land
 collection: publications
 permalink: /publication/preprint-2025-05-07-adpsychosis
 excerpt_image: ''
-excerpt: 'In this study jointly led by Matt Victor and Na Sun, we systematically dissect the molecular basis of psychosis in Alzheimer's disease at single-cell resolution, revealing cellular and regional vulnerabilities associated with psychosis.'
+excerpt: "In this study jointly led by Matt Victor and Na Sun, we systematically dissect the molecular basis of psychosis in Alzheimer's disease at single-cell resolution, revealing cellular and regional vulnerabilities associated with psychosis."
 date: 2025-05-07
 venue: 'bioRxiv'
 paperurl: 'https://doi.org/10.1101/2025.04.30.651435'
