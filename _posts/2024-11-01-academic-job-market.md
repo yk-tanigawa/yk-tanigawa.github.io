@@ -6,7 +6,7 @@ tags:
 
 ---
 
-I'm in the **academic job market** in the 2024/25 cycle. Please reach out if you see a potential alignment.
+Yosuke was in the academic job market in the 2024/25 cycle. I am grateful for the support I received during the critical time of transition.
 
 ## Research interests
 
