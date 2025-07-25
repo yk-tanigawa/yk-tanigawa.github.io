@@ -1,5 +1,5 @@
-# main links links
-main:    
+# main links
+main:
   - title: "CV"
     url: /cv/
 
@@ -7,22 +7,22 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
 
   - title: "Resources"
     url: /resources/
 
   - title: "日本語"
     url: /about_jp/
-    
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
   # - title: "Guide"
   #   url: /markdown/

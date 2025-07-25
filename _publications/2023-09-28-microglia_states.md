@@ -10,7 +10,7 @@ paperurl: 'https://doi.org/10.1016/j.cell.2023.08.037'
 citation: "N. Sun*, M. B. Victor*, Y. P. Park, X. Xiong, A. N. Scannail, N. Leary, S. Prosper, S. Viswanathan, X. Luna, C. A. Boix, B. T. James, Y. Tanigawa, K. Galani, H. Mathys, X. Jiang, A. P. Ng, D. A. Bennett, L.-H. Tsai, M. Kellis. Human microglial state dynamics in Alzheimer's disease progression. Cell 186(20), 4386-4403 (2023)."
 ---
 
-It's a beutiful study co-led by [Na Sun](https://twitter.com/nasun818) and [Matheus Victor](https://twitter.com/MatBVictor) in the Tsai and Kellis labs.
+It's a beautiful study co-led by [Na Sun](https://twitter.com/nasun818) and [Matheus Victor](https://twitter.com/MatBVictor) in the Tsai and Kellis labs.
 
 ## Abstract
 

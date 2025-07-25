@@ -26,17 +26,17 @@ Omics profiling coupled with human genetic studies provides excellent opportunit
 ![Laboratory measures often include quality control flags, such as below-the-limit-of-quantification (BLQ)](/files/2024/TanigawaKellis2024_hMG_2.png)
 
 We hypothesize that extremely low measurement values tagged with BLQ flags are influenced by a combination of technical and biological factors.
-We call those measurements ‘hypometric’ and set to investigate the genetic basis using metabolomics profiles in UK Biobank.
+We call those measurements ‘hypometric’ and set out to investigate their genetic basis using metabolomics profiles in UK Biobank.
 
 We revealed that the binarized traits representing the presence or absence of BLQ flags have a genetic basis. One may conduct genetic analyses with the binarized BLQ traits, including common and rare association mapping, polygenic score modeling, and gene prioritization.
 
 ![The binarized traits representing the presence or absence of BLQ flags have a genetic basis](/files/2024/TanigawaKellis2024_hMG_3.png)
 
-On the common variants, genetic associations are similar between the binarized BLQ traits and the corresponding quantitative traits. Polygenic scores trained only on the binarized BLQ traits predict quantitative traits at ~91% accuracy.
+For common variants, genetic associations are similar between the binarized BLQ traits and the corresponding quantitative traits. Polygenic scores trained only on the binarized BLQ traits predict quantitative traits at ~91% accuracy.
 
 ![The shared genetic basis between BLQ and quantitative traits allows polygenic prediction from BLQ traits.](/files/2024/TanigawaKellis2024_hMG_4.png)
 
-On the rare variants, metabolite-lowering effects are enriched for genetic associations in BLQ traits, highlighting the utilities in analyzing individuals flagged with BLQ traits: they carry extremely low concentrations of metabolites, i.e., phenotypic extremes.
+For rare variants, metabolite-lowering effects are enriched for genetic associations in BLQ traits, highlighting the utility of analyzing individuals flagged with BLQ traits: they carry extremely low concentrations of metabolites, i.e., phenotypic extremes.
 
 ![Rare variant associations are enriched for metabolite-lowering effects in BLQ traits.](/files/2024/TanigawaKellis2024_hMG_5.png)
 

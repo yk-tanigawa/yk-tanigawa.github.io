@@ -47,14 +47,14 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 - 2025/2/3: **New Preprint**. Justesen et al. "[Genetics of cardiometabolic disease progression](/publication/preprint-2025-02-03-cardiometabolic-progression)." The colleagues in the Rivas Lab investigate the genetic basis of cardiometabolic disease progression in the UK Biobank. The study shows that the genetic basis of disease progression provides opportunities to stratify individuals, offering substantial implications for guiding treatment decisions.
 - 2024/10/22: **New Publication**. Tanigawa and Kellis. "[Hypometric genetics: Improved power in genetic discovery by incorporating quality control flags](/publication/2024-10-22-hypometric-genetics)." We introduce "hypometric genetics," an approach to investigate the genetic basis of binarized traits representing the presence of below-the-limit-of-quantification (BLQ) quality control indicators. Links to [Article full text](https://doi.org/10.1016/j.ajhg.2024.09.008) and [MIT CSAIL News](https://www.csail.mit.edu/news/method-goes-below-limit-enhance-genetic-discovery).
-- 2024/9/19: Yosuke will presented at [Southern California Symposium on Polygenic Risk Scores](/talks/2024-09-19-SoCalPRS).
+- 2024/9/19: Yosuke presented at [Southern California Symposium on Polygenic Risk Scores](/talks/2024-09-19-SoCalPRS).
 - 2024/5/29: **New Publication**. Ohta\*, Tanigawa\* et al. "[A polygenic score method boosted by non-additive models](/publication/2024-05-29-genoboost)." We developed GenoBoost, a polygenic score modeling approach, incorporating both additive and non-additive genetic dominance effects. Links to [Article full text](https://doi.org/10.1038/s41467-024-48654-x) and [MIT CSAIL News](https://www.csail.mit.edu/news/unlocking-new-predictive-powers-personalized-genetic-risk-forecasts).
 - 2024/5/18: Yosuke [presented at Boston Japanese Researchers Forum (in Japanese)](/talks/2024-05-18-BJRF).
 - 2024/5/1: Yosuke [presented at the Conference on Statistics in Genomics and Genetics (STATGEN 2024)](/talks/2024-05-01-STATGEN2024)
 - 2024/4/29: Yosuke [presented at RECOMB-Genetics 2024](/talks/2024-04-29-RECOMB).
 - 2024/4/16: Yosuke [presented](/talks/2024-04-16-Princeton) at Biosoc seminar at Princeton University.
 - 2024/3/1: Yosuke [presented](/talks/2024-03-01-IBSDR70) at the [70th Biometric Colloquium -- Navigating the Sea of Data: Biometrics Guides the Way -- at Lübeck](https://www.biometrische-gesellschaft.de/en/events/biometric-colloquia/70th-biometrical-colloquium-2024-in-luebeck.html).
-- 2024/2/26: Yosuke will [presented at the Institute for Medical Biometry, Informatics and Epidemiology (IMBIE) at the University of Bonn](/talks/2024-02-26-UBonn).
+- 2024/2/26: Yosuke [presented at the Institute for Medical Biometry, Informatics and Epidemiology (IMBIE) at the University of Bonn](/talks/2024-02-26-UBonn).
 - 2024/1/1: Happy New Year!
 - cf. [News Archive](/tags/#news)
 
@@ -70,7 +70,7 @@ I write blog posts mostly on computing tips, including:
 
 ## Contact
 
-Email is the best contact to reach out to me. If you do not get a reply within two days, please do not hesitate to follow up. Thank you very much for your interest in our work.
+Email is the best way to reach me. If you do not get a reply within two days, please do not hesitate to follow up. Thank you very much for your interest in our work.
 
 - Email: `yosuke <dot> tanigawa [at] alumni <dot> stanford <dot> edu`
-- Social media accounts can be found on the left (for PC) or the "Follow" button on the top (for smartphone).
+- Social media accounts can be found on the left (for PC) or the "Follow" button at the top (for smartphone).

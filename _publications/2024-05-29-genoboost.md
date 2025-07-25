@@ -21,7 +21,7 @@ Dominance heritability in complex traits has received increasing recognition. Ho
 
 Polygenic score, a statistical approach to predicting heritable traits and the genetic liability of disease, has received increasing research interest.
 
-Genetic dominance refers to deviation from linear additive effects of genetic variants on phenotypes. It is observed, for example, in the ABO blood group system. However, they are typically not considered when predicting complex traits with polygenic scores.
+Genetic dominance refers to deviations from linear additive effects of genetic variants on phenotypes. It is observed, for example, in the ABO blood group system. However, they are typically not considered when predicting complex traits with polygenic scores.
 
 ![Genetic dominance effects](/files/2024/OhtaTanigawa2024_GenoBoost_dominance.png)
 
@@ -47,7 +47,7 @@ We also propose GenoBoost as a tool for prioritizing genomic loci with non-addit
 
 ![Fig. 4: Prioritizing genetic loci previously not reported in the literature with GenoBoost. Three and five genetic variants selected for rheumatoid arthritis and psoriasis in GenoBoost are shown as illustrative examples, where GenoBoost selected the genetic variants with inferred non-additive genetic dominance effects, and their closest genes (within the 1Mbp window) were not reported in the GWAS catalog. The line plots in the rightmost column represent the log odds ratio (x-axis) of the sample counts of heterozygous and homozygous minor alleles relative to homozygous major alleles. The error bars represent the 95% confidence intervals for Wald’s statistics with n=215,768 samples. The three dots connected by a line (y-axis) represent the allelic dosage of 0, 1, and 2 from the top to bottom. The color represents the inferred mode of genetic inheritance by GenoBoost. Source data are provided as a Source Data file.](/files/2024/OhtaTanigawa2024_GenoBoost_Fig4.png)
 
-The research is conducted as an integral part of Ricky’s @ricky_ota Ph.D. thesis, which he recently defended and got the degree 🎉. Thank you, Prof. Morishita, [Rikifumi (Ricky) Ohta](https://twitter.com/ricky_ota), Dr. Suzuki, and [Manolis](https://twitter.com/manoliskellis), for the wonderful collaborative opportunity.
+The research was conducted as an integral part of Ricky’s @ricky_ota Ph.D. thesis, which he recently defended and for which he received the degree 🎉. Thank you, Prof. Morishita, [Rikifumi (Ricky) Ohta](https://twitter.com/ricky_ota), Dr. Suzuki, and [Manolis](https://twitter.com/manoliskellis), for the wonderful collaborative opportunity.
 
 ## Data and Code availability
 

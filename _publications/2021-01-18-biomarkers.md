@@ -17,7 +17,7 @@ citation: 'N. Sinnott-Armstrong*, Y. Tanigawa*, D. Amar, N. J. Mars, C. Benner, 
 
 ![biomarkers highlights 1](/files/2021/Biomarkers-Fig1.jpg)
 
-Clinical lab tests are often used in clinical practice to guide diagnoses and treatment plans. Thanks to UK Biobank, we have a fortunate to analyze the genetic basis of those biomarkers and investigate their influence on diseases.
+Clinical lab tests are often used in clinical practice to guide diagnoses and treatment plans. Thanks to UK Biobank, we have the fortune to analyze the genetic basis of those biomarkers and investigate their influence on diseases.
 
 ![biomarkers highlights 2](/files/2021/Biomarkers-Fig2.jpg)
 
@@ -33,7 +33,7 @@ To investigate the influence of the identified genetic basis on diseases, we per
 
 ![biomarkers highlights 5](/files/2021/Biomarkers-Fig5.jpg)
 
-When we compare the predictive performance, multi-PRS showed improvements over single-trait snpnet PRS across many diseases, which we also replicated in FinnGen, suggesting both large case numbers and multi-trait modeling might complementary contribute to improving the power.
+When we compare the predictive performance, multi-PRS showed improvements over single-trait snpnet PRS across many diseases, which we also replicated in FinnGen, suggesting both large case numbers and multi-trait modeling might complementarily contribute to improving the power.
 
 This work was led by Nasa Sinnott-Armstrong, myself, and Dr. Manuel A. Rivas, with many contributions from colleagues.
 We thank UK Biobank, FinnGen, their participants, amazing collaborators, and colleagues, as well as funding.
