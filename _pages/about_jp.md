@@ -10,7 +10,7 @@ redirect_from:
 
 This page is written in my native language, Japanese, and should contain the same information as in the other sections of this website.
 
-はじめまして、マサチューセッツ工科大学 (MIT) コンピュータ科学・人工知能研究所 (CSAIL) にてリサーチ・サイエンティストをしている谷川洋介と申します。現在、[Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生の主宰する [Computational Biology Lab](http://compbio.mit.edu/) に所属しています。
+はじめまして、カリフォルニア大学ロサンゼルス校 (UCLA) バイオエンジニアリング学科にてアシスタント・プロフェッサーをしている谷川洋介と申します。
 
 私の主な研究分野は、遺伝統計学と計算生物学です。とくに、疾患の多様性を解明するための、計算的・統計的な手法の開発、および、その大規模なゲノム・エピゲノムデータセットへの適用による医学・生物学的な研究に興味を持っています。
 
@@ -24,8 +24,9 @@ This page is written in my native language, Japanese, and should contain the sam
 - 2016年9月-2021年6月  スタンフォード大学 [Biomedical Informatics 博士課程](https://med.stanford.edu/bmi.html) 修了 (Ph.D.)
   - 博士論文: "[Large-scale genomic inference of multiple phenotypes](https://purl.stanford.edu/sb956xt8745)", [博士論文公聴会](/talks/2021-05-03-PhD-defense)
   - 指導教員: [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) 先生, [Dr. Gill Bejerano](http://bejerano.stanford.edu/) 先生
-- 2021年7月-  マサチューセッツ工科大学 (MIT) ポスドク研究員
+- 2021年7月-2025年8月  マサチューセッツ工科大学 (MIT) 研究員
   - 指導教官: [Dr. Manolis Kellis](http://web.mit.edu/manoli/) 先生
+- 2025年7月-  カリフォルニア大学ロサンゼルス校 (UCLA) バイオエンジニアリング学科 アシスタント・プロフェッサー
 
 ## 主な研究内容
 
