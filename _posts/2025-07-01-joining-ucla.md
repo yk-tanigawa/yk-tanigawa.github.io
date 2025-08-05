@@ -2,6 +2,7 @@
 title: "Joining UCLA as Assistant Professor in Bioengineering"
 excerpt: "I am excited to announce that I have joined UCLA as an Assistant Professor in the Department of Bioengineering."
 date: 2025-07-01
+permalink: /posts/2025/07/joining-ucla
 categories:
   - News
 tags:
