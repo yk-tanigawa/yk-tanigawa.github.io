@@ -43,7 +43,7 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## News
 
-- 2025/7/1: [Yosuke joined UCLA as an **Assistant Professor in Bioengineering**](/posts/2025/07/joining-ucla/). My research group will address heterogeneity in disease from computational and statistical perspectives. We will explore the mechanistic basis of interindividual differences in disease onset, progression, and treatment response. There is so much we can do to deliver more relevant prevention and treatment.
+- 2025/7/1: [Yosuke joined UCLA as an **Assistant Professor in Bioengineering**](/posts/2025/07/joining-ucla). My research group will address heterogeneity in disease from computational and statistical perspectives. We will explore the mechanistic basis of interindividual differences in disease onset, progression, and treatment response. There is so much we can do to deliver more relevant prevention and treatment.
 - 2025/2/3: **New Preprint**. Justesen et al. "[Genetics of cardiometabolic disease progression](/publication/preprint-2025-02-03-cardiometabolic-progression)." The colleagues in the Rivas Lab investigate the genetic basis of cardiometabolic disease progression in the UK Biobank. The study shows that the genetic basis of disease progression provides opportunities to stratify individuals, offering substantial implications for guiding treatment decisions.
 - 2024/12/17: Yosuke presented at the [Program in Quantitative Genomics Working Group](https://www.hsph.harvard.edu/pqg/pqg-working-group-series/), Harvard TH Chan School of Public Health.
 - 2024/11/25: Yosuke presented at the [Machine Learning Tea (ML Tea) talk](https://projects.csail.mit.edu/ml-tea/) at MIT CSAIL.
