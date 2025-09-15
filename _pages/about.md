@@ -43,8 +43,19 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## News
 
-- 2025/7/1: [Yosuke joined UCLA as an **Assistant Professor in Bioengineering**](/posts/2025/07/joining-ucla). My research group will address heterogeneity in disease from computational and statistical perspectives. We will explore the mechanistic basis of interindividual differences in disease onset, progression, and treatment response. There is so much we can do to deliver more relevant prevention and treatment.
+- 2025/9/4: **New Publication**. Liu\*, Zhang\* et al. "[Single-cell multiregion epigenomic rewiring in Alzheimer’s disease progression and cognitive resilience](/publication/2025-09-04-ad-multiregion-epigenomics)."
+- 2025/8/16: **New Preprint**. Zheng et al. "[Disparities and trends in global representation of human genetics conferences: a 26-year longitudinal study of ASHG and ESHG](/publication/preprint-2025-08-16-genetic-conference)." In this study, led by Hao Zheng, we inferred the demography of presenting authors at major genetic conferences and investigated their longitudinal trends across 26 years.
+- 2025/7/1: [**Yosuke joined UCLA as an Assistant Professor in Bioengineering**](/posts/2025/07/joining-ucla). My research group will address heterogeneity in disease from computational and statistical perspectives. We will explore the mechanistic basis of interindividual differences in disease onset, progression, and treatment response. There is so much we can do to deliver more relevant prevention and treatment.
+- 2025/5/7: **New Preprint**. Victor\*, Sun\* et al. "[Cellular and Regional Vulnerability Shapes the Molecular Landscape of Psychosis in Alzheimers Disease](/publication/preprint-2025-05-07-adpsychosis)." In this study jointly led by Matt Victor and Na Sun, we systematically dissect the molecular basis of psychosis in Alzheimer's disease at single-cell resolution, revealing cellular and regional vulnerabilities associated with psychosis.
+- 2024/3/27: Yosuke presented at the Department of Computer Sciences, Purdue University.
+- 2025/3/18: **New Preprint**. Hou et al. "[Genotype-Epigenome-Phenotype Integration Reveals the Contributions of Peripheral Immune Cells to Bipolar Disorder Pathogenesis, Phenotypic Heterogeneity, and Therapy](/publication/preprint-2025-03-18-bipolar-epigenomics)." In this study led by Lei Hou, we report systematic integration of epigenomics data in bipolar disorders.
+- 2024/3/6: Yosuke received the Best Life Science Pitch Award by the Brave Global Program by Beyond Next Ventures Inc.
+- 2024/2/27: Yosuke presented at the Department of Bioengineering, Henry Samueli School of Engineering, the University of California, Los Angeles.
 - 2025/2/3: **New Preprint**. Justesen et al. "[Genetics of cardiometabolic disease progression](/publication/preprint-2025-02-03-cardiometabolic-progression)." The colleagues in the Rivas Lab investigate the genetic basis of cardiometabolic disease progression in the UK Biobank. The study shows that the genetic basis of disease progression provides opportunities to stratify individuals, offering substantial implications for guiding treatment decisions.
+- 2024/1/31: Yosuke presented at the systems genetics & genomics seminar, Boston University.
+- 2024/1/23: Yosuke presented at the Prosserman Centre for Population Health Research, the Lunenfeld-Tanenbaum Research Institute of Sinai Health.
+- 2024/1/16: Yosuke presented at the Okinawa Institute of Science and Technology.
+- 2024/1/6: Yosuke presented at the Department of Biological Sciences, School of Natural Sciences and Mathematics, the University of Texas at Dallas.
 - 2025/1/1: Happy New Year!
 - cf. [News Archive](/tags/#news)
 
