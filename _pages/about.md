@@ -10,6 +10,8 @@ redirect_from:
 
 Yosuke Tanigawa is an Assistant Professor in the [Department of Bioengineering](https://www.bioeng.ucla.edu/) at [UCLA](https://www.ucla.edu/).
 
+Yosuke is [**presenting and recruiting at ASHG**](/talks/2025-10-14-ASHG2025)!
+
 Yosuke works at the intersection of **statistical genetics** and **computational biology**. Specifically, he develops **computational and statistical methods** to dissect **disease heterogeneity** and apply them in systematic analyses of large-scale phenotypic, genetic, epigenomic, functional genomic, and single-cell genomic datasets.
 
 Before joining UCLA, Yosuke received postdoctoral training at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)) and completed his doctoral training at [Stanford University](https://www.stanford.edu/) (Ph.D. in [Biomedical Informatics](https://med.stanford.edu/bmi.html)), working with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
@@ -38,11 +40,11 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## Upcoming presentations
 
-- 2025/9: Yosuke will present at the [Cell Symposia: Precision genomics for human health](https://www.cell-symposia.com/precision-genomics-2025/index.html)
-- 2025/10: Yosuke will present at at the American Society of Human Genetics 2025 Annual Meeting.
+- 2025/10/14-17: Yosuke will [present at the American Society of Human Genetics 2025 Annual Meeting](/talks/2025-10-14-ASHG2025).
 
 ## News
 
+- 2025/9/17-19: Yosuke presented at the [Cell Symposia: Precision genomics for human health](https://www.cell-symposia.com/precision-genomics-2025/index.html)
 - 2025/9/4: **New Publication**. Liu\*, Zhang\* et al. "[Single-cell multiregion epigenomic rewiring in Alzheimer’s disease progression and cognitive resilience](/publication/2025-09-04-ad-multiregion-epigenomics)."
 - 2025/8/16: **New Preprint**. Zheng et al. "[Disparities and trends in global representation of human genetics conferences: a 26-year longitudinal study of ASHG and ESHG](/publication/preprint-2025-08-16-genetic-conference)." In this study, led by Hao Zheng, we inferred the demography of presenting authors at major genetic conferences and investigated their longitudinal trends across 26 years.
 - 2025/7/1: [**Yosuke joined UCLA as an Assistant Professor in Bioengineering**](/posts/2025/07/joining-ucla). My research group will address heterogeneity in disease from computational and statistical perspectives. We will explore the mechanistic basis of interindividual differences in disease onset, progression, and treatment response. There is so much we can do to deliver more relevant prevention and treatment.
