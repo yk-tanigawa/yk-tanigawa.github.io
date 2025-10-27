@@ -3,7 +3,7 @@ title: "PRISM: systematic ancestry- and tissue-specific integration of genomic a
 excerpt: "I'm excited to present on our recent work on incorporating genomic annotations in polygenic scores at Germany's online symposium on Recent Advances in Polygenic Score Modeling."
 excerpt_image: ""
 collection: "talks"
-type: ""
+type: "Talk"
 permalink: "/talks/2025-10-29-IBS-DR-GMDS"
 venue: "Online"
 date: 2025-10-29
@@ -20,6 +20,12 @@ I'm excited to present at the online symposium on "Recent Advances in Polygenic 
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0T_qo-D2hNF0Ty0wXpqILcB5jul6bPwA3aChroS6y8Sev9EV8MZuYYkHvck-6f4wfph6W3UBgiQu0/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5rat2Ov-GxG-uO6MEzFcqhDPfwf3M_Blj6pVDKAwijVaFiiVQ7l9XX2ur-DPz__jv-otQ_w8Y0QuW/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Email: `tanigawa [at] ucla <dot> edu`
+Contact: `tanigawa [at] ucla <dot> edu`.
+
+## The UCLA Tanigawa Lab is recruiting!
+
+We are recruiting. Please see [our announcement](/posts/2025/09/recruiting) and reach out to me if you are interested: `joinus [at] tanigawalab <dot> org`.
+
+[![/files/2025/2025-tanigawa-lab.png](/files/2025/2025-tanigawa-lab.png)](/files/2025/2025-tanigawa-lab.pdf)
