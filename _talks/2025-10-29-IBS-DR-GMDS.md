@@ -24,6 +24,19 @@ I'm excited to present at the online symposium on "Recent Advances in Polygenic 
 
 Contact: `tanigawa [at] ucla <dot> edu`.
 
+## References
+
+- Tian et al. PRISM: systematic ancestry- and tissue-specific integration of genomic annotations enhances
+the transferability of polygenic scores
+  - We will soon provide a link to a preprint.
+- [Tanigawa and Kellis. Power of inclusion: Enhancing polygenic prediction with admixed individuals. Am J Hum Genet. 2023](/publication/2023-10-26-ipgs)
+  - [Paper (full-text)](https://doi.org/10.1016/j.ajhg.2023.09.013)
+  - [iPGS data browser](https://ipgs.mit.edu)
+  - [MIT News](https://news.mit.edu/2023/making-genetic-prediction-models-more-inclusive-1026)
+  - [Author interview by the journal (Am J Hum Genet)](https://www.ashg.org/careers-learning/career-interviews/inside-ajhg-with-yosuke-tanigawa/)
+- [Qian et al. A fast and scalable framework for large-scale and ultrahigh-dimensional sparse regression with application to the UK Biobank. PLoS Gen. 2020.](/publication/2020-10-23-snpnet)
+  - Sparse polygenic scores from individual-level data, BASIL algorithm
+
 ## The UCLA Tanigawa Lab is recruiting!
 
 We are recruiting. Please see [our announcement](/posts/2025/09/recruiting) and reach out to me if you are interested: `joinus [at] tanigawalab <dot> org`.
