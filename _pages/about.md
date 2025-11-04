@@ -10,7 +10,7 @@ redirect_from:
 
 Yosuke Tanigawa is an Assistant Professor in the [Department of Bioengineering](https://www.bioeng.ucla.edu/) at [UCLA](https://www.ucla.edu/).
 
-Yosuke is [**presenting and recruiting at ASHG**](/talks/2025-10-14-ASHG2025)!
+The UCLA Tanigawa Lab is [**recruiting**](/posts/2025/09/recruiting)!
 
 Yosuke works at the intersection of **statistical genetics** and **computational biology**. Specifically, he develops **computational and statistical methods** to dissect **disease heterogeneity** and apply them in systematic analyses of large-scale phenotypic, genetic, epigenomic, functional genomic, and single-cell genomic datasets.
 
@@ -40,11 +40,12 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## Upcoming presentations
 
-- 2025/10/27: Yosuke will [present at UCLA's Frontiers in Bioinformatics seminar](/talks/2025-10-27-UCLA-Bioinformatics).
-- 2025/10/29: Yosuke will [present at online symposium on "Recent Advances in Polygenic Score Modeling"](/talks/2025-10-29-IBS-DR-GMDS) organized by Germany's biostatistics associations and medical genetics associations.
+- 2026/2/25: Yosuke will present at UCLA's Frontiers in Computational Medicine Seminar.
 
 ## News
 
+- 2025/10/29: Yosuke [presented at online symposium on "Recent Advances in Polygenic Score Modeling"](/talks/2025-10-29-IBS-DR-GMDS) organized by Germany's biostatistics associations and medical genetics associations. You may see the slides [here](/talks/2025-10-29-IBS-DR-GMDS).
+- 2025/10/27: Yosuke [presented at UCLA's Frontiers in Bioinformatics seminar](/talks/2025-10-27-UCLA-Bioinformatics). You may see the slides [here](/talks/2025-10-27-UCLA-Bioinformatics).
 - 2025/10/14-17: Yosuke and the team [presented at the American Society of Human Genetics 2025 Annual Meeting](/talks/2025-10-14-ASHG2025).
 - 2025/9/17-19: Yosuke presented at the [Cell Symposia: Precision genomics for human health](https://www.cell-symposia.com/precision-genomics-2025/index.html)
 - 2025/9/4: **New Publication**. Liu\*, Zhang\* et al. "[Single-cell multiregion epigenomic rewiring in Alzheimer’s disease progression and cognitive resilience](/publication/2025-09-04-ad-multiregion-epigenomics)."
