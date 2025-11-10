@@ -17,6 +17,11 @@ redirect_from:
 
 I am excited to present our recent and ongoing efforts on polygenic score modeling at UCLA's Frontiers in Bioinformatics seminar, co-hosted by UCLA Life Sciences, Human Genetics, QCBio, CTSI, & Jonsson Comprehensive Cancer Center.
 
+## Recordings
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/eZgj5lIOpcI?si=6Djx1-iu6FLABe7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The seminar presentation is available on [YouTube](https://www.youtube.com/watch?v=eZgj5lIOpcI).
 
 ## Slides
 
