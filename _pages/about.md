@@ -78,5 +78,7 @@ I write blog posts mostly on computing tips, including:
 
 Email is the best way to reach me. If you do not get a reply within two days, please do not hesitate to follow up. Thank you very much for your interest in our work.
 
-- Email: `yosuke <dot> tanigawa [at] alumni <dot> stanford <dot> edu`
+- Email:
+  - If you are inquiring about [joining the Tanigawa lab](/posts/2025/09/recruiting), please write to `joinus [at] tanigawalab <dot> org`.
+  - For all other inquiries, please send your email to: `tanigawa [at] ucla <dot> edu`.
 - Social media accounts can be found on the left (for PC) or the "Follow" button at the top (for smartphone).

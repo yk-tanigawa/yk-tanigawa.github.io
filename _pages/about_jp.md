@@ -90,5 +90,5 @@ This page is written in my native language, Japanese, and should contain the sam
 下記の電子メールアドレスに、所属とお名前を明らかにして、ご連絡ください。
 2日間以内に返信がない場合は、お手数ですが、再度連絡をいただければ幸いです。
 
-- Email: `yosuke <dot> tanigawa [at] alumni <dot> stanford <dot> edu`
+- Email: `tanigawa [at] ucla <dot> edu`
 - 各種ソーシャルメディアのアカウントは、左側（パソコンの場合）、もしくはページトップの"Follow"ボタン（スマートフォンの場合）に掲載されています。
