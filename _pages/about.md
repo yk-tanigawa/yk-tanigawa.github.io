@@ -44,6 +44,7 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## News
 
+- 2025/11/13: **New Preprint**. Tian, .. Tanigawa. "[PRISM: ancestry-aware integration of tissue-specific genomic annotations enhances the transferability of polygenic scores](/publication/preprint-2025-11-13-PRISM)." In this study, led by Xiaohe (Lucy) Tian, we showed that ancestry-aware integration of tissue-specific genomic annotations enhances the transferability of polygenic scores (PGS).
 - 2025/10/29: Yosuke [presented at online symposium on "Recent Advances in Polygenic Score Modeling"](/talks/2025-10-29-IBS-DR-GMDS) organized by Germany's biostatistics associations and medical genetics associations. You may see the slides [here](/talks/2025-10-29-IBS-DR-GMDS).
 - 2025/10/27: Yosuke [presented at UCLA's Frontiers in Bioinformatics seminar](/talks/2025-10-27-UCLA-Bioinformatics). You may see the slides [here](/talks/2025-10-27-UCLA-Bioinformatics).
 - 2025/10/14-17: Yosuke and the team [presented at the American Society of Human Genetics 2025 Annual Meeting](/talks/2025-10-14-ASHG2025).
