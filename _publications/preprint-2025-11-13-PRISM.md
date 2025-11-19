@@ -27,8 +27,7 @@ Accurate genetic prediction of complex traits has the potential to substantially
 
 Here we propose to integrate three major approaches to address the PGS transferability. We develop PRISM and apply it to 7352 fine-mapped variants from MVP, 414 ENCODE annotations, and 406,659 individuals from the UK Biobank.
 
-![PRISM integrates 3 major approaches 
-to address PGS transferability](/files/2025/TianTanigawa_PRISM_03.jpg)
+![PRISM integrates 3 major approaches to address PGS transferability](/files/2025/TianTanigawa_PRISM_03.jpg)
 
 Using PRISM, we evaluated the effects of ancestry and tissue-specific integration of genomic annotations. We also compared our approach with existing methods and investigated which genomic annotation would be the most informative.
 
@@ -47,7 +46,7 @@ Our benchmarking analysis shows PRISM benefits from three different strategies f
 
 ![PRISM demonstrates outperforming and competitive predictive performance](/files/2025/TianTanigawa_PRISM_07.jpg)
 
-We showed, through feature importance analysis, that having one reference genomic annotation is not sufficient, highlighting the advantage in systematic integration with our approach.
+We showed, through feature importance analysis, that having one reference genomic annotation is not sufficient, highlighting the advantage of systematic integration with our approach.
 
 ![No single feature alone is sufficient to enhance PGS predictive performance in PRISM](/files/2025/TianTanigawa_PRISM_08.jpg)
 
@@ -55,7 +54,7 @@ We confirm that the genetic variants selected from our approach are supported by
 
 ![PRISM enables biological interpretation of selected variants](/files/2025/TianTanigawa_PRISM_09.jpg)
 
-I am grateful for the Lucy and the team for making this work possible. 
+I am grateful to Lucy and the team for making this work possible.
 
 ![PRISM: transfer-learning for integrating biological knowledge in PGS](/files/2025/TianTanigawa_PRISM_10.jpg)
 
