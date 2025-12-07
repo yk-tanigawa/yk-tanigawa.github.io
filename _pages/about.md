@@ -44,6 +44,7 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## News
 
+- 2025/11/19: **New Preprint**. Rao et al. "[sc4D: spatio-temporal single-cell transcriptomics analysis through embedded optimal transport identifies joint glial response to Alzheimer's disease pathology](/publication/preprint-2025-11-19-sc4D)." In this work, we introduce sc4D, a spatio-temporal single-cell transcriptomics framework that jointly models cellular state, organization, and disease progression.
 - 2025/11/13: **New Preprint**. Tian, .. Tanigawa. "[PRISM: ancestry-aware integration of tissue-specific genomic annotations enhances the transferability of polygenic scores](/publication/preprint-2025-11-13-PRISM)." In this study, led by Xiaohe (Lucy) Tian, we showed that ancestry-aware integration of tissue-specific genomic annotations enhances the transferability of polygenic scores (PGS).
 - 2025/10/29: Yosuke [presented at online symposium on "Recent Advances in Polygenic Score Modeling"](/talks/2025-10-29-IBS-DR-GMDS) organized by Germany's biostatistics associations and medical genetics associations. You may see the slides [here](/talks/2025-10-29-IBS-DR-GMDS).
 - 2025/10/27: Yosuke [presented at UCLA's Frontiers in Bioinformatics seminar](/talks/2025-10-27-UCLA-Bioinformatics). You may see the slides [here](/talks/2025-10-27-UCLA-Bioinformatics).
