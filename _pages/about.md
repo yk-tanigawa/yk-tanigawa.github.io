@@ -38,33 +38,10 @@ I work in the following three research areas.
 
 The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational Biology Lab Tour in 2024](https://cap.csail.mit.edu/computational-biology-lab-lab-tour), a research overview tailored for the industry audience.
 
-## Upcoming presentations
-
-- 2026/2/25: Yosuke will present at UCLA's Frontiers in Computational Medicine Seminar.
-
 ## News
 
-- 2025/11/19: **New Preprint**. Rao et al. "[sc4D: spatio-temporal single-cell transcriptomics analysis through embedded optimal transport identifies joint glial response to Alzheimer's disease pathology](/publication/preprint-2025-11-19-sc4D)." In this work, we introduce sc4D, a spatio-temporal single-cell transcriptomics framework that jointly models cellular state, organization, and disease progression.
-- 2025/11/13: **New Preprint**. Tian, .. Tanigawa. "[PRISM: ancestry-aware integration of tissue-specific genomic annotations enhances the transferability of polygenic scores](/publication/preprint-2025-11-13-PRISM)." In this study, led by Xiaohe (Lucy) Tian, we showed that ancestry-aware integration of tissue-specific genomic annotations enhances the transferability of polygenic scores (PGS).
-- 2025/10/29: Yosuke [presented at online symposium on "Recent Advances in Polygenic Score Modeling"](/talks/2025-10-29-IBS-DR-GMDS) organized by Germany's biostatistics associations and medical genetics associations. You may see the slides [here](/talks/2025-10-29-IBS-DR-GMDS).
-- 2025/10/27: Yosuke [presented at UCLA's Frontiers in Bioinformatics seminar](/talks/2025-10-27-UCLA-Bioinformatics). You may see the slides [here](/talks/2025-10-27-UCLA-Bioinformatics).
-- 2025/10/14-17: Yosuke and the team [presented at the American Society of Human Genetics 2025 Annual Meeting](/talks/2025-10-14-ASHG2025).
-- 2025/9/17-19: Yosuke presented at the [Cell Symposia: Precision genomics for human health](https://www.cell-symposia.com/precision-genomics-2025/index.html)
-- 2025/9/4: **New Publication**. Liu\*, Zhang\* et al. "[Single-cell multiregion epigenomic rewiring in Alzheimer’s disease progression and cognitive resilience](/publication/2025-09-04-ad-multiregion-epigenomics)."
-- 2025/8/16: **New Preprint**. Zheng et al. "[Disparities and trends in global representation of human genetics conferences: a 26-year longitudinal study of ASHG and ESHG](/publication/preprint-2025-08-16-genetic-conference)." In this study, led by Hao Zheng, we inferred the demography of presenting authors at major genetic conferences and investigated their longitudinal trends across 26 years.
-- 2025/7/1: [**Yosuke joined UCLA as an Assistant Professor in Bioengineering**](/posts/2025/07/joining-ucla). My research group will address heterogeneity in disease from computational and statistical perspectives. We will explore the mechanistic basis of interindividual differences in disease onset, progression, and treatment response. There is so much we can do to deliver more relevant prevention and treatment.
-- 2025/5/7: **New Preprint**. Victor\*, Sun\* et al. "[Cellular and Regional Vulnerability Shapes the Molecular Landscape of Psychosis in Alzheimer's Disease](/publication/preprint-2025-05-07-adpsychosis)." In this study jointly led by Matt Victor and Na Sun, we systematically dissect the molecular basis of psychosis in Alzheimer's disease at single-cell resolution, revealing cellular and regional vulnerabilities associated with psychosis.
-- 2024/3/27: Yosuke presented at the Department of Computer Sciences, Purdue University.
-- 2025/3/18: **New Preprint**. Hou et al. "[Genotype-Epigenome-Phenotype Integration Reveals the Contributions of Peripheral Immune Cells to Bipolar Disorder Pathogenesis, Phenotypic Heterogeneity, and Therapy](/publication/preprint-2025-03-18-bipolar-epigenomics)." In this study led by Lei Hou, we report systematic integration of epigenomics data in bipolar disorders.
-- 2024/3/6: Yosuke received the Best Life Science Pitch Award by the Brave Global Program by Beyond Next Ventures Inc.
-- 2024/2/27: Yosuke presented at the Department of Bioengineering, Henry Samueli School of Engineering, the University of California, Los Angeles.
-- 2025/2/3: **New Preprint**. Justesen et al. "[Genetics of cardiometabolic disease progression](/publication/preprint-2025-02-03-cardiometabolic-progression)." The colleagues in the Rivas Lab investigate the genetic basis of cardiometabolic disease progression in the UK Biobank. The study shows that the genetic basis of disease progression provides opportunities to stratify individuals, offering substantial implications for guiding treatment decisions.
-- 2024/1/31: Yosuke presented at the systems genetics & genomics seminar, Boston University.
-- 2024/1/23: Yosuke presented at the Prosserman Centre for Population Health Research, the Lunenfeld-Tanenbaum Research Institute of Sinai Health.
-- 2024/1/16: Yosuke presented at the Okinawa Institute of Science and Technology.
-- 2024/1/6: Yosuke presented at the Department of Biological Sciences, School of Natural Sciences and Mathematics, the University of Texas at Dallas.
-- 2025/1/1: Happy New Year!
-- cf. [News Archive](/tags/#news)
+- 2026/2/25: Yosuke will present at UCLA's Frontiers in Computational Medicine Seminar.
+- See [News (2025)](/posts/news/2025) and the [News Archive](/tags/#news).
 
 ## Blog posts
 
