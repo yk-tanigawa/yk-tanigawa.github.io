@@ -14,9 +14,7 @@ Yosuke Tanigawa is an Assistant Professor in the [Department of Bioengineering](
 
 Yosuke works at the intersection of **statistical genetics** and **computational biology**. Specifically, he develops **computational and statistical methods** to dissect **disease heterogeneity** and apply them in systematic analyses of large-scale phenotypic, genetic, epigenomic, functional genomic, and single-cell genomic datasets.
 
-Before joining UCLA, Yosuke received postdoctoral training at [MIT Computational Biology Lab](http://compbio.mit.edu/) (PI: [Dr. Manolis Kellis](https://web.mit.edu/manoli/)) and completed his doctoral training at [Stanford University](https://www.stanford.edu/) (Ph.D. in [Biomedical Informatics](https://med.stanford.edu/bmi.html)), working with [Dr. Manuel Rivas](http://med.stanford.edu/rivaslab/) and [Dr. Gill Bejerano](http://bejerano.stanford.edu/).
-
-Please check his [CV](/cv), the [Publications](/publications) page, and his [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en). He also maintains the [Resources](/resources) page, where you may browse datasets, analysis and visualization scripts, and web applications from his research activities.
+Please check his [CV](/cv), the [Publications](/publications) page, and his [Google Scholar profile](https://scholar.google.com/citations?user=9hVh3nQAAAAJ&hl=en).
 
 ## Research interests
 
@@ -58,6 +56,6 @@ I write blog posts mostly on computing tips, including:
 Email is the best way to reach me. If you do not get a reply within two days, please do not hesitate to follow up. Thank you very much for your interest in our work.
 
 - Email:
-  - If you are inquiring about [joining the Tanigawa lab](/posts/2025/09/recruiting), please write to `joinus [at] tanigawalab <dot> org`.
+  - If you are inquiring about [joining the Tanigawa lab](https://tanigawalab.org/join-us/), please write to `joinus [at] tanigawalab <dot> org`.
   - For all other inquiries, please send your email to: `tanigawa [at] ucla <dot> edu`.
 - Social media accounts can be found on the left (for PC) or the "Follow" button at the top (for smartphone).
