@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yosuke Tanigawa is an Assistant Professor in the [Department of Bioengineering](https://www.bioeng.ucla.edu/) at [UCLA](https://www.ucla.edu/).
+Yosuke Tanigawa is an Assistant Professor in the [Department of Bioengineering](https://www.bioeng.ucla.edu/) at [UCLA](https://www.ucla.edu/), where he leads the [UCLA Tanigawa Lab](https://tanigawalab.org/).
 
-[**The UCLA Tanigawa Lab is recruiting**](/posts/2025/09/recruiting)!
+[**The UCLA Tanigawa Lab is recruiting**](https://tanigawalab.org/join-us/)!
 
 Yosuke works at the intersection of **statistical genetics** and **computational biology**. Specifically, he develops **computational and statistical methods** to dissect **disease heterogeneity** and apply them in systematic analyses of large-scale phenotypic, genetic, epigenomic, functional genomic, and single-cell genomic datasets.
 
