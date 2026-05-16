@@ -38,6 +38,8 @@ The [video above](https://youtu.be/kprOBq1qyNs) is from the [CSAIL Computational
 
 ## News
 
+- 2026/5/15: **New Preprint**. Li et al. "[Dissecting Alzheimer's disease heterogeneity by cross-trait polygenic prediction](/publication/preprint-2026-05-15-ad-cross-trait-pgs)." Led by Bill Li, this work uses phenome-wide PGS libraries in ROSMAP to reveal multiple polygenic dimensions of Alzheimer's disease heterogeneity.
+- 2026/5/15: **New Publication**. Hou et al. "[Genotype epigenome phenotype integration reveals peripheral immune contributions to type I bipolar disorder](/publication/2026-05-15-bipolar-epigenomics)" was published in *Nature Communications*. Led by Lei Hou, the study integrates peripheral immune epigenomics, whole-genome sequencing, and clinical data to identify regulatory mechanisms, patient subtypes, and therapeutic candidates in type I bipolar disorder.
 - 2026/2/25: Yosuke will present at UCLA's Frontiers in Computational Medicine Seminar.
 - See [News (2025)](/posts/news/2025) and the [News Archive](/tags/#news).
 

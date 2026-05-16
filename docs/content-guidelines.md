@@ -14,6 +14,8 @@ For scientific accuracy, the full text in PubMed Central should be treated as a 
 
 For publication front matter and citation strings, check PubMed for the citation details when a PubMed record exists. Use PubMed to confirm the title, author list, journal, year, volume, issue, pages, DOI, PMID, and PMCID before updating or adding a publication entry.
 
+The Tanigawa Lab website at <https://tanigawalab.org/> is a useful sibling site for publication information and narrative. A local copy is often available at `~/repos/tanigawa-lab-ucla/tanigawa-lab-ucla.github.io`. When updating this personal website, publication summaries, body text, and metadata from the lab site may be used as a starting point, then checked against the primary sources above.
+
 ## Naming conventions
 
 Use filenames and slugs that match the actual content. The slug and the contents should have a general match. Avoid generic or leftover template names from upstream AcademicPages such as `2009-10-01-paper-title-number-1.md` or `conference-paper.pdf` when the page is about something else.
